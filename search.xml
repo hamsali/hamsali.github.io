@@ -1,0 +1,1600 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title></title>
+      <link href="/2021/06/12/mo-ban-wen-jian/002-mo-ban-wen-jian-hou/"/>
+      <url>/2021/06/12/mo-ban-wen-jian/002-mo-ban-wen-jian-hou/</url>
+      
+        <content type="html"><![CDATA[<h1 id="页尾链接"><a href="#页尾链接" class="headerlink" title="页尾链接"></a>页尾链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://pkzhidi.top/">博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">博客镜像</a> ，<a href="http://localhost:4000/">本地访问</a> ，<a href="https://www.jieyou123.top/">个人问答社区</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>需要解决的问题</title>
+      <link href="/2021/06/12/998-jian-zhan/bo-ke-shuo-ming-wen-dang/xu-yao-jie-jue-de-wen-ti/"/>
+      <url>/2021/06/12/998-jian-zhan/bo-ke-shuo-ming-wen-dang/xu-yao-jie-jue-de-wen-ti/</url>
+      
+        <content type="html"><![CDATA[<p>主要记录一些问题，后面还需要解决。</p><h1 id="GitHub-已解决"><a href="#GitHub-已解决" class="headerlink" title="GitHub 已解决"></a>GitHub 已解决</h1><p><a href="https://github.com/hamsali">我的github:</a></p><p>网址<a href="https://hamsali.github.io/">https://hamsali.github.io/</a></p><p>个人网址更新问题，需要清除缓存。</p><p>需要清理后上传，上传频率不能太高。更新比较多，容易出问题。</p><p>有时候同步失败，只有同时运行才比较好。</p><span id="more"></span><h1 id="coding-已解决"><a href="#coding-已解决" class="headerlink" title="coding- 已解决"></a>coding- 已解决</h1><p>这个一直都有问题，无法同步。<br>不知道怎么布置。</p><ul><li><input disabled="" type="checkbox"> 布置网页</li><li><input disabled="" type="checkbox"> 添加域名</li><li><input disabled="" type="checkbox"> 静态缓存</li></ul><h1 id="网站问题"><a href="#网站问题" class="headerlink" title="网站问题"></a>网站问题</h1><p>很多模板不好用，修改比较麻烦，容易引发问题。</p><ul><li><input checked="" disabled="" type="checkbox"> 个人头像</li><li><input checked="" disabled="" type="checkbox"> 导航不好看，图标大些。</li><li><input checked="" disabled="" type="checkbox"> 点击反馈</li><li><input disabled="" type="checkbox"> 拖尾</li><li><input disabled="" type="checkbox"> 宠物</li><li><input disabled="" type="checkbox"> 评论</li><li><input checked="" disabled="" type="checkbox"> 网站文章管理</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 未解决的问题 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 问题记录 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/2021/06/12/998-jian-zhan/gitbook/gitbook/"/>
+      <url>/2021/06/12/998-jian-zhan/gitbook/gitbook/</url>
+      
+        <content type="html"><![CDATA[<figure class="highlight ruby"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install gitbook-cli -g</span><br></pre></td></tr></tbody></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/2021/06/12/997-gui-dang/100-ren-gong-zhi-neng/ji-qi-xue-xi/"/>
+      <url>/2021/06/12/997-gui-dang/100-ren-gong-zhi-neng/ji-qi-xue-xi/</url>
+      
+        <content type="html"><![CDATA[<h1 id="机器学习"><a href="#机器学习" class="headerlink" title="机器学习"></a>机器学习</h1><h2 id="常见的学习"><a href="#常见的学习" class="headerlink" title="常见的学习"></a>常见的学习</h2><p>监督学习，无监督学习，半监督学习，强化学习，深度学习</p><h3 id="一些函数"><a href="#一些函数" class="headerlink" title="一些函数"></a>一些函数</h3><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">//点击：</span><br><span class="line">&lt;a href="#test"&gt;Something you should know&lt;/a&gt;</span><br><span class="line">//跳转至：</span><br><span class="line">&lt;a name="test"&gt;用htmla标签实现的锚链接&lt;/a&gt;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">#*1 Anchor Name</span><br><span class="line"></span><br><span class="line">//可以是一级标题、二级、三级···</span><br><span class="line"></span><br><span class="line">[链接的value值，任意名称](#*1 anchor-name)</span><br><span class="line"></span><br></pre></td></tr></tbody></table></figure><span id="more"></span><p>Scikit-learn常用函数</p><p>分类，聚类，回归，降维</p><p><img src="/1606466200981-1606466200982.png" alt="1592955766581"></p><ul><li>了解算法原理</li><li>利用其分析问题</li><li>函数调用，不重复造车</li></ul><h3 id="书籍"><a href="#书籍" class="headerlink" title="书籍"></a>书籍</h3><p><img src="/%5C%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/1606466216833.png" alt="1592955899439"></p><p><img src="/%5C%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/1592955927306-1619591225854.png" alt="1592955927306"></p><p><img src="/2021/06/12/997-gui-dang/100-ren-gong-zhi-neng/ji-qi-xue-xi/1592955939780.png" alt="1592955939780"></p><p><img src="/2021/06/12/997-gui-dang/100-ren-gong-zhi-neng/ji-qi-xue-xi/1592955949508.png" alt="1592955949508"></p><h2 id="sklearn"><a href="#sklearn" class="headerlink" title="sklearn"></a>sklearn</h2><p><img src="/2021/06/12/997-gui-dang/100-ren-gong-zhi-neng/ji-qi-xue-xi/1592955939780.png"></p><p>numpy,scipy,matplotlib,sklearn,PyMySQL,Sklearn,TensorFlow</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/2021/06/12/003-qing-shang/wei-ren-chu-shi/"/>
+      <url>/2021/06/12/003-qing-shang/wei-ren-chu-shi/</url>
+      
+        <content type="html"><![CDATA[<p>极简经验</p><ul><li>稳重，多思，慎言。</li><li>根据环境做事</li></ul><p>复杂衍生,帮人不必尽心，够用就行。多提升自己，而不是烂好人。<br>多让自己强大。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>科研流程</title>
+      <link href="/2021/06/11/002-ren-sheng-si-kao/zhi-shi-ti-xi/ke-yan-liu-cheng/"/>
+      <url>/2021/06/11/002-ren-sheng-si-kao/zhi-shi-ti-xi/ke-yan-liu-cheng/</url>
+      
+        <content type="html"><![CDATA[<p>研究生课程，试验进度，科技树与继承。</p><p>想法，文献，实验探索。<br>实验检测，论文书写，投稿，返稿。</p><p>大论文书写</p><p>技能与面试，立足发展的技能，面试技巧。<br>知识体系。</p><p>四级备考，二建备考，编程与网站。</p><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://pkzhidi.top/">个人博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">博客镜像</a> ，<a href="http://localhost:4000/">本地访问</a> </p><p><a href="https://www.jieyou123.top/">个人问答社区</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 科研 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 科研 </tag>
+            
+            <tag> 上学 </tag>
+            
+            <tag> 研二 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>旅行</title>
+      <link href="/2021/06/07/005-sheng-huo/nan-jing-lu-xing/"/>
+      <url>/2021/06/07/005-sheng-huo/nan-jing-lu-xing/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/2021/06/07/005-sheng-huo/nan-jing-lu-xing/suxiu.gif" alt="苏绣"><br><img src="/2021/06/07/005-sheng-huo/nan-jing-lu-xing/ec963b02a177b3d5c2de4360cf4be3a.jpg" alt="ec963b02a177b3d5c2de4360cf4be3a"><br><img src="/2021/06/07/005-sheng-huo/nan-jing-lu-xing/1a1e3a861865bccfa1ca467df273d5a.jpg" alt="1a1e3a861865bccfa1ca467df273d5a"><br><img src="/2021/06/07/005-sheng-huo/nan-jing-lu-xing/1ace2170487425745eb17d968bf381c.jpg"><br><img src="/2021/06/07/005-sheng-huo/nan-jing-lu-xing/2f9dbb378f7eddbd4fc9b494a4f83f9.jpg"><br><img src="/2021/06/07/005-sheng-huo/nan-jing-lu-xing/3ba6286998df63b01cb79d4d4375f6c.jpg"><br><img src="/2021/06/07/005-sheng-huo/nan-jing-lu-xing/4f19b8f6de4051dead50ff46233b9c4.jpg"><br><img src="/2021/06/07/005-sheng-huo/nan-jing-lu-xing/5f750b9fec3cba7d81d11ec9d5ac2fa.jpg"><br><img src="/2021/06/07/005-sheng-huo/nan-jing-lu-xing/26b61ef2eb5b8412014d410718072fd.jpg"><br>![](26b61ef2eb5b8412014d410718072fd 1.jpg)<br><img src="/2021/06/07/005-sheng-huo/nan-jing-lu-xing/57aa37fc34298f06b02bfd5cdd61767.jpg"><br><img src="/2021/06/07/005-sheng-huo/nan-jing-lu-xing/74b791f47ea5bb51d6774268c8eae86.jpg"><br><img src="/2021/06/07/005-sheng-huo/nan-jing-lu-xing/92e5ff4fd68ebe8b93baee25b76dd12.png"><br><img src="/2021/06/07/005-sheng-huo/nan-jing-lu-xing/100d6f4b9fd4b767cc8f02dc23ca1d9.jpg"><br><img src="/2021/06/07/005-sheng-huo/nan-jing-lu-xing/69750fda0df04e0228e7f64e0011069.jpg"><br><img src="/2021/06/07/005-sheng-huo/nan-jing-lu-xing/84019e4e2c8a9a891ebce6049873fbb.jpg"><br><img src="/2021/06/07/005-sheng-huo/nan-jing-lu-xing/623526a6f2694be3ff282e07c73bd6e.jpg"><br><img src="/2021/06/07/005-sheng-huo/nan-jing-lu-xing/917590b22e153ac7e32026269206c14.jpg"><br><img src="/2021/06/07/005-sheng-huo/nan-jing-lu-xing/7910057d31e80cf7431af7d552d544d.jpg"><br><img src="/2021/06/07/005-sheng-huo/nan-jing-lu-xing/a65aaad4eb08dcc97f6e5f945b2012a.jpg"><br><img src="/2021/06/07/005-sheng-huo/nan-jing-lu-xing/a562ca58e9ce09f83702b2b25a292c7.jpg"><br><img src="/2021/06/07/005-sheng-huo/nan-jing-lu-xing/b8597624196361880e063370b7a7579.jpg"><br><img src="/2021/06/07/005-sheng-huo/nan-jing-lu-xing/b8597624196361880e063370b7a75791.jpg"><br><img src="/2021/06/07/005-sheng-huo/nan-jing-lu-xing/bbde482ad9837736ecb1e54df617c8a.jpg"><br><img src="/2021/06/07/005-sheng-huo/nan-jing-lu-xing/c751e40f9c7100ca7c65a70b0cec184.jpg"><br><img src="/2021/06/07/005-sheng-huo/nan-jing-lu-xing/d921fc15774d78e9504f70747c8b822.jpg"><br><img src="/2021/06/07/005-sheng-huo/nan-jing-lu-xing/ec539b308122f984be3c1f8f41f41d7.jpg"></p><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://pkzhidi.top/">个人博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">博客镜像</a> ，<a href="http://localhost:4000/">本地访问</a> </p><p><a href="https://www.jieyou123.top/">个人问答社区</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 旅行 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 南京 </tag>
+            
+            <tag> 苏博特 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>模板文件</title>
+      <link href="/2021/06/01/mo-ban-wen-jian/001-mo-ban-wen-jian-qian/"/>
+      <url>/2021/06/01/mo-ban-wen-jian/001-mo-ban-wen-jian-qian/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 模板 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>博客记录</title>
+      <link href="/2021/06/01/998-jian-zhan/bo-ke-shuo-ming-wen-dang/bo-ke-ji-lu/"/>
+      <url>/2021/06/01/998-jian-zhan/bo-ke-shuo-ming-wen-dang/bo-ke-ji-lu/</url>
+      
+        <content type="html"><![CDATA[<p>博客记录的东西，主要还是以经验为主。能真正给其他人带来价值，而不是自己的个人经验。多数人会消失在人类的历史长河，但愿自己可以被很多人记得。</p><p>分享人们需要的东西，从K12，大学，读研，择业，家庭，老年独处。<br>人生短暂，记录自己的一生，予世人借鉴。</p><p>留下，生存之道吧！只讲如何更好地活着与生存。<br>基础科学，人文，法律，等等。</p><span id="more"></span><p><img src="/2021/06/01/998-jian-zhan/bo-ke-shuo-ming-wen-dang/bo-ke-ji-lu/%E5%AD%A6%E7%A7%91%E5%9B%BE%E8%B0%B1.png" alt="学科图谱"></p><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://pkzhidi.top/">个人博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">博客镜像</a> ，<a href="http://localhost:4000/">本地访问</a> </p><p><a href="https://www.jieyou123.top/">个人问答社区</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 博客 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 说明 </tag>
+            
+            <tag> 目标 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>故事</title>
+      <link href="/2021/05/31/004-gong-zuo/gong-si/su-bo-te-zhi-xing/"/>
+      <url>/2021/05/31/004-gong-zuo/gong-si/su-bo-te-zhi-xing/</url>
+      
+        <content type="html"><![CDATA[<p>行程，出发订票，安排，老门东（苏绣）。<br>饮食，早点，安排和后续的实际餐厅（残疾人的照看）。<br>活动，开会，介绍公司，参观，旅游，唱歌，南京事件（），旅行插曲。<br>活动的感悟：管理，团队，生存。<br>师兄：工作方式。<br>返程：时间的却定。<br>后语：复盘</p><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p><p><a href="https://www.jieyou123.top/">个人问答社区</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 感悟 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 管理 </tag>
+            
+            <tag> 苏博特 </tag>
+            
+            <tag> 旅行 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>可可的旅行照</title>
+      <link href="/2021/05/20/003-qing-shang/ren-ji/ke-ke/ke-ke/"/>
+      <url>/2021/05/20/003-qing-shang/ren-ji/ke-ke/ke-ke/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/2021/05/20/003-qing-shang/ren-ji/ke-ke/ke-ke/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210520152730.jpg" alt="微信图片_20210520152730.jpg"></p><p><img src="/2021/05/20/003-qing-shang/ren-ji/ke-ke/ke-ke/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210520152743.jpg" alt="微信图片_20210520152743.jpg"></p><p><img src="/2021/05/20/003-qing-shang/ren-ji/ke-ke/ke-ke/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210520152748.jpg" alt="微信图片_20210520152748.jpg"></p><p><img src="/2021/05/20/003-qing-shang/ren-ji/ke-ke/ke-ke/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210520152753.jpg" alt="微信图片_20210520152753.jpg"></p><p><img src="/2021/05/20/003-qing-shang/ren-ji/ke-ke/ke-ke/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210520152811.jpg" alt="微信图片_20210520152811.jpg"></p><p><img src="/2021/05/20/003-qing-shang/ren-ji/ke-ke/ke-ke/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210520152817.jpg" alt="微信图片_20210520152817.jpg"></p><p><img src="/2021/05/20/003-qing-shang/ren-ji/ke-ke/ke-ke/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210520152821.jpg" alt="微信图片_20210520152821.jpg"></p><p><img src="/2021/05/20/003-qing-shang/ren-ji/ke-ke/ke-ke/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210520152827.jpg" alt="微信图片_20210520152827.jpg"></p><p><img src="/2021/05/20/003-qing-shang/ren-ji/ke-ke/ke-ke/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210520152835.jpg" alt="微信图片_20210520152835.jpg"></p><p><img src="/2021/05/20/003-qing-shang/ren-ji/ke-ke/ke-ke/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210520152843.jpg" alt="微信图片_20210520152843.jpg"></p><p><img src="/2021/05/20/003-qing-shang/ren-ji/ke-ke/ke-ke/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210520152636.jpg" alt="微信图片_20210520152636.jpg"></p><p><img src="/2021/05/20/003-qing-shang/ren-ji/ke-ke/ke-ke/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210520152651.jpg" alt="微信图片_20210520152651.jpg"></p><p><img src="/2021/05/20/003-qing-shang/ren-ji/ke-ke/ke-ke/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210520152658.jpg" alt="微信图片_20210520152658.jpg"></p><p><img src="/2021/05/20/003-qing-shang/ren-ji/ke-ke/ke-ke/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210520152703.jpg" alt="微信图片_20210520152703.jpg"></p><p><img src="/2021/05/20/003-qing-shang/ren-ji/ke-ke/ke-ke/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210520152709.jpg" alt="微信图片_20210520152709.jpg"></p><p><img src="/2021/05/20/003-qing-shang/ren-ji/ke-ke/ke-ke/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210520152714.jpg" alt="微信图片_20210520152714.jpg"></p><p><img src="/2021/05/20/003-qing-shang/ren-ji/ke-ke/ke-ke/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210520152719.jpg" alt="微信图片_20210520152719.jpg"></p><h1 id="end-致谢"><a href="#end-致谢" class="headerlink" title="end-致谢"></a>end-致谢</h1><p>感谢可可的图床</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 可可 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 旅行 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>研究生笔记</title>
+      <link href="/2021/05/15/002-ren-sheng-si-kao/zi-wo/dui-ren-sheng-de-kan-fa/"/>
+      <url>/2021/05/15/002-ren-sheng-si-kao/zi-wo/dui-ren-sheng-de-kan-fa/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/%E8%87%AA%E6%88%91/%E5%AF%B9%E4%BA%BA%E7%94%9F%E7%9A%84%E7%9C%8B%E6%B3%95/kanfa-.jpg" alt="kanfa-"><br>给其他人介绍生意，把钱直接递上，表示诚意。别让朋友讨债。</p><span id="more"></span><h1 id="随笔"><a href="#随笔" class="headerlink" title="随笔"></a>随笔</h1><p>最近实验结果不尽如意，需要重新规划下将来的方向。争取早日毕业。<br>要开始准备小论文，大论文框架也整理下。4月二十几号，把财务记得报销下。<br>虽然累，肯定值得。反正坚持记录，总会有收获的。</p><p>极简经验</p><ul><li>稳重，多思，慎言。</li><li>根据环境做事，不绝对，不大概。给足够的信息。</li></ul><p>复杂衍生,帮人不必尽心，够用就行。多提升自己，而不是烂好人，多让自己强大。</p><h1 id="警示语录"><a href="#警示语录" class="headerlink" title="警示语录"></a>警示语录</h1><ul><li>多想想，少说话，不急的话第二天说。别当面说。</li><li>把20%的工作做到极致，而不是做100%的事。</li><li>凡事听取别人的话，要好好理解。</li><li>不要先去反驳和有病一样，不要被夸奖蒙蔽。</li><li>做完了事再说，别整天傻啦吧唧的分享。你TM有个JB</li><li>格式有很多问题，多看看文件。</li><li>以前的问题也没能避免，很难。</li></ul><h1 id="分类-标签"><a href="#分类-标签" class="headerlink" title="分类-标签"></a>分类-标签</h1><p>已解决的问题，未解决的问题，说明文档，成长之路<br>分类需要控制，标签可以比较乱。主要贴合主题，便于检索就行。</p><h1 id="补充"><a href="#补充" class="headerlink" title="补充"></a>补充</h1><p>有记录远远不够，还要有系统的整理文档。需要管理好，知识网络，重在积累而不是形式。<br>大道至简，简单即是最好。<br>早点做好报销，报销要好好咨询清楚。不能拍脑袋决定。<br>好好应考，列下需要的东西。把重要的事，做好，活在当下。</p><h1 id="end-网站链接："><a href="#end-网站链接：" class="headerlink" title="end-网站链接："></a>end-网站链接：</h1><p><a href="https://github.com/hamsali">我的github</a> ，<a href="https://hamsali.github.io/">github博客网址</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客网址</a> ，<a href="http://localhost:4000/">本地访问</a> ， </p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 成长之路 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 经验 </tag>
+            
+            <tag> 成长 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>母亲节文案</title>
+      <link href="/2021/05/09/003-qing-shang/ren-ji/mu-qin-jie-wen-an/mu-qin-jie/"/>
+      <url>/2021/05/09/003-qing-shang/ren-ji/mu-qin-jie-wen-an/mu-qin-jie/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/2021/05/09/003-qing-shang/ren-ji/mu-qin-jie-wen-an/mu-qin-jie/%E6%AF%8D%E4%BA%B2%E8%8A%82%E6%96%87%E6%A1%88.png" alt="母亲节文案.png"><br>缓慢又笨拙的路上，谢谢你陪我长大。祝老妈母亲节快乐！！</p><span id="more"></span><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a>  <a href="https://www.jieyou123.top/">个人问答社区</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 人际 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 母亲节 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>工具运营</title>
+      <link href="/2021/05/07/004-gong-zuo/gong-ju/"/>
+      <url>/2021/05/07/004-gong-zuo/gong-ju/</url>
+      
+        <content type="html"><![CDATA[<h1 id="运营工具大全"><a href="#运营工具大全" class="headerlink" title="运营工具大全"></a>运营工具大全</h1><p>共收录 16 个分类， 119 个运营工具</p><h1 id="在线文档-·-12-个"><a href="#在线文档-·-12-个" class="headerlink" title="在线文档 · 12 个"></a>在线文档 · 12 个</h1><p><a href="https://shimo.im/?from=xiaomark.com">石墨文档:全新一代云端 Office，面向未来的办公软件</a><br><a href="https://docs.qq.com/?from=xiaomark.com">腾讯文档:可多人协作的在线文档</a><br><a href="https://www.yuque.com/?from=xiaomark.com">语雀:专业的云端知识库</a></p><p><img src="https://static.interval.im/blog/caxZCMLcMC8R.png" alt="幕布"></p><h3 id="幕布"><a href="#幕布" class="headerlink" title="幕布"></a>幕布</h3><p><a href="https://mubu.com/?from=xiaomark.com">极简大纲笔记，一键生成思维导图</a><br><img src="https://static.interval.im/blog/eKADT2R9FC8n.png" alt="GitMind"></p><span id="more"></span><h3 id="GitMind"><a href="#GitMind" class="headerlink" title="GitMind"></a>GitMind</h3><p><a href="https://gitmind.cn/?from=xiaomark.com">在线脑图、思维导图、流程图、工业设计、工程管理</a><br><img src="https://static.interval.im/blog/oxacWGlM8dvU.png" alt="畅写OFFICE"></p><h3 id="畅写OFFICE"><a href="#畅写OFFICE" class="headerlink" title="畅写OFFICE"></a>畅写OFFICE</h3><p><a href="http://www.51changxie.com/?from=xiaomark.com">可多人实时在线云协作的Office工具</a><br><img src="https://static.interval.im/blog/qHwLEnhG0XCI.png" alt="ZhiMap"></p><h3 id="ZhiMap"><a href="#ZhiMap" class="headerlink" title="ZhiMap"></a>ZhiMap</h3><p>免费思维导图，比收费的还好用](<a href="https://zhimap.com/?from=xiaomark.com">https://zhimap.com/?from=xiaomark.com</a>)<br><img src="https://static.interval.im/blog/Fsktm9mONwhM.png" alt="凹脑图"></p><h3 id="凹脑图"><a href="#凹脑图" class="headerlink" title="凹脑图"></a>凹脑图</h3><p>简单又好用的思维导图</p><p>](<a href="https://aonaotu.com/?from=xiaomark.com">https://aonaotu.com/?from=xiaomark.com</a>)<br><img src="https://static.interval.im/blog/GUXIHv0TDY5L.png" alt="一起写"></p><h3 id="一起写"><a href="#一起写" class="headerlink" title="一起写"></a>一起写</h3><p>可能是最好用的实时协作文档](<a href="https://yiqixie.com/?from=xiaomark.com">https://yiqixie.com/?from=xiaomark.com</a>)<br><img src="https://static.interval.im/blog/X2jC5wY1Sbb6.png" alt="金山文档"></p><h3 id="金山文档"><a href="#金山文档" class="headerlink" title="金山文档"></a>金山文档</h3><p>多人实时协作的在线Office](<a href="https://www.kdocs.cn/?from=xiaomark.com">https://www.kdocs.cn/?from=xiaomark.com</a>)<br><img src="https://static.interval.im/blog/yqns5bYWgOZp.png" alt="百度脑图"></p><h3 id="百度脑图"><a href="#百度脑图" class="headerlink" title="百度脑图"></a>百度脑图</h3><p>便捷的思维工具](<a href="https://naotu.baidu.com/?from=xiaomark.com">https://naotu.baidu.com/?from=xiaomark.com</a>)<br><img src="https://static.interval.im/blog/tYY3CiqpXacc.png" alt="ProcessOn"></p><h3 id="ProcessOn"><a href="#ProcessOn" class="headerlink" title="ProcessOn"></a>ProcessOn</h3><p><a href="https://www.processon.com/?from=xiaomark.com">支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等</a></p><h2 id="知识付费-·-11-个"><a href="#知识付费-·-11-个" class="headerlink" title="知识付费 · 11 个"></a>知识付费 · 11 个</h2><p><img src="https://static.interval.im/blog/CqVYeUtiWeUU.png" alt="面包多"></p><h3 id="面包多"><a href="#面包多" class="headerlink" title="面包多"></a>面包多</h3><p>为创造者创收</p><p>](<a href="https://mianbaoduo.com/?from=xiaomark.com">https://mianbaoduo.com/?from=xiaomark.com</a>)<br><img src="https://static.interval.im/blog/uxaFpejYH0Er.png" alt="千聊"></p><h3 id="千聊"><a href="#千聊" class="headerlink" title="千聊"></a>千聊</h3><p><a href="https://pc.qlchat.com/?from=xiaomark.com">一分钟开启你的知识变现之旅</a><br><img src="https://static.interval.im/blog/eiG6gH7zIi34.png" alt="小鹅通"></p><h3 id="小鹅通"><a href="#小鹅通" class="headerlink" title="小鹅通"></a>小鹅通</h3><p>专注新教育的技术服务商](<a href="https://www.xiaoe-tech.com/?from=xiaomark.com">https://www.xiaoe-tech.com/?from=xiaomark.com</a>)</p><p><img src="https://static.interval.im/blog/t6EqrrobMh93.png" alt="CCtalk"></p><h3 id="CCtalk"><a href="#CCtalk" class="headerlink" title="CCtalk"></a>CCtalk</h3><p>实时互动教育平台<br>](<a href="https://www.cctalk.com/?from=xiaomark.com">https://www.cctalk.com/?from=xiaomark.com</a>)</p><p><img src="https://static.interval.im/blog/YmspZ8DWX9SU.png" alt="微学伴"></p><h3 id="微学伴"><a href="#微学伴" class="headerlink" title="微学伴"></a>微学伴</h3><p><a href="https://www.vlearn.cn/?from=xiaomark.com">1分钟拥有知识店铺</a><br><img src="https://static.interval.im/blog/AKevT1YFqwQd.png" alt="知识星球"></p><h3 id="知识星球"><a href="#知识星球" class="headerlink" title="知识星球"></a>知识星球</h3><p>深度链接铁杆粉丝，知识变现工具</p><p>](<a href="https://zsxq.com/?from=xiaomark.com)!%5B%E5%A5%BD%E6%99%BA%E5%AD%A6%5D(https://static.interval.im/blog/ihCIiLYlgcob.png)">https://zsxq.com/?from=xiaomark.com)![好智学](https://static.interval.im/blog/ihCIiLYlgcob.png)</a></p><h3 id="好智学"><a href="#好智学" class="headerlink" title="好智学"></a>好智学</h3><p>专业的考试培训学习系统</p><p>](<a href="https://www.hzxue.com/?from=xiaomark.com)!%5B%E5%B0%8F%E7%BA%A2%E5%9C%88%5D(https://static.interval.im/blog/pQtDuR2DdcBy.png)">https://www.hzxue.com/?from=xiaomark.com)![小红圈](https://static.interval.im/blog/pQtDuR2DdcBy.png)</a></p><h3 id="小红圈"><a href="#小红圈" class="headerlink" title="小红圈"></a>小红圈</h3><p>专注于知识内容变现的社群运营管理工具</p><p>](<a href="https://www.red-ring.cn/?from=xiaomark.com)!%5B%E7%BE%8E%E9%98%85%E6%95%99%E8%82%B2%5D(https://static.interval.im/blog/Psm8xudH2b0e.png)">https://www.red-ring.cn/?from=xiaomark.com)![美阅教育](https://static.interval.im/blog/Psm8xudH2b0e.png)</a></p><h3 id="美阅教育"><a href="#美阅教育" class="headerlink" title="美阅教育"></a>美阅教育</h3><p>提供教育行业小程序解决方案</p><p>](<a href="https://upnet.beautifulreading.com/?from=xiaomark.com)!%5B%E8%8D%94%E6%9E%9D%E5%BE%AE%E8%AF%BE%5D(https://static.interval.im/blog/hEE4FASKPGxv.png)">https://upnet.beautifulreading.com/?from=xiaomark.com)![荔枝微课](https://static.interval.im/blog/hEE4FASKPGxv.png)</a></p><h3 id="荔枝微课"><a href="#荔枝微课" class="headerlink" title="荔枝微课"></a>荔枝微课</h3><p>满足不同的讲课场景，让知识传递更丰富</p><p>](<a href="https://www.lizhiweike.com/?from=xiaomark.com)!%5B%E7%9F%AD%E4%B9%A6%5D(https://static.interval.im/blog/s3VP1dt1ct6i.png)">https://www.lizhiweike.com/?from=xiaomark.com)![短书](https://static.interval.im/blog/s3VP1dt1ct6i.png)</a></p><h3 id="短书"><a href="#短书" class="headerlink" title="短书"></a>短书</h3><p>10万机构知识付费都在用</p><p>](<a href="https://www.duanshu.com/?from=xiaomark.com">https://www.duanshu.com/?from=xiaomark.com</a>)</p><h2 id="文件网盘-·-6-个"><a href="#文件网盘-·-6-个" class="headerlink" title="文件网盘 · 6 个"></a>文件网盘 · 6 个</h2><p><img src="https://static.interval.im/blog/0IR2mcb5kNst.png" alt="奶牛快传"></p><h3 id="奶牛快传"><a href="#奶牛快传" class="headerlink" title="奶牛快传"></a>奶牛快传</h3><p>专注于即用即走的在线大文件传输服务</p><p>](<a href="https://cowtransfer.com/?from=xiaomark.com)!%5BAirPortal">https://cowtransfer.com/?from=xiaomark.com)![AirPortal</a> 空投](<a href="https://static.interval.im/blog/LdVYcrvGeyXW.png">https://static.interval.im/blog/LdVYcrvGeyXW.png</a>)</p><h3 id="AirPortal-空投"><a href="#AirPortal-空投" class="headerlink" title="AirPortal 空投"></a>AirPortal 空投</h3><p>随时随地跨设备传输文件</p><p>](<a href="https://airportal.cn/?from=xiaomark.com)!%5B%E5%9D%9A%E6%9E%9C%E4%BA%91%5D(https://static.interval.im/blog/NpUIViVieUPH.png)">https://airportal.cn/?from=xiaomark.com)![坚果云](https://static.interval.im/blog/NpUIViVieUPH.png)</a></p><h3 id="坚果云"><a href="#坚果云" class="headerlink" title="坚果云"></a>坚果云</h3><p>任何设备，随时随地实现文件共享</p><p>](<a href="https://www.jianguoyun.com/?from=xiaomark.com)!%5B%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%5D(https://static.interval.im/blog/T7IqhD0bz7NU.png)">https://www.jianguoyun.com/?from=xiaomark.com)![百度网盘](https://static.interval.im/blog/T7IqhD0bz7NU.png)</a></p><h3 id="百度网盘"><a href="#百度网盘" class="headerlink" title="百度网盘"></a>百度网盘</h3><p>让人又爱又恨的网盘</p><p>](<a href="https://pan.baidu.com/?from=xiaomark.com)!%5B%E4%BA%BF%E6%96%B9%E4%BA%91%5D(https://static.interval.im/blog/Ild0bf1tA6xT.png)">https://pan.baidu.com/?from=xiaomark.com)![亿方云](https://static.interval.im/blog/Ild0bf1tA6xT.png)</a></p><h3 id="亿方云"><a href="#亿方云" class="headerlink" title="亿方云"></a>亿方云</h3><p>安全高效的企业网盘</p><p>](<a href="https://www.fangcloud.com/?from=xiaomark.com)!%5B%E6%96%87%E5%8F%94%E5%8F%94%5D(https://static.interval.im/blog/aGErrneJCCdt.png)">https://www.fangcloud.com/?from=xiaomark.com)![文叔叔](https://static.interval.im/blog/aGErrneJCCdt.png)</a></p><h3 id="文叔叔"><a href="#文叔叔" class="headerlink" title="文叔叔"></a>文叔叔</h3><p>大文件，永不限速</p><p>](<a href="https://www.wenshushu.cn/?from=xiaomark.com">https://www.wenshushu.cn/?from=xiaomark.com</a>)</p><h2 id="微信群运营-·-7-个"><a href="#微信群运营-·-7-个" class="headerlink" title="微信群运营 · 7 个"></a>微信群运营 · 7 个</h2><p><img src="https://static.interval.im/blog/7r9BsLcJc6q6.png" alt="WeTool"></p><h3 id="WeTool"><a href="#WeTool" class="headerlink" title="WeTool"></a>WeTool</h3><p>高效稳定助力社群运营</p><p>](<a href="https://www.wxb.com/wetool?from=xiaomark.com)!%5B%E5%BE%AE%E5%8F%8B%E5%8A%A9%E6%89%8B%5D(https://static.interval.im/blog/qD4WbXq2hlZo.png)">https://www.wxb.com/wetool?from=xiaomark.com)![微友助手](https://static.interval.im/blog/qD4WbXq2hlZo.png)</a></p><h3 id="微友助手"><a href="#微友助手" class="headerlink" title="微友助手"></a>微友助手</h3><p>专业社群营销管理专家</p><p>](<a href="https://www.weiyoubot.cn/?from=xiaomark.com)!%5B%E8%81%8A%E5%A4%A9%E7%8B%97%5D(https://static.interval.im/blog/EMOoQZ1icoyE.png)">https://www.weiyoubot.cn/?from=xiaomark.com)![聊天狗](https://static.interval.im/blog/EMOoQZ1icoyE.png)</a></p><h3 id="聊天狗"><a href="#聊天狗" class="headerlink" title="聊天狗"></a>聊天狗</h3><p>专注社群，智能微信群管/营销专家</p><p>](<a href="https://www.liaotiangou.com/?from=xiaomark.com)!%5B%E5%B0%8Fu%E7%AE%A1%E5%AE%B6%5D(https://static.interval.im/blog/QsDPEXq9gxmk.png)">https://www.liaotiangou.com/?from=xiaomark.com)![小u管家](https://static.interval.im/blog/QsDPEXq9gxmk.png)</a></p><h3 id="小u管家"><a href="#小u管家" class="headerlink" title="小u管家"></a>小u管家</h3><p>高效安全的微信社群管理工具</p><p>](<a href="http://www.xiaouguanjia.com/?from=xiaomark.com)!%5B%E6%B6%82%E8%89%B2%E8%BF%9B%E7%BE%A4%E5%AE%9D%5D(https://static.interval.im/blog/0piE8gfTGJkv.png)">http://www.xiaouguanjia.com/?from=xiaomark.com)![涂色进群宝](https://static.interval.im/blog/0piE8gfTGJkv.png)</a></p><h3 id="涂色进群宝"><a href="#涂色进群宝" class="headerlink" title="涂色进群宝"></a>涂色进群宝</h3><p>微信群活码裂变营销工具</p><p>](<a href="http://www.jinqunbao.com/?from=xiaomark.com)!%5B46%E5%8A%A9%E6%89%8B%5D(https://static.interval.im/blog/lK7XOi1oDlEU.png)">http://www.jinqunbao.com/?from=xiaomark.com)![46助手](https://static.interval.im/blog/lK7XOi1oDlEU.png)</a></p><h3 id="46助手"><a href="#46助手" class="headerlink" title="46助手"></a>46助手</h3><p>智能高效的桌面版微信群管工具</p><p>](<a href="https://www.46wx.com/?from=xiaomark.com)!%5B%E5%93%88%E5%B0%8F%E5%A5%87%5D(https://static.interval.im/blog/RqxS06repUr5.png)">https://www.46wx.com/?from=xiaomark.com)![哈小奇](https://static.interval.im/blog/RqxS06repUr5.png)</a></p><h3 id="哈小奇"><a href="#哈小奇" class="headerlink" title="哈小奇"></a>哈小奇</h3><p>智能AI社群娱乐宠物</p><p>](<a href="http://www.haxiaoqi.com/?from=xiaomark.com">http://www.haxiaoqi.com/?from=xiaomark.com</a>)</p><h2 id="表单问卷-·-6-个"><a href="#表单问卷-·-6-个" class="headerlink" title="表单问卷 · 6 个"></a>表单问卷 · 6 个</h2><p><img src="https://static.interval.im/blog/OWqlzE8XG6ZC.png" alt="问卷网"></p><h3 id="问卷网"><a href="#问卷网" class="headerlink" title="问卷网"></a>问卷网</h3><p>免费问卷调查平台</p><p>](<a href="https://www.wenjuan.com/?from=xiaomark.com)!%5B%E9%87%91%E6%95%B0%E6%8D%AE%5D(https://static.interval.im/blog/ofYYe7N5HwRb.png)">https://www.wenjuan.com/?from=xiaomark.com)![金数据](https://static.interval.im/blog/ofYYe7N5HwRb.png)</a></p><h3 id="金数据"><a href="#金数据" class="headerlink" title="金数据"></a>金数据</h3><p>人人可用的在线表单工具</p><p>](<a href="https://jinshuju.net/?from=xiaomark.com)!%5B%E8%85%BE%E8%AE%AF%E9%97%AE%E5%8D%B7%5D(https://static.interval.im/blog/jQb15NT4Yc7e.png)">https://jinshuju.net/?from=xiaomark.com)![腾讯问卷](https://static.interval.im/blog/jQb15NT4Yc7e.png)</a></p><h3 id="腾讯问卷"><a href="#腾讯问卷" class="headerlink" title="腾讯问卷"></a>腾讯问卷</h3><p>免费好用的问卷调查系统</p><p>](<a href="https://wj.qq.com/?from=xiaomark.com)!%5B%E9%BA%A6%E5%AE%A2CRM%5D(https://static.interval.im/blog/rbKkATv8cXG3.png)">https://wj.qq.com/?from=xiaomark.com)![麦客CRM](https://static.interval.im/blog/rbKkATv8cXG3.png)</a></p><h3 id="麦客CRM"><a href="#麦客CRM" class="headerlink" title="麦客CRM"></a>麦客CRM</h3><p>信息搜集与市场营销领导品牌</p><p>](<a href="http://www.mikecrm.com/?from=xiaomark.com)!%5B%E7%95%AA%E8%8C%84%E8%A1%A8%E5%8D%95%5D(https://static.interval.im/blog/jCEEwJYI4vAm.png)">http://www.mikecrm.com/?from=xiaomark.com)![番茄表单](https://static.interval.im/blog/jCEEwJYI4vAm.png)</a></p><h3 id="番茄表单"><a href="#番茄表单" class="headerlink" title="番茄表单"></a>番茄表单</h3><p>数据收集更简单</p><p>](<a href="https://fanqier.cn/?from=xiaomark.com)!%5B%E9%97%AE%E5%8D%B7%E6%98%9F%5D(https://static.interval.im/blog/m19kTezL3wcB.png)">https://fanqier.cn/?from=xiaomark.com)![问卷星](https://static.interval.im/blog/m19kTezL3wcB.png)</a></p><h3 id="问卷星"><a href="#问卷星" class="headerlink" title="问卷星"></a>问卷星</h3><p>不止问卷调查 / 在线考试</p><p>](<a href="https://www.wjx.cn/?from=xiaomark.com">https://www.wjx.cn/?from=xiaomark.com</a>)</p><h2 id="公众号增强-·-11-个"><a href="#公众号增强-·-11-个" class="headerlink" title="公众号增强 · 11 个"></a>公众号增强 · 11 个</h2><p><img src="https://static.interval.im/blog/uQ7gdrBYHtHq.png" alt="小码渠道码"></p><h3 id="小码渠道码"><a href="#小码渠道码" class="headerlink" title="小码渠道码"></a>小码渠道码</h3><p>每个服务号都应该使用的渠道二维码工具</p><p>](<a href="https://mp.xiaomark.com/?from=xiaomark.com)!%5B%E5%B0%8F%E7%A0%81%E6%8E%A8%E9%80%81%5D(https://static.interval.im/blog/kpx2g5CdKNrU.png)">https://mp.xiaomark.com/?from=xiaomark.com)![小码推送](https://static.interval.im/blog/kpx2g5CdKNrU.png)</a></p><h3 id="小码推送"><a href="#小码推送" class="headerlink" title="小码推送"></a>小码推送</h3><p>公众号模板消息、客服消息推送工具</p><p>](<a href="https://push.xiaomark.com/?from=xiaomark.com)!%5B%E5%A3%B9%E4%BC%B4%5D(https://static.interval.im/blog/qysvYF4xbpLi.png)">https://push.xiaomark.com/?from=xiaomark.com)![壹伴](https://static.interval.im/blog/qysvYF4xbpLi.png)</a></p><h3 id="壹伴"><a href="#壹伴" class="headerlink" title="壹伴"></a>壹伴</h3><p>增强微信编辑器，一键图文排版神器</p><p>](<a href="https://yiban.io/?from=xiaomark.com)!%5B%E4%BE%AF%E6%80%9D%E7%89%B9%5D(https://static.interval.im/blog/bEVaHrGymm34.png)">https://yiban.io/?from=xiaomark.com)![侯思特](https://static.interval.im/blog/bEVaHrGymm34.png)</a></p><h3 id="侯思特"><a href="#侯思特" class="headerlink" title="侯思特"></a>侯思特</h3><p>微信CRM和营销应用商店</p><p>](<a href="https://weixinhost.com/?from=xiaomark.com)!%5B%E6%B0%B4%E6%BB%B4%E5%BE%AE%E4%BF%A1%E5%B9%B3%E5%8F%B0%5D(https://static.interval.im/blog/V6CWxNOqlvzO.png)">https://weixinhost.com/?from=xiaomark.com)![水滴微信平台](https://static.interval.im/blog/V6CWxNOqlvzO.png)</a></p><h3 id="水滴微信平台"><a href="#水滴微信平台" class="headerlink" title="水滴微信平台"></a>水滴微信平台</h3><p>轻巧、智能的公众号服务系统</p><p>](<a href="https://weixin.drip.im/?from=xiaomark.com)!%5BGet%E6%99%BA%E8%83%BD%E5%86%99%E4%BD%9C%5D(https://static.interval.im/blog/UYB1EUAAMulv.png)">https://weixin.drip.im/?from=xiaomark.com)![Get智能写作](https://static.interval.im/blog/UYB1EUAAMulv.png)</a></p><h3 id="Get智能写作"><a href="#Get智能写作" class="headerlink" title="Get智能写作"></a>Get智能写作</h3><p>用 AI 辅助写作，助力创作10w+文章</p><p>](<a href="https://getgetai.com/?from=xiaomark.com)!%5B%E8%A5%BF%E7%93%9C%E5%8A%A9%E6%89%8B%5D(https://static.interval.im/blog/qMZk2QnaICzp.png)">https://getgetai.com/?from=xiaomark.com)![西瓜助手](https://static.interval.im/blog/qMZk2QnaICzp.png)</a></p><h3 id="西瓜助手"><a href="#西瓜助手" class="headerlink" title="西瓜助手"></a>西瓜助手</h3><p>让公众号运营更简单</p><p>](<a href="https://zs.xiguaji.com/?from=xiaomark.com)!%5B%E8%A5%BF%E5%AE%A2CRM%5D(https://static.interval.im/blog/p0BPLrDYN6rZ.png)">https://zs.xiguaji.com/?from=xiaomark.com)![西客CRM](https://static.interval.im/blog/p0BPLrDYN6rZ.png)</a></p><h3 id="西客CRM"><a href="#西客CRM" class="headerlink" title="西客CRM"></a>西客CRM</h3><p>微信公众号粉丝的营销管理平台</p><p>](<a href="http://www.xikecrm.com/?from=xiaomark.com)!%5B%E7%B2%89%E4%B8%9D%E5%9C%88%5D(https://static.interval.im/blog/VslRayhVzxam.png)">http://www.xikecrm.com/?from=xiaomark.com)![粉丝圈](https://static.interval.im/blog/VslRayhVzxam.png)</a></p><h3 id="粉丝圈"><a href="#粉丝圈" class="headerlink" title="粉丝圈"></a>粉丝圈</h3><p>公众号首选微信社区</p><p>](<a href="https://www.myfans.cc/?from=xiaomark.com)!%5B%E6%96%B0%E5%AA%92%E4%BD%93%E7%AE%A1%E5%AE%B6%5D(https://static.interval.im/blog/lnDlGE9QloiS.png)">https://www.myfans.cc/?from=xiaomark.com)![新媒体管家](https://static.interval.im/blog/lnDlGE9QloiS.png)</a></p><h3 id="新媒体管家"><a href="#新媒体管家" class="headerlink" title="新媒体管家"></a>新媒体管家</h3><p>微信公众号神器，多账号同步管理</p><p>](<a href="https://xmt.cn/index?from=xiaomark.com)!%5B%E5%86%85%E5%AE%B9%E7%A5%9E%E5%99%A8%5D(https://static.interval.im/blog/PIvEmiBtdsIm.png)">https://xmt.cn/index?from=xiaomark.com)![内容神器](https://static.interval.im/blog/PIvEmiBtdsIm.png)</a></p><h3 id="内容神器"><a href="#内容神器" class="headerlink" title="内容神器"></a>内容神器</h3><p>热搜热点榜单、内容素材写文必备神器</p><p>](<a href="http://www.5ce.com/?from=xiaomark.com">http://www.5ce.com/?from=xiaomark.com</a>)</p><h2 id="图文排版-·-4-个"><a href="#图文排版-·-4-个" class="headerlink" title="图文排版 · 4 个"></a>图文排版 · 4 个</h2><p><img src="https://static.interval.im/blog/uYh8Sn9fYto3.png" alt="秀米"></p><h3 id="秀米"><a href="#秀米" class="headerlink" title="秀米"></a>秀米</h3><p>原创模板素材，精选风格排版</p><p>](<a href="https://xiumi.us/?from=xiaomark.com)!%5B%E6%96%B0%E6%A6%9C%E7%BC%96%E8%BE%91%E5%99%A8%5D(https://static.interval.im/blog/0UEO6ewMhK7y.png)">https://xiumi.us/?from=xiaomark.com)![新榜编辑器](https://static.interval.im/blog/0UEO6ewMhK7y.png)</a></p><h3 id="新榜编辑器"><a href="#新榜编辑器" class="headerlink" title="新榜编辑器"></a>新榜编辑器</h3><p>让你的图文生动有趣</p><p>](<a href="https://edit.newrank.cn/?from=xiaomark.com)!%5B135%E7%BC%96%E8%BE%91%E5%99%A8%5D(https://static.interval.im/blog/5xNRQm2AKqfz.png)">https://edit.newrank.cn/?from=xiaomark.com)![135编辑器](https://static.interval.im/blog/5xNRQm2AKqfz.png)</a></p><h3 id="135编辑器"><a href="#135编辑器" class="headerlink" title="135编辑器"></a>135编辑器</h3><p>好用素材多</p><p>](<a href="https://www.135editor.com/?from=xiaomark.com)!%5B%E5%A3%B9%E4%BC%B4%5D(https://static.interval.im/blog/V4qMqN4f5uxM.png)">https://www.135editor.com/?from=xiaomark.com)![壹伴](https://static.interval.im/blog/V4qMqN4f5uxM.png)</a></p><h3 id="壹伴-1"><a href="#壹伴-1" class="headerlink" title="壹伴"></a>壹伴</h3><p>增强微信编辑器，一键图文排版神器</p><p>](<a href="https://yiban.io/?from=xiaomark.com">https://yiban.io/?from=xiaomark.com</a>)</p><h2 id="H5制作-·-7-个"><a href="#H5制作-·-7-个" class="headerlink" title="H5制作 · 7 个"></a>H5制作 · 7 个</h2><p><img src="https://static.interval.im/blog/7BB9Sxqd7u1m.png" alt="iH5"></p><h3 id="iH5"><a href="#iH5" class="headerlink" title="iH5"></a>iH5</h3><p>专业的H5在线制作工具</p><p>](<a href="https://www.ih5.cn/?from=xiaomark.com)!%5B%E7%A7%80%E8%B5%9E%5D(https://static.interval.im/blog/mxZVkh3NTbqj.png)">https://www.ih5.cn/?from=xiaomark.com)![秀赞](https://static.interval.im/blog/mxZVkh3NTbqj.png)</a></p><h3 id="秀赞"><a href="#秀赞" class="headerlink" title="秀赞"></a>秀赞</h3><p>免费H5页面制作</p><p>](<a href="https://www.xiuzan.com/?from=xiaomark.com)!%5B%E4%BA%BA%E4%BA%BA%E7%A7%80%5D(https://static.interval.im/blog/eLcC9IDFKDv5.png)">https://www.xiuzan.com/?from=xiaomark.com)![人人秀](https://static.interval.im/blog/eLcC9IDFKDv5.png)</a></p><h3 id="人人秀"><a href="#人人秀" class="headerlink" title="人人秀"></a>人人秀</h3><p>免费H5页面制作工具</p><p>](<a href="https://rrx.cn/?from=xiaomark.com)!%5B%E6%98%93%E4%BC%81%E7%A7%80%5D(https://static.interval.im/blog/53BkaOUmCO0N.png)">https://rrx.cn/?from=xiaomark.com)![易企秀](https://static.interval.im/blog/53BkaOUmCO0N.png)</a></p><h3 id="易企秀"><a href="#易企秀" class="headerlink" title="易企秀"></a>易企秀</h3><p>免费H5制作</p><p>](<a href="http://www.eqxiu.com/?from=xiaomark.com)!%5B%E5%85%94%E5%B1%95%5D(https://static.interval.im/blog/AS9361unBsLb.png)">http://www.eqxiu.com/?from=xiaomark.com)![兔展](https://static.interval.im/blog/AS9361unBsLb.png)</a></p><h3 id="兔展"><a href="#兔展" class="headerlink" title="兔展"></a>兔展</h3><p>微信H5页面、电子邀请函创作平台</p><p>](<a href="https://www.rabbitpre.com/?from=xiaomark.com)!%5B%E5%88%9D%E9%A1%B5%5D(https://static.interval.im/blog/reyxJIWWYMEa.png)">https://www.rabbitpre.com/?from=xiaomark.com)![初页](https://static.interval.im/blog/reyxJIWWYMEa.png)</a></p><h3 id="初页"><a href="#初页" class="headerlink" title="初页"></a>初页</h3><p>最潮的音乐照片情感故事记录/表达工具</p><p>](<a href="http://chuye.cloud7.com.cn/?from=xiaomark.com)!%5BMAKA%5D(https://static.interval.im/blog/MdSln6UGNFrS.png)">http://chuye.cloud7.com.cn/?from=xiaomark.com)![MAKA](https://static.interval.im/blog/MdSln6UGNFrS.png)</a></p><h3 id="MAKA"><a href="#MAKA" class="headerlink" title="MAKA"></a>MAKA</h3><p>海量H5制作模板</p><p>](<a href="http://maka.im/?from=xiaomark.com">http://maka.im/?from=xiaomark.com</a>)</p><h2 id="在线客服-·-7-个"><a href="#在线客服-·-7-个" class="headerlink" title="在线客服 · 7 个"></a>在线客服 · 7 个</h2><p><img src="https://static.interval.im/blog/MDuS3zRj4PhA.png" alt="美洽"></p><h3 id="美洽"><a href="#美洽" class="headerlink" title="美洽"></a>美洽</h3><p>连接客户，亲密无间</p><p>](<a href="https://meiqia.com/?from=xiaomark.com)!%5B%E7%BD%91%E6%98%93%E4%B8%83%E9%B1%BC%5D(https://static.interval.im/blog/NHrA84cJnMss.png)">https://meiqia.com/?from=xiaomark.com)![网易七鱼](https://static.interval.im/blog/NHrA84cJnMss.png)</a></p><h3 id="网易七鱼"><a href="#网易七鱼" class="headerlink" title="网易七鱼"></a>网易七鱼</h3><p>20万家企业信赖的智能客服系统</p><p>](<a href="https://qiyukf.com/online?from=xiaomark.com)!%5BDaoVoice%5D(https://static.interval.im/blog/ZkN4xFAqDwyT.png)">https://qiyukf.com/online?from=xiaomark.com)![DaoVoice](https://static.interval.im/blog/ZkN4xFAqDwyT.png)</a></p><h3 id="DaoVoice"><a href="#DaoVoice" class="headerlink" title="DaoVoice"></a>DaoVoice</h3><p>与客户沟通的绝佳工具</p><p>](<a href="http://www.daovoice.io/?from=xiaomark.com)!%5BUdesk%5D(https://static.interval.im/blog/eShhUMn5eLh6.png)">http://www.daovoice.io/?from=xiaomark.com)![Udesk](https://static.interval.im/blog/eShhUMn5eLh6.png)</a></p><h3 id="Udesk"><a href="#Udesk" class="headerlink" title="Udesk"></a>Udesk</h3><p>全场景智能客服系统平台</p><p>](<a href="http://www.udesk.cn/?from=xiaomark.com)!%5B%E6%99%BA%E9%BD%BF%E5%AE%A2%E6%9C%8D%5D(https://static.interval.im/blog/89PaAyq29HMT.png)">http://www.udesk.cn/?from=xiaomark.com)![智齿客服](https://static.interval.im/blog/89PaAyq29HMT.png)</a></p><h3 id="智齿客服"><a href="#智齿客服" class="headerlink" title="智齿客服"></a>智齿客服</h3><p>在线客服系统，云呼叫中心，智能客服机器人</p><p>](<a href="https://www.sobot.com/?from=xiaomark.com)!%5B%E9%80%B8%E5%88%9B%E4%BA%91%E5%AE%A2%E6%9C%8D%5D(https://static.interval.im/blog/DkApiOE8lbfL.png)">https://www.sobot.com/?from=xiaomark.com)![逸创云客服](https://static.interval.im/blog/DkApiOE8lbfL.png)</a></p><h3 id="逸创云客服"><a href="#逸创云客服" class="headerlink" title="逸创云客服"></a>逸创云客服</h3><p>全渠道智能云客服系统</p><p>](<a href="http://www.kf5.com/?from=xiaomark.com)!%5B%E4%BA%91%E9%9B%80%E5%AE%A2%E6%9C%8D%5D(https://static.interval.im/blog/OXrTNGdwhAth.png)">http://www.kf5.com/?from=xiaomark.com)![云雀客服](https://static.interval.im/blog/OXrTNGdwhAth.png)</a></p><h3 id="云雀客服"><a href="#云雀客服" class="headerlink" title="云雀客服"></a>云雀客服</h3><p>全渠道客服系统</p><p>](<a href="https://www.yunque360.com/?from=xiaomark.com">https://www.yunque360.com/?from=xiaomark.com</a>)</p><h2 id="数据统计-·-11-个"><a href="#数据统计-·-11-个" class="headerlink" title="数据统计 · 11 个"></a>数据统计 · 11 个</h2><p><img src="https://static.interval.im/blog/b9E6QIaHJAmu.png" alt="百度统计"></p><h3 id="百度统计"><a href="#百度统计" class="headerlink" title="百度统计"></a>百度统计</h3><p>网站/最大的中文网站分析平台</p><p>](<a href="https://tongji.baidu.com/?from=xiaomark.com)!%5BGoogle">https://tongji.baidu.com/?from=xiaomark.com)![Google</a> Analytics](<a href="https://static.interval.im/blog/RTY2aDAeJ9Sw.png">https://static.interval.im/blog/RTY2aDAeJ9Sw.png</a>)</p><h3 id="Google-Analytics"><a href="#Google-Analytics" class="headerlink" title="Google Analytics"></a>Google Analytics</h3><p>网站/Google 旗下网站分析统计工具</p><p>](<a href="https://analytics.google.com/?from=xiaomark.com)!%5B%E8%85%BE%E8%AE%AF%E5%88%86%E6%9E%90%5D(https://static.interval.im/blog/esG83FWldLOw.png)">https://analytics.google.com/?from=xiaomark.com)![腾讯分析](https://static.interval.im/blog/esG83FWldLOw.png)</a></p><h3 id="腾讯分析"><a href="#腾讯分析" class="headerlink" title="腾讯分析"></a>腾讯分析</h3><p>网站/腾讯出品的网站统计分析工具</p><p>](<a href="https://ta.qq.com/?from=xiaomark.com)%5B">https://ta.qq.com/?from=xiaomark.com)[</a></p><h3 id="友盟"><a href="#友盟" class="headerlink" title="友盟+"></a>友盟+</h3><p>国内领先的第三方全域数据智能服务商</p><p>](<a href="https://www.umeng.com/?from=xiaomark.com)!%5B51la%5D(https://static.interval.im/blog/hTJapALojELI.png)">https://www.umeng.com/?from=xiaomark.com)![51la](https://static.interval.im/blog/hTJapALojELI.png)</a></p><h3 id="51la"><a href="#51la" class="headerlink" title="51la"></a>51la</h3><p>网站/最精准易用的网站统计分析平台</p><p>](<a href="https://51.la/?from=xiaomark.com)!%5B5118%5D(https://static.interval.im/blog/kQT2uUgiHX5n.png)">https://51.la/?from=xiaomark.com)![5118](https://static.interval.im/blog/kQT2uUgiHX5n.png)</a></p><h3 id="5118"><a href="#5118" class="headerlink" title="5118"></a>5118</h3><p>大数据分析挖掘工具</p><p>](<a href="https://www.5118.com/?from=xiaomark.com)!%5B%E6%98%93%E8%A7%82%E6%96%B9%E8%88%9F%5D(https://static.interval.im/blog/eHQRkinyw3Q6.png)">https://www.5118.com/?from=xiaomark.com)![易观方舟](https://static.interval.im/blog/eHQRkinyw3Q6.png)</a></p><h3 id="易观方舟"><a href="#易观方舟" class="headerlink" title="易观方舟"></a>易观方舟</h3><p>大数据用户行为分析平台</p><p>](<a href="https://ark.analysys.cn/?from=xiaomark.com)!%5B%E9%98%BF%E6%8B%89%E4%B8%81%5D(https://static.interval.im/blog/REAX1B1g3eEJ.png)">https://ark.analysys.cn/?from=xiaomark.com)![阿拉丁](https://static.interval.im/blog/REAX1B1g3eEJ.png)</a></p><h3 id="阿拉丁"><a href="#阿拉丁" class="headerlink" title="阿拉丁"></a>阿拉丁</h3><p>专注于小程序的统计分析平台</p><p>](<a href="https://tj.aldwx.com/?from=xiaomark.com)!%5B%E7%A5%9E%E7%AD%96%E6%95%B0%E6%8D%AE%5D(https://static.interval.im/blog/CCbX7H6fWPuA.png)">https://tj.aldwx.com/?from=xiaomark.com)![神策数据](https://static.interval.im/blog/CCbX7H6fWPuA.png)</a></p><h3 id="神策数据"><a href="#神策数据" class="headerlink" title="神策数据"></a>神策数据</h3><p>大数据用户行为分析产品</p><p>](<a href="https://www.sensorsdata.cn/?from=xiaomark.com)!%5B%E8%AF%B8%E8%91%9Bio%5D(https://static.interval.im/blog/AD3J6NXAv7Ef.png)">https://www.sensorsdata.cn/?from=xiaomark.com)![诸葛io](https://static.interval.im/blog/AD3J6NXAv7Ef.png)</a></p><h3 id="诸葛io"><a href="#诸葛io" class="headerlink" title="诸葛io"></a>诸葛io</h3><p>深入业务场景的数据智能决策平台</p><p>](<a href="https://zhugeio.com/?from=xiaomark.com)!%5BGrowingIO%5D(https://static.interval.im/blog/h2cRNRJ8RzFN.png)">https://zhugeio.com/?from=xiaomark.com)![GrowingIO](https://static.interval.im/blog/h2cRNRJ8RzFN.png)</a></p><h3 id="GrowingIO"><a href="#GrowingIO" class="headerlink" title="GrowingIO"></a>GrowingIO</h3><p>硅谷新一代无埋点用户行为数据分析产品</p><p>](<a href="https://www.growingio.com/?from=xiaomark.com">https://www.growingio.com/?from=xiaomark.com</a>)</p><h2 id="短网址-·-5-个"><a href="#短网址-·-5-个" class="headerlink" title="短网址 · 5 个"></a>短网址 · 5 个</h2><p><img src="https://static.interval.im/blog/gc5qaXlpGDwC.png" alt="小码短链接"></p><h3 id="小码短链接"><a href="#小码短链接" class="headerlink" title="小码短链接"></a>小码短链接</h3><p>好用、好看、有数据统计报表的短链接工具</p><p>](<a href="https://xiaomark.com/?from=xiaomark.com)!%5B%E7%99%BE%E5%BA%A6%E7%9F%AD%E7%BD%91%E5%9D%80%5D(https://static.interval.im/blog/L7TgW9UKO83z.jpeg)">https://xiaomark.com/?from=xiaomark.com)![百度短网址](https://static.interval.im/blog/L7TgW9UKO83z.jpeg)</a></p><h3 id="百度短网址"><a href="#百度短网址" class="headerlink" title="百度短网址"></a>百度短网址</h3><p>百度出品的短网址工具</p><p>](<a href="https://dwz.cn/?from=xiaomark.com)!%5B51la%E7%9F%AD%E9%93%BE%E6%8E%A5%5D(https://static.interval.im/blog/oxD0PK4Z5qUL.png)">https://dwz.cn/?from=xiaomark.com)![51la短链接](https://static.interval.im/blog/oxD0PK4Z5qUL.png)</a></p><h3 id="51la短链接"><a href="#51la短链接" class="headerlink" title="51la短链接"></a>51la短链接</h3><p>免费查看数据网址数据报表</p><p>](<a href="https://dwz.51.la/?from=xiaomark.com)!%5B%E6%AF%9B%E9%A9%B4%E7%9F%AD%E9%93%BE%5D(https://static.interval.im/blog/lXH3w1lMFY0r.png)">https://dwz.51.la/?from=xiaomark.com)![毛驴短链](https://static.interval.im/blog/lXH3w1lMFY0r.png)</a></p><h3 id="毛驴短链"><a href="#毛驴短链" class="headerlink" title="毛驴短链"></a>毛驴短链</h3><p>二维码/短网址生成器</p><p>](<a href="https://www.admqr.com/?from=xiaomark.com)!%5B0x3%E7%9F%AD%E7%BD%91%E5%9D%80%5D(https://static.interval.im/blog/LTd0zYah15hN.png)">https://www.admqr.com/?from=xiaomark.com)![0x3短网址](https://static.interval.im/blog/LTd0zYah15hN.png)</a></p><h3 id="0x3短网址"><a href="#0x3短网址" class="headerlink" title="0x3短网址"></a>0x3短网址</h3><p>专业的短网址统计服务</p><p>](<a href="https://0x3.me/?from=xiaomark.com">https://0x3.me/?from=xiaomark.com</a>)</p><h2 id="在线设计-·-11-个"><a href="#在线设计-·-11-个" class="headerlink" title="在线设计 · 11 个"></a>在线设计 · 11 个</h2><p><img src="https://static.interval.im/blog/rjLAF7SaHHZO.png" alt="镝数"></p><h3 id="镝数"><a href="#镝数" class="headerlink" title="镝数"></a>镝数</h3><p>免费数据图表工具</p><p>](<a href="https://dydata.io/?from=xiaomark.com)!%5B%E8%BD%BB%E5%92%94%5D(https://static.interval.im/blog/i7S32bzgIcIJ.png)">https://dydata.io/?from=xiaomark.com)![轻咔](https://static.interval.im/blog/i7S32bzgIcIJ.png)</a></p><h3 id="轻咔"><a href="#轻咔" class="headerlink" title="轻咔"></a>轻咔</h3><p>极简的在线视频剪辑软件</p><p>](<a href="https://qingcut.com/?from=xiaomark.com)!%5B%E7%88%B1%E7%BE%8E%E5%88%BB%5D(https://static.interval.im/blog/CTfs6dSadCMo.png)">https://qingcut.com/?from=xiaomark.com)![爱美刻](https://static.interval.im/blog/CTfs6dSadCMo.png)</a></p><h3 id="爱美刻"><a href="#爱美刻" class="headerlink" title="爱美刻"></a>爱美刻</h3><p>视频制作从未如此简单</p><p>](<a href="https://aimeike.tv/?from=xiaomark.com)!%5B%E5%A4%BA%E7%9B%AE%5D(https://static.interval.im/blog/PRgkwaUUv1I0.png)">https://aimeike.tv/?from=xiaomark.com)![夺目](https://static.interval.im/blog/PRgkwaUUv1I0.png)</a></p><h3 id="夺目"><a href="#夺目" class="headerlink" title="夺目"></a>夺目</h3><p>简单好用的企业视频制作工具</p><p>](<a href="https://duomu.tv/?from=xiaomark.com)!%5BLOGO%E8%AE%BE%E8%AE%A1%E7%A5%9E%E5%99%A8%5D(https://static.interval.im/blog/HAuEirBkyA0a.png)">https://duomu.tv/?from=xiaomark.com)![LOGO设计神器](https://static.interval.im/blog/HAuEirBkyA0a.png)</a></p><h3 id="LOGO设计神器"><a href="#LOGO设计神器" class="headerlink" title="LOGO设计神器"></a>LOGO设计神器</h3><p>品牌LOGO设计，从未如此简单</p><p>](<a href="https://www.logosc.cn/?from=xiaomark.com)!%5B%E5%9B%BE%E6%80%AA%E5%85%BD%5D(https://static.interval.im/blog/YBhrehw0EkCr.png)">https://www.logosc.cn/?from=xiaomark.com)![图怪兽](https://static.interval.im/blog/YBhrehw0EkCr.png)</a></p><h3 id="图怪兽"><a href="#图怪兽" class="headerlink" title="图怪兽"></a>图怪兽</h3><p>搞定平面设计不求人</p><p>](<a href="https://818ps.com/?from=xiaomark.com)!%5Bcanva%5D(https://static.interval.im/blog/4NWoPjtpEcsf.png)">https://818ps.com/?from=xiaomark.com)![canva](https://static.interval.im/blog/4NWoPjtpEcsf.png)</a></p><h3 id="canva"><a href="#canva" class="headerlink" title="canva"></a>canva</h3><p>在线平面设计软件</p><p>](<a href="https://www.canva.cn/?from=xiaomark.com)!%5BFotor%E6%87%92%E8%AE%BE%E8%AE%A1%5D(https://static.interval.im/blog/E1aNWPdFfO7X.png)">https://www.canva.cn/?from=xiaomark.com)![Fotor懒设计](https://static.interval.im/blog/E1aNWPdFfO7X.png)</a></p><h3 id="Fotor懒设计"><a href="#Fotor懒设计" class="headerlink" title="Fotor懒设计"></a>Fotor懒设计</h3><p>在线设计工具</p><p>](<a href="https://www.fotor.com.cn/?from=xiaomark.com)!%5B%E7%A8%BF%E5%AE%9A%E8%AE%BE%E8%AE%A1%5D(https://static.interval.im/blog/0dsjDPeowSBZ.png)">https://www.fotor.com.cn/?from=xiaomark.com)![稿定设计](https://static.interval.im/blog/0dsjDPeowSBZ.png)</a></p><h3 id="稿定设计"><a href="#稿定设计" class="headerlink" title="稿定设计"></a>稿定设计</h3><p>做图做视频必备</p><p>](<a href="https://www.gaoding.com/?from=xiaomark.com)!%5B%E5%88%9B%E5%AE%A2%E8%B4%B4%5D(https://static.interval.im/blog/UIJu172MpaXn.png)">https://www.gaoding.com/?from=xiaomark.com)![创客贴](https://static.interval.im/blog/UIJu172MpaXn.png)</a></p><h3 id="创客贴"><a href="#创客贴" class="headerlink" title="创客贴"></a>创客贴</h3><p>平面设计作图神器</p><p>](<a href="https://www.chuangkit.com/?from=xiaomark.com)!%5B%E8%AF%8D%E4%BA%91%E7%94%9F%E6%88%90%E5%99%A8%5D(https://static.interval.im/blog/M9pTtGVpc0ee.png)">https://www.chuangkit.com/?from=xiaomark.com)![词云生成器](https://static.interval.im/blog/M9pTtGVpc0ee.png)</a></p><h3 id="词云生成器"><a href="#词云生成器" class="headerlink" title="词云生成器"></a>词云生成器</h3><p>用大数据生成真正值得分享的词云图</p><p>](<a href="https://www.kt1.com/?from=xiaomark.com">https://www.kt1.com/?from=xiaomark.com</a>)</p><h2 id="文件处理-·-3-个"><a href="#文件处理-·-3-个" class="headerlink" title="文件处理 · 3 个"></a>文件处理 · 3 个</h2><p><img src="https://static.interval.im/blog/q9xelqPY863l.png" alt="docsmall PDF处理"></p><h3 id="docsmall-PDF处理"><a href="#docsmall-PDF处理" class="headerlink" title="docsmall PDF处理"></a>docsmall PDF处理</h3><p>PDF压缩、合并、拆分工具</p><p>](<a href="https://docsmall.com/?from=xiaomark.com)!%5BiLovePDF%5D(https://static.interval.im/blog/wexuMS1ZX0a5.png)">https://docsmall.com/?from=xiaomark.com)![iLovePDF](https://static.interval.im/blog/wexuMS1ZX0a5.png)</a></p><h3 id="iLovePDF"><a href="#iLovePDF" class="headerlink" title="iLovePDF"></a>iLovePDF</h3><p>完全免费、易于使用、丰富的PDF处理工具</p><p>](<a href="https://www.ilovepdf.com/?from=xiaomark.com)!%5BSmallpdf%5D(https://static.interval.im/blog/piyBXraGSgbS.png)">https://www.ilovepdf.com/?from=xiaomark.com)![Smallpdf](https://static.interval.im/blog/piyBXraGSgbS.png)</a></p><h3 id="Smallpdf"><a href="#Smallpdf" class="headerlink" title="Smallpdf"></a>Smallpdf</h3><p><a href="https://smallpdf.com/?from=xiaomark.com">功能一应俱全、简单好用的线上 PDF 工具</a></p><h2 id="团队协作-·-6-个"><a href="#团队协作-·-6-个" class="headerlink" title="团队协作 · 6 个"></a>团队协作 · 6 个</h2><p><img src="https://static.interval.im/blog/COTVbnNFm32N.png" alt="Teambition"></p><h3 id="Teambition"><a href="#Teambition" class="headerlink" title="Teambition"></a>Teambition</h3><p>团队协作工具创导者</p><p>](<a href="https://www.teambition.com/?from=xiaomark.com)!%5B%E9%A3%9E%E4%B9%A6%5D(https://static.interval.im/blog/qbAQJYubpmG6.png)">https://www.teambition.com/?from=xiaomark.com)![飞书](https://static.interval.im/blog/qbAQJYubpmG6.png)</a></p><h3 id="飞书"><a href="#飞书" class="headerlink" title="飞书"></a>飞书</h3><p>开启高效协同办公时代</p><p>](<a href="https://www.feishu.cn/?from=xiaomark.com)!%5BTower%5D(https://static.interval.im/blog/p5HFuHefVcgk.png)">https://www.feishu.cn/?from=xiaomark.com)![Tower](https://static.interval.im/blog/p5HFuHefVcgk.png)</a></p><h3 id="Tower"><a href="#Tower" class="headerlink" title="Tower"></a>Tower</h3><p>提升协作效率，打造高效团队</p><p>](<a href="https://tower.im/?from=xiaomark.com)!%5B%E5%80%8D%E6%B4%BD%5D(https://static.interval.im/blog/ukTPMOMcb4Ii.png)">https://tower.im/?from=xiaomark.com)![倍洽](https://static.interval.im/blog/ukTPMOMcb4Ii.png)</a></p><h3 id="倍洽"><a href="#倍洽" class="headerlink" title="倍洽"></a>倍洽</h3><p>面向工作场景的智能化消息处理中心</p><p>](<a href="https://bearychat.com/?from=xiaomark.com)!%5BTrello%5D(https://static.interval.im/blog/0N9Ts8629KNC.png)">https://bearychat.com/?from=xiaomark.com)![Trello](https://static.interval.im/blog/0N9Ts8629KNC.png)</a></p><h3 id="Trello"><a href="#Trello" class="headerlink" title="Trello"></a>Trello</h3><p>让您能开展更多的协作，完成更多的工作</p><p>](<a href="https://trello.com/?from=xiaomark.com)!%5BWorktile%5D(https://static.interval.im/blog/KbT5j0FGcEQ1.png)">https://trello.com/?from=xiaomark.com)![Worktile](https://static.interval.im/blog/KbT5j0FGcEQ1.png)</a></p><h3 id="Worktile"><a href="#Worktile" class="headerlink" title="Worktile"></a>Worktile</h3><p>软件开发、项目管理及协作工具</p><p>](<a href="https://worktile.com/?from=xiaomark.com">https://worktile.com/?from=xiaomark.com</a>)</p><h2 id="图片处理-·-6-个"><a href="#图片处理-·-6-个" class="headerlink" title="图片处理 · 6 个"></a>图片处理 · 6 个</h2><p><img src="https://static.interval.im/blog/Ng3L2Qe7vEq0.png" alt="docsmall"></p><h3 id="docsmall"><a href="#docsmall" class="headerlink" title="docsmall"></a>docsmall</h3><p>在线jpg、png、gif压缩缩放</p><p>](<a href="https://docsmall.com/?from=xiaomark.com)!%5BTinyPNG%5D(https://static.interval.im/blog/LyrR1z0uC2hG.png)">https://docsmall.com/?from=xiaomark.com)![TinyPNG](https://static.interval.im/blog/LyrR1z0uC2hG.png)</a></p><h3 id="TinyPNG"><a href="#TinyPNG" class="headerlink" title="TinyPNG"></a>TinyPNG</h3><p>jpg、png智能压缩</p><p>](<a href="https://tinypng.com/?from=xiaomark.com)!%5B%E6%99%BA%E5%9B%BE%5D(https://static.interval.im/blog/goFcCpXcOOZw.png)">https://tinypng.com/?from=xiaomark.com)![智图](https://static.interval.im/blog/goFcCpXcOOZw.png)</a></p><h3 id="智图"><a href="#智图" class="headerlink" title="智图"></a>智图</h3><p>图片压缩在线工具</p><p>](<a href="https://zhitu.isux.us/?from=xiaomark.com)!%5Bimg.top%5D(https://static.interval.im/blog/6Octv9mE68ja.png)">https://zhitu.isux.us/?from=xiaomark.com)![img.top](https://static.interval.im/blog/6Octv9mE68ja.png)</a></p><h3 id="img-top"><a href="#img-top" class="headerlink" title="img.top"></a>img.top</h3><p>智能图片压缩</p><p>](<a href="https://img.top/?from=xiaomark.com)!%5Bsoogif%5D(https://static.interval.im/blog/C8xZlxxaIkAd.png)">https://img.top/?from=xiaomark.com)![soogif](https://static.interval.im/blog/C8xZlxxaIkAd.png)</a></p><h3 id="soogif"><a href="#soogif" class="headerlink" title="soogif"></a>soogif</h3><p>免费动图在线制作工具</p><p>](<a href="https://www.soogif.com/?from=xiaomark.com)!%5Bezgif%5D(https://static.interval.im/blog/lny6SrYEhTiC.png)">https://www.soogif.com/?from=xiaomark.com)![ezgif](https://static.interval.im/blog/lny6SrYEhTiC.png)</a></p><h3 id="ezgif"><a href="#ezgif" class="headerlink" title="ezgif"></a>ezgif</h3><p>GIF全能编辑器</p><p>](<a href="https://ezgif.com/?from=xiaomark.com">https://ezgif.com/?from=xiaomark.com</a>)</p><h2 id="无版权图库-·-5-个"><a href="#无版权图库-·-5-个" class="headerlink" title="无版权图库 · 5 个"></a>无版权图库 · 5 个</h2><p><img src="https://static.interval.im/blog/LD9Bq4mooWCg.png" alt="PNGimg"></p><h3 id="PNGimg"><a href="#PNGimg" class="headerlink" title="PNGimg"></a>PNGimg</h3><p><a href="http://pngimg.com/?from=xiaomark.com">透明背景的png图片，再也不用抠图了</a><br><img src="https://static.interval.im/blog/rtbBO0W2rigv.png" alt="泼辣有图"></p><h3 id="泼辣有图"><a href="#泼辣有图" class="headerlink" title="泼辣有图"></a>泼辣有图</h3><p><a href="http://www.polayoutu.com/collections?from=xiaomark.com">开源摄影，为世界提供免费美丽图像</a><br><img src="https://static.interval.im/blog/31ycFaytmUpO.png" alt="Pexels"></p><h3 id="Pexels"><a href="#Pexels" class="headerlink" title="Pexels"></a>Pexels</h3><p>免费图库</p><p>](<a href="https://www.pexels.com/?from=xiaomark.com)!%5BUnsplash%5D(https://static.interval.im/blog/dm7s35uh2qqm.png)">https://www.pexels.com/?from=xiaomark.com)![Unsplash](https://static.interval.im/blog/dm7s35uh2qqm.png)</a></p><h3 id="Unsplash"><a href="#Unsplash" class="headerlink" title="Unsplash"></a>Unsplash</h3><p><a href="https://unsplash.com/?from=xiaomark.com">免费图片素材</a><br><img src="https://static.interval.im/blog/l7AmbABTorQ8.png" alt="pixabay"></p><h3 id="pixabay"><a href="#pixabay" class="headerlink" title="pixabay"></a>pixabay</h3><p><a href="https://pixabay.com/?from=xiaomark.com">免费正版高清图片素材库</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 故事 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 工具 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>建站历程</title>
+      <link href="/2021/04/30/998-jian-zhan/lun-tan-da-jian/cun-zai-wen-ti/"/>
+      <url>/2021/04/30/998-jian-zhan/lun-tan-da-jian/cun-zai-wen-ti/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/2021/04/30/998-jian-zhan/lun-tan-da-jian/cun-zai-wen-ti/%E8%A7%A3%E5%BF%A7%E4%BA%91%E7%83%9F%E9%9B%A8.png" alt="解忧云烟雨.png"></p><p>五一到了没啥文案，写个博客记录下建论坛历程，以纪念青春。<br>感谢方鹏飞的技术交流，推文致谢。</p><span id="more"></span><h1 id="论坛需要解决的问题"><a href="#论坛需要解决的问题" class="headerlink" title="论坛需要解决的问题"></a>论坛需要解决的问题</h1><p>网站链接：<a href="https://www.jieyou123.top/">解忧云烟雨</a></p><h2 id="站点的几个设置"><a href="#站点的几个设置" class="headerlink" title="站点的几个设置"></a>站点的几个设置</h2><p><img src="/2021/04/30/998-jian-zhan/lun-tan-da-jian/cun-zai-wen-ti/image-20210306181746718.png" alt="image-20210306181746718"></p><p><img src="/2021/04/30/998-jian-zhan/lun-tan-da-jian/cun-zai-wen-ti/image-20210306181826452.png" alt="image-20210306181826452"></p><p>三个扩展倒还好，都存在少许问题懂得使用方法了，只是它的微信分享并不好用。后期也不打算引入新的，还是关注内容本身更加重要。</p><h2 id="注册"><a href="#注册" class="headerlink" title="注册"></a>注册</h2><p>手机注册，需要阿里云的服务，后期是付费项目暂时不考虑。<br><img src="/2021/04/30/998-jian-zhan/lun-tan-da-jian/cun-zai-wen-ti/image-20210306182004139.png" alt="image-20210306182004139"></p><p>邮箱注册，算是正常了，不影响使用。</p><h2 id="ESO设置优化"><a href="#ESO设置优化" class="headerlink" title="ESO设置优化"></a>ESO设置优化</h2><p>还没想好怎么弄可以优化，后面再弄好，不急。目前没啥内容，不需要。</p><p><img src="/2021/04/30/998-jian-zhan/lun-tan-da-jian/cun-zai-wen-ti/image-20210306182115207.png" alt="image-20210306182115207"></p><h2 id="分类管理：主要做哪些领域"><a href="#分类管理：主要做哪些领域" class="headerlink" title="分类管理：主要做哪些领域"></a>分类管理：主要做哪些领域</h2><p>可以模仿知乎，这个不是问题。不过分类和标签比较乱，后面估计要改改。<br><img src="/2021/04/30/998-jian-zhan/lun-tan-da-jian/cun-zai-wen-ti/image-20210306182624083.png" alt="image-20210306182624083"></p><h2 id="一键登录问题"><a href="#一键登录问题" class="headerlink" title="一键登录问题"></a>一键登录问题</h2><p>后面有空再做</p><p><img src="/2021/04/30/998-jian-zhan/lun-tan-da-jian/cun-zai-wen-ti/image-20210306182510487.png" alt="image-20210306182510487"></p><h2 id="end数据迁移"><a href="#end数据迁移" class="headerlink" title="end数据迁移"></a>end数据迁移</h2><p>还有数据迁移问题，希望可以迁移成功。</p><h1 id="建站历程"><a href="#建站历程" class="headerlink" title="建站历程"></a>建站历程</h1><h2 id="备案链接更改"><a href="#备案链接更改" class="headerlink" title="备案链接更改"></a>备案链接更改</h2><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">/resources/views/themes/default/layout/</span><br><span class="line"></span><br><span class="line">public.blade.php 文件中：191行，链接改成：</span><br><span class="line"></span><br><span class="line">https://beian.miit.gov.cn</span><br><span class="line"></span><br></pre></td></tr></tbody></table></figure><p><a href="https://wenda.tipask.com/image/show/attachments-2021-03-SK5EZae7604f04587e9ff.png"><img src="https://wenda.tipask.com/image/show/attachments-2021-03-SK5EZae7604f04587e9ff.png" alt="attachments-2021-03-SK5EZae7604f04587e9ff.png"></a></p><h2 id="右侧分享栏"><a href="#右侧分享栏" class="headerlink" title="右侧分享栏"></a>右侧分享栏</h2><p><img src="http://119.3.186.212/image/show/attachments-2021-03-ouLBRe8L604da6b786dbb.png" alt="attachments-2021-03-ouLBRe8L604da6b786dbb.png">  </p><h2 id="添加GitHub链接"><a href="#添加GitHub链接" class="headerlink" title="添加GitHub链接"></a>添加GitHub链接</h2><p><img src="http://119.3.186.212/image/show/attachments-2021-03-bFDDoLrf604da69ce5844.png" alt="attachments-2021-03-bFDDoLrf604da69ce5844.png">  </p><h2 id="更改一句话："><a href="#更改一句话：" class="headerlink" title="更改一句话："></a>更改一句话：</h2><p><img src="http://119.3.186.212/image/show/attachments-2021-03-RkFlRS1v6046d613af944.png" alt="attachments-2021-03-RkFlRS1v6046d613af944.png"></p><p>位置：</p><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">resources/views/themes/default/home/ask.blade.php</span><br><span class="line"></span><br></pre></td></tr></tbody></table></figure><p><img src="http://119.3.186.212/image/show/attachments-2021-03-zJKf67Bh6046d7141b801.png" alt="attachments-2021-03-zJKf67Bh6046d7141b801.png">  </p><h2 id="增加域名"><a href="#增加域名" class="headerlink" title="增加域名"></a><strong>增加域名</strong></h2><p><a href="http://jieyou123.top/">http://jieyou123.top/</a></p><p><a href="http://www.jieyou123.top/">http://www.jieyou123.top/</a>  </p><h2 id="更改logo"><a href="#更改logo" class="headerlink" title="更改logo"></a>更改logo</h2><p>logo位置有两个</p><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">public/css/default</span><br><span class="line">public/css/admin/img</span><br><span class="line"></span><br></pre></td></tr></tbody></table></figure><h2 id="2021-3-6"><a href="#2021-3-6" class="headerlink" title="2021-3-6"></a>2021-3-6</h2><p>测试配置,建站成功</p><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> ， </p><p>论坛：<a href="http://www.jieyou123.top/">解忧云烟雨</a> ，<br><a href="https://www.zhihu.com/people/yue-guang-xia-de-mo-zhu-shi-1/zvideos">知乎</a> <a href="">B站</a> <a href="">微信公众号</a> <a href="">今日头条</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 经验分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 建站 </tag>
+            
+            <tag> 论坛 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hexo 搜索功能</title>
+      <link href="/2021/04/29/998-jian-zhan/bo-ke-shuo-ming-wen-dang/hexo-sou-suo-gong-neng/"/>
+      <url>/2021/04/29/998-jian-zhan/bo-ke-shuo-ming-wen-dang/hexo-sou-suo-gong-neng/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/2021/04/29/998-jian-zhan/bo-ke-shuo-ming-wen-dang/hexo-sou-suo-gong-neng/search.jpg" alt="search"></p><span id="more"></span><h1 id="搜索教程"><a href="#搜索教程" class="headerlink" title="搜索教程"></a>搜索教程</h1><p><a href="http://theme-next.iissnan.com/third-party-services.html#search-system">源文件</a> ，</p><p>NexT 支持集成 <a href="https://swiftype.com/">Swiftype</a>、 <a href="http://tinysou.com/">微搜索</a>、Local Search 和 Algolia。</p><p>支持多种，本方案为微搜索。</p><h2 id="1、安装本地搜索插件-hexo-generator-search"><a href="#1、安装本地搜索插件-hexo-generator-search" class="headerlink" title="1、安装本地搜索插件 hexo-generator-search"></a>1、安装本地搜索插件 hexo-generator-search</h2><p>在博客根目录安装搜索插件</p><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"># 安装插件，用于生成博客索引数据（在博客根目录下执行下列命令）：</span><br><span class="line">npm install hexo-generator-searchdb --save</span><br><span class="line"></span><br></pre></td></tr></tbody></table></figure><p>安装之后，会在站点目录的 <code>public</code> 文件夹下创建一个 <code>search.xml</code> 文件。（如果没有 <code>search.xml</code> 文件，请继续往下看）</p><h2 id="2、修改站点配置文件-如果上一步没有找到-search-xml文件-则可以跳过"><a href="#2、修改站点配置文件-如果上一步没有找到-search-xml文件-则可以跳过" class="headerlink" title="2、修改站点配置文件(如果上一步没有找到 search.xml文件 则可以跳过 )"></a>2、修改站点配置文件(如果上一步没有找到 <code>search.xml</code>文件 则可以跳过 )</h2><p>在主题配置文件中的 <code>_config.yml</code> 中添加如下内容：</p><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"># Search</span><br><span class="line">search:</span><br><span class="line">  path: search.xml</span><br><span class="line">  field: post</span><br><span class="line">  format: html</span><br><span class="line">  limit: 1000</span><br></pre></td></tr></tbody></table></figure><ul><li>path：索引文件的路径，相对于站点根目录</li><li>field：搜索范围，默认是 post，还可以选择 page、all，设置成 all 表示搜索所有页面</li><li>limit：限制搜索的条目数</li></ul><h2 id="3、主题配置文件"><a href="#3、主题配置文件" class="headerlink" title="3、主题配置文件"></a>3、主题配置文件</h2><p>在主题配置文件 <code>_config.yml</code> 中找到如下内容：</p><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">local_search:</span><br><span class="line">  enable: true</span><br><span class="line">  trigger: auto</span><br><span class="line">  top_n_per_article: 1</span><br></pre></td></tr></tbody></table></figure><p>确保 <code>enable</code> 设成 <code>true</code>。</p><p><code>top_n_per_article</code> 字段表示在每篇文章中显示的搜索结果数量，设成 <code>-1</code> 会显示每篇文章的所有搜索结果数量。</p><p>然后，重新部署网站即可愉快的使用本地搜索功能了。</p><p><img src="/2021/04/29/998-jian-zhan/bo-ke-shuo-ming-wen-dang/hexo-sou-suo-gong-neng/20200917110556774.png" alt="搜索页面"></p><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p><p><a href="https://www.zhihu.com/people/yue-guang-xia-de-mo-zhu-shi-1/zvideos">知乎</a> <a href="">B站</a> <a href="">微信公众号</a> <a href="">今日头条</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 说明文档 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 搜索 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>给皮卡的信-信仰</title>
+      <link href="/2021/04/29/003-qing-shang/pi-qia/gei-pi-qia-de-xin-xin-yang/"/>
+      <url>/2021/04/29/003-qing-shang/pi-qia/gei-pi-qia-de-xin-xin-yang/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/2021/04/29/003-qing-shang/pi-qia/gei-pi-qia-de-xin-xin-yang/pika.gif" alt="pika"></p><span id="more"></span><h1 id="一封给皮卡的信-信仰"><a href="#一封给皮卡的信-信仰" class="headerlink" title="一封给皮卡的信-信仰"></a>一封给皮卡的信-信仰</h1><p>以前总想不通，为啥你特别喜欢打球。今天翻看我的微信公众号，听过一个尤克里里后，好像有些明白了。大多数人都是在尝鲜之后，趋于冷淡，乐器也就积灰了。当你有一个信仰的爱好时候，做到极致忘却时间。把一个活动，变成自己的战斗场所，全力去做好，才有最后的惊艳。<br>不管是我的爱好、编程，写作记感悟，分享视频和你打的球是一个东西—奋斗点（捕捉一个个感动的瞬间）。</p><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p><p><a href="https://www.zhihu.com/people/yue-guang-xia-de-mo-zhu-shi-1/zvideos">知乎</a> <a href="">B站</a> <a href="">微信公众号</a> <a href="">今日头条</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 人际 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 人际 </tag>
+            
+            <tag> 给皮卡的信 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>索引</title>
+      <link href="/2021/04/28/suo-yin/"/>
+      <url>/2021/04/28/suo-yin/</url>
+      
+        <content type="html"><![CDATA[<h2 id="索引"><a href="#索引" class="headerlink" title="索引"></a>索引</h2><p>规划池</p><p>[[001模板文件前]]<br>#生活 #社交<br>[[生活方式]] [[一个故事]]<br>[[认识自我]] [[我是谁]]<br>#学习 #工作 #事业<br>[[笔记]] [[学习-事业]] [[事业]]<br>[[超市]]  [[自媒体]]</p><span id="more"></span><p>#软件 #技能<br>[[001灵感/工具]] [[证书]] </p><p>#理财 #股票 #投资<br>[[理财]] [[股票]]</p><p>#思维 #认知 #格局<br>[[管理]] [[为人处世]] [[对自己的话]]<br><a href="%E4%BA%A7%E5%93%81%E6%80%9D%E7%BB%B4.md">产品思维</a>  <a href="%E5%B7%A5%E4%BD%9C.md">工作</a><br><a href="%E5%B0%B1%E4%B8%9A.md">就业</a> <a href="%E8%AF%81%E4%B9%A6.md">证书</a><br><a href="%E5%85%B3%E6%B3%A8%E9%97%AE%E9%A2%98.md">关注问题</a> <a href="%E7%BB%99%E7%9A%AE%E5%8D%A1%E7%9A%84%E4%BF%A1-%E8%87%AA%E6%88%91%E5%AE%A1%E8%A7%86.md">给皮卡的信-自我审视</a><br><a href="%E4%BA%BA%E7%94%9F.md">人生</a> <a href="%E6%B7%B1%E5%BA%A6%E6%80%9D%E8%80%83.md">深度思考</a><br><a href="%E8%A1%8C%E7%A8%8B%E8%A7%84%E5%88%92.md">行程规划</a> <a href="%E5%AD%A6%E4%B9%A0-%E4%BA%8B%E4%B8%9A.md">学习-事业</a><br><a href="001%E7%81%B5%E6%84%9F/%E5%B7%A5%E5%85%B7.md">001灵感/工具</a></p><p>#游戏 #资源 #王者荣耀<br>[[资源]] [[经验]]</p><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p><p><a href="https://www.zhihu.com/people/yue-guang-xia-de-mo-zhu-shi-1/zvideos">知乎</a> <a href="">B站</a> <a href="">微信公众号</a> <a href="">今日头条</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 文档 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 中心节点 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>anaconda 配置教程</title>
+      <link href="/2021/04/28/001-ling-gan/anaconda-pei-zhi/"/>
+      <url>/2021/04/28/001-ling-gan/anaconda-pei-zhi/</url>
+      
+        <content type="html"><![CDATA[<h2 id="环境"><a href="#环境" class="headerlink" title="环境"></a>环境</h2><p><a href="https://www.cnblogs.com/littlepage/p/11961208.html">参考原文：</a></p><p>添加清华镜像</p><figure class="highlight python"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/</span><br><span class="line">conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/</span><br><span class="line">conda config --<span class="built_in">set</span> show_channel_urls yes</span><br><span class="line"></span><br></pre></td></tr></tbody></table></figure><span id="more"></span><h2 id="更改目录"><a href="#更改目录" class="headerlink" title="更改目录"></a>更改目录</h2><p>改配置文件：</p><figure class="highlight python"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">jupyter notebook --generate-config</span><br></pre></td></tr></tbody></table></figure><p>可以看到jupyter_notebook_config.py文件路径，打开该文件：<br>管理员账户下的jupyter 中</p><p>查找参数c.NotebookApp.notebook_dir并设置其路径，设置完成后并保存退出，如上图所示。</p><p>将<br>#c.NotebookApp.notebook_dir = ‘’<br>改为<br>c.NotebookApp.notebook_dir = ‘your path’<br>我改成了我自己的路径<br>c.NotebookApp.notebook_dir = ‘E:\PY’<br>我已经将文件建好并创建了一个txt文件</p><p>注意：第一、文件夹必须先创建好，不然会jupyter初始化时会找不到目录<br>     第二、要取消注释，c前面的#要去掉。<br>     第三、要注意文件名不可以是数字</p><p>保存并关闭。<br>现在可以在Anaconda Navigator中打开</p><p>希望用快捷方式打开</p><p>在jupyter notebook快捷方式的属性里要删掉%USERPROFILE%<br>%USERPROFILE%会使得jupyter打开固定地址。</p><p>成功打开</p><p><a href="https://blog.csdn.net/weixin_36292173/article/details/76209839">原文链接</a></p><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p><p><a href="https://www.zhihu.com/people/yue-guang-xia-de-mo-zhu-shi-1/zvideos">知乎</a> <a href="">B站</a> <a href="">微信公众号</a> <a href="">今日头条</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 经验 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>模板文件</title>
+      <link href="/2021/04/28/mo-ban-wen-jian/mo-ban-shuo-ming/"/>
+      <url>/2021/04/28/mo-ban-wen-jian/mo-ban-shuo-ming/</url>
+      
+        <content type="html"><![CDATA[<h1 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h1><p>内容</p><span id="more"></span><h1 id="分类-标签"><a href="#分类-标签" class="headerlink" title="分类-标签:"></a>分类-标签:</h1><p>已解决的问题，未解决的问题，说明文档，<br>经验分享；投资，学习、科研</p><p>分类需要控制，标签可以比较乱。<br>主要贴合主题，便于检索就行。</p><h1 id="end-网站链接："><a href="#end-网站链接：" class="headerlink" title="end-网站链接："></a>end-网站链接：</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> ，</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 说明文档 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 经验 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>故事大纲</title>
+      <link href="/2021/04/28/997-gui-dang/gu-shi/da-gang/"/>
+      <url>/2021/04/28/997-gui-dang/gu-shi/da-gang/</url>
+      
+        <content type="html"><![CDATA[<p>主旋律成长：</p><p>三方势力<br>一方守护者，一方战斗，一方邪灵。<br>守护者来自大陆的过个部落精英<br>背叛</p><p>当你凝望深渊，深渊也将凝望你。屠龙久已，自身亦是恶龙。</p><p>[[梦境-碎片]],古城堡的恋爱经历，美好的让人陶醉。<br>[[古城堡]], 惊艳的相遇，对你的深深迷恋。<br>[[城堡巨变]],像小偷的躲藏。<br>[[与龙之战]], 优秀的蜕变，逐渐变好。<br>[[黑化之路]], 不安控制，要对等的绑架。<br>[[恶龙复仇]], 分手的执念。<br>[[感悟]],有很多事会让你心痛。只是不去怀念，不再想念。<br>[[梦醒]]，江湖上只有你们的传说。</p><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 故事 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 大纲 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>next 主题简介</title>
+      <link href="/2021/04/28/998-jian-zhan/bo-ke-shuo-ming-wen-dang/next-zhu-ti/"/>
+      <url>/2021/04/28/998-jian-zhan/bo-ke-shuo-ming-wen-dang/next-zhu-ti/</url>
+      
+        <content type="html"><![CDATA[<h1 id="next-主题"><a href="#next-主题" class="headerlink" title="next 主题"></a><a href="http://theme-next.iissnan.com/">next 主题</a></h1><h2 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h2><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br></pre></td><td class="code"><pre><span class="line">theme: next</span><br><span class="line"></span><br><span class="line">scheme: Pisces</span><br><span class="line"></span><br><span class="line">language: zh-Hans</span><br><span class="line"></span><br><span class="line">menu:</span><br><span class="line">  home: 首页</span><br><span class="line">  archives: 归档</span><br><span class="line">  categories: 分类</span><br><span class="line">  tags: 标签</span><br><span class="line">  about: 关于</span><br><span class="line">  search: 搜索</span><br><span class="line">  commonweal: 公益404</span><br><span class="line">  something: 有料</span><br><span class="line"></span><br><span class="line">avatar: /images/fig.jpg</span><br><span class="line"># http://example.com/avatar.png</span><br><span class="line"></span><br><span class="line"># https://github.com/chriskempson/tomorrow-theme</span><br><span class="line">highlight_theme: normal</span><br><span class="line">normal，night， night blue， night bright， night eighties：</span><br></pre></td></tr></tbody></table></figure><span id="more"></span><ul><li>Muse - 默认 Scheme，这是 NexT 最初的版本，黑白主调，大量留白</li><li>Mist - Muse 的紧凑版本，整洁有序的单栏外观</li><li>Pisces - 双栏 Scheme，小家碧玉似的清新</li></ul><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p><p><a href="https://www.zhihu.com/people/yue-guang-xia-de-mo-zhu-shi-1/zvideos">知乎</a> <a href="">B站</a> <a href="">微信公众号</a> <a href="">今日头条</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 已解决的问题 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+            <tag> 主题 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>故事</title>
+      <link href="/2021/04/28/998-jian-zhan/bo-ke-shuo-ming-wen-dang/tou-wen-jian-shu-xie/"/>
+      <url>/2021/04/28/998-jian-zhan/bo-ke-shuo-ming-wen-dang/tou-wen-jian-shu-xie/</url>
+      
+        <content type="html"><![CDATA[<h1 id="头文件书写说明"><a href="#头文件书写说明" class="headerlink" title="头文件书写说明"></a>头文件书写说明</h1><p>头文件必须留有空格，和obsidian搭配使用可以增加效果。</p><figure class="highlight html"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">title: 故事</span><br><span class="line">date: 2021-04-28 14:58:46</span><br><span class="line"></span><br><span class="line">categories:</span><br><span class="line"> - 说明文档</span><br><span class="line"></span><br><span class="line">tags:</span><br><span class="line"> - 说明</span><br><span class="line"> - 文档</span><br><span class="line"> - </span><br></pre></td></tr></tbody></table></figure><ul><li>头部和正文之间要使用3个“-”进行分割，3个“-”与头部之间要有一个空行  </li><li>注意冒号后边要有空格，“-”符号前后都要有空格就比较好，其实前面不用空格。只是缩进有利于好看。  有严格的逻辑关系。</li><li>title的内容中间不能有空格！，否则无法上传。有很多格式很严格，比较难发现。</li></ul><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p><p><a href="https://www.zhihu.com/people/yue-guang-xia-de-mo-zhu-shi-1/zvideos">知乎</a> <a href="">B站</a> <a href="">微信公众号</a> <a href="">今日头条</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 说明文档 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 说明 </tag>
+            
+            <tag> 文档 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>工具池</title>
+      <link href="/2021/04/28/998-jian-zhan/bo-ke-shuo-ming-wen-dang/gong-ju-chi/"/>
+      <url>/2021/04/28/998-jian-zhan/bo-ke-shuo-ming-wen-dang/gong-ju-chi/</url>
+      
+        <content type="html"><![CDATA[<h2 id="工具池"><a href="#工具池" class="headerlink" title="工具池"></a>工具池</h2><p>author: hams Ali</p><p>人并非工具的仆人，关键还是在于从事的工作。如宇航员用铅笔记录，也是一个牛逼的工具。</p><p>工具无关贵贱，适合、迅洁地做好任务，才是最好的。</p><h2 id="文档："><a href="#文档：" class="headerlink" title="文档："></a>文档：</h2><p>office：word，excel，PPT；感觉office365的同步挺好的，基本可以满足所有要求。</p><p>后面可以配合onedrive </p><p>markdown，HTML，PDF，微信公众号编辑（135，秀米都比较好用）；<br>腾讯文档，飞书，有道云笔记，印象笔记</p><span id="more"></span><h2 id="绘图-视频："><a href="#绘图-视频：" class="headerlink" title="绘图-视频："></a>绘图-视频：</h2><p>origin，AI,PS。<br>AE,PR,剪映，会声会影。<br>工具不在于多而在于满足使用，快速上手，能满足要求才是合适的。</p><!-- more --><h2 id="数据处理类："><a href="#数据处理类：" class="headerlink" title="数据处理类："></a>数据处理类：</h2><p>MATLAB，python， excel，<br>数据库，MySQL。<br>可以简单处理就行了，后面由于数据量增加再学后面的知识。如果仅仅是为了很酷，可能很长时间都用不到。关键还是在使用，使用的多了才会精通。</p><h2 id="工程类："><a href="#工程类：" class="headerlink" title="工程类："></a>工程类：</h2><p>CAD, 有限元，模拟，<br>思维导图，流程图，工艺布置图，施工图，</p><h2 id="知识管理软件"><a href="#知识管理软件" class="headerlink" title="知识管理软件"></a>知识管理软件</h2><p>zotero,obsidian，大脑整理（还是需要自身的认识清晰）。</p><h2 id="共享协同"><a href="#共享协同" class="headerlink" title="共享协同"></a>共享协同</h2><p>金山文档，腾讯文档，飞书，印象笔记，有道云笔记<br>连麦一起做事，看电影，听歌，微光。</p><h2 id="分类-标签"><a href="#分类-标签" class="headerlink" title="分类-标签:"></a>分类-标签:</h2><p>已解决的问题，未解决的问题，说明文档，成长之路</p><p>分类需要控制，标签可以比较乱。主要贴合主题，便于检索就行。</p><h2 id="end-网站链接："><a href="#end-网站链接：" class="headerlink" title="end-网站链接："></a>end-网站链接：</h2><p><a href="https://github.com/hamsali">我的github</a> ，<a href="https://hamsali.github.io/">github博客网址</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客网址</a> ，<a href="http://localhost:4000/">本地访问</a> ， </p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 成长之路 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 经验 </tag>
+            
+            <tag> 成长 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>网站特效</title>
+      <link href="/2021/04/28/998-jian-zhan/bo-ke-shuo-ming-wen-dang/wang-zhan-te-xiao/"/>
+      <url>/2021/04/28/998-jian-zhan/bo-ke-shuo-ming-wen-dang/wang-zhan-te-xiao/</url>
+      
+        <content type="html"><![CDATA[<h1 id="网站效果"><a href="#网站效果" class="headerlink" title="网站效果"></a>网站效果</h1><p>切换的动画，比较动态的画面。<br>有实时反馈，以后的说明文档也要写成那样。</p><h1 id="点击特效"><a href="#点击特效" class="headerlink" title="点击特效"></a>点击特效</h1><ul><li><input disabled="" type="checkbox"> 点击产生星星</li><li><input disabled="" type="checkbox"> 一个拖尾效果</li><li><input disabled="" type="checkbox"> 粒子吸引效果</li></ul><span id="more"></span><h1 id="宠物"><a href="#宠物" class="headerlink" title="宠物"></a>宠物</h1><p>有个陪伴自己的小站，有些反馈。</p><p>让人没那么孤独。</p><h1 id="主题"><a href="#主题" class="headerlink" title="主题"></a>主题</h1><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">butterfly,改动较多。大佬多</span><br><span class="line">next，当做个人博客挺好的</span><br><span class="line">matery-感觉挺棒的一个。</span><br><span class="line">Theme [Keep v3.4.3](https://github.com/XPoet/hexo-theme-keep)</span><br><span class="line">Theme.[Shoka](https://github.com/amehime/hexo-theme-shoka "Shoka")</span><br><span class="line">[hexo-theme-book](https://github.com/kaiiiz/hexo-theme-book) 😃</span><br></pre></td></tr></tbody></table></figure><h2 id="next"><a href="#next" class="headerlink" title="next"></a>next</h2><p><img src="/2021/04/28/998-jian-zhan/bo-ke-shuo-ming-wen-dang/wang-zhan-te-xiao/20210611193731.png" alt="300"></p><h2 id="matery"><a href="#matery" class="headerlink" title="matery"></a>matery</h2><p><img src="/2021/04/28/998-jian-zhan/bo-ke-shuo-ming-wen-dang/wang-zhan-te-xiao/20210611194109.png" alt="2021"></p><h2 id="Shoka"><a href="#Shoka" class="headerlink" title="Shoka"></a>Shoka</h2><p><img src="/2021/04/28/998-jian-zhan/bo-ke-shuo-ming-wen-dang/wang-zhan-te-xiao/sho.png" alt="sho.png"></p><h2 id="keep"><a href="#keep" class="headerlink" title="keep"></a>keep</h2><p><img src="/2021/04/28/998-jian-zhan/bo-ke-shuo-ming-wen-dang/wang-zhan-te-xiao/123.png" alt="123.png"></p><h2 id="book"><a href="#book" class="headerlink" title="book"></a>book</h2><p><img src="/2021/04/28/998-jian-zhan/bo-ke-shuo-ming-wen-dang/wang-zhan-te-xiao/book.png" alt="book"></p><h2 id="end-网站链接："><a href="#end-网站链接：" class="headerlink" title="end-网站链接："></a>end-网站链接：</h2><p><a href="https://github.com/hamsali">我的github</a> ，<a href="https://hamsali.github.io/">github博客网址</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客网址</a> ，<a href="http://localhost:4000/">本地访问</a> ， </p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 未解决的问题 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+            <tag> 探索 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>古城堡</title>
+      <link href="/2021/04/28/997-gui-dang/gu-shi/zhang-jie/gu-cheng-bao/"/>
+      <url>/2021/04/28/997-gui-dang/gu-shi/zhang-jie/gu-cheng-bao/</url>
+      
+        <content type="html"><![CDATA[<p>小家伙的视角：城堡相遇公主，被打动。<br>偷偷约会，帮忙做家务，陪伴讲故事，主动付出，做牛做马。<br>约会被城堡恶龙发现，城堡巨变开始出现怪兽。</p><h3 id="哄女孩开心"><a href="#哄女孩开心" class="headerlink" title="哄女孩开心"></a>哄女孩开心</h3><p>果然是古堡，私会并不领情。<br>要学会讨女孩子喜欢，但又笨拙。<br>喜欢表现，又处处碰壁。<br>打扫卫生<br>抹桌子，有不干净。<br>到处被吐槽</p><p>一段倾诉，家里的确实。父母不好，很难过，大人是个奇怪的东西。</p><p>牵手，<br>拥抱，亲吻。</p><h3 id="恶龙来袭"><a href="#恶龙来袭" class="headerlink" title="恶龙来袭"></a>恶龙来袭</h3><p>脚步声，公主惊慌失措。恶龙要来了，被它发现会杀了你。快躲起来。</p><p>外观：</p><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p><p><a href="https://www.zhihu.com/people/yue-guang-xia-de-mo-zhu-shi-1/zvideos">知乎</a> <a href="">B站</a> <a href="">微信公众号</a> <a href="">今日头条</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 故事 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 古城堡 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>故事与龙之战</title>
+      <link href="/2021/04/28/997-gui-dang/gu-shi/zhang-jie/yu-long-zhi-zhan/"/>
+      <url>/2021/04/28/997-gui-dang/gu-shi/zhang-jie/yu-long-zhi-zhan/</url>
+      
+        <content type="html"><![CDATA[<p>第一次，城堡营救。<br>失败，巨龙很强小家伙重伤。</p><p>寻找巫师后：<br>最终在湖中的祭坛石像中拿到大师之剑（若沾龙血，自身亦化恶龙）。<br>体力，精力，<br>多次后</p><p>前往城堡，打败巨龙。<br>突然小家伙，懂得龙语，发现恶龙是女孩父亲。<br>傍晚在城堡屋顶，与恶龙告别。</p><p>小家伙获得女主认可，解救城堡公主获得自由。<br>迎来，短暂的美好。</p><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a><br><a href="https://www.zhihu.com/people/yue-guang-xia-de-mo-zhu-shi-1/zvideos">知乎</a> <a href="">B站</a> <a href="">微信公众号</a> <a href="">今日头条</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 故事 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 与龙之战 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>古堡巨变</title>
+      <link href="/2021/04/28/997-gui-dang/gu-shi/zhang-jie/cheng-bao-ju-bian/"/>
+      <url>/2021/04/28/997-gui-dang/gu-shi/zhang-jie/cheng-bao-ju-bian/</url>
+      
+        <content type="html"><![CDATA[<p>约会时被发现，城堡管理的恶龙发现。<br>小家伙与公主开始逃亡，结局公主被囚禁失去自由。<br>公主：逃离龙穴，数次计划，均失败盼望小家伙归来。</p><p>密室逃脱，<br>床下，衣柜，凳子下，门后。</p><p>谁的外套？</p><p>快跑。</p><p>环境巨变，小家伙被很多小小怪物追杀。</p><p>被捉，女孩以死要挟恶龙，小家伙得以生还。</p><p>被带离城堡外，追杀之旅开始刷怪之旅。<br>青蛙怪，棕熊，剑齿虎，</p><p>攀岩</p><p>森林探险</p><p>逐渐只知道屠杀，搜集金币，装备。不知道是上进，还是贪婪。</p><p>公主：<br>约会被发现，憎恨恶龙，被束缚。<br>期待小家伙归来，<br>但奇怪的是恶龙从不上海她，甚至有些讨好。</p><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p><p><a href="https://www.zhihu.com/people/yue-guang-xia-de-mo-zhu-shi-1/zvideos">知乎</a> <a href="">B站</a> <a href="">微信公众号</a> <a href="">今日头条</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 故事 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 第一章 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>恶龙复仇</title>
+      <link href="/2021/04/28/997-gui-dang/gu-shi/zhang-jie/e-long-fu-chou/"/>
+      <url>/2021/04/28/997-gui-dang/gu-shi/zhang-jie/e-long-fu-chou/</url>
+      
+        <content type="html"><![CDATA[<p>小家伙，为了夺回公主，袭击城堡。<br>到处’屠龙’，最终城堡的第一任巨龙出手。<br>两败俱伤，小家伙战败，重伤在身。</p><p>曾经屠龙的骑士终于变成了囚禁公主的恶龙。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>故事-感悟</title>
+      <link href="/2021/04/28/997-gui-dang/gu-shi/zhang-jie/gan-wu/"/>
+      <url>/2021/04/28/997-gui-dang/gu-shi/zhang-jie/gan-wu/</url>
+      
+        <content type="html"><![CDATA[<p>小家伙在余生中寻找自我，最后全是独白与感悟<br>所有的话语皆是自语。<br>终于想通了，归还大师之剑。<br>剑入祭坛巨龙石像中，沉于湖。</p><p>里面是男生，女友，岳父，竞争者的故事。<br>男生开始的付出，是后来的控制欲，不断驱赶其他靠近的男生，最后只懂得工作赚钱，导致关系决裂。</p><p>放下芥蒂，偶然相遇</p><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p><p><a href="https://www.zhihu.com/people/yue-guang-xia-de-mo-zhu-shi-1/zvideos">知乎</a> <a href="">B站</a> <a href="">微信公众号</a> <a href="">今日头条</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 故事 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 感悟 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>故事梦醒</title>
+      <link href="/2021/04/28/997-gui-dang/gu-shi/zhang-jie/meng-xing/"/>
+      <url>/2021/04/28/997-gui-dang/gu-shi/zhang-jie/meng-xing/</url>
+      
+        <content type="html"><![CDATA[<p>啊！！<br>突然醒后，<br>杨同学上课居然睡觉，这道题怎么解？<br>李老师，我不会。。。<br>后面站着</p><p>终。。。</p><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p><p><a href="https://www.zhihu.com/people/yue-guang-xia-de-mo-zhu-shi-1/zvideos">知乎</a> <a href="">B站</a> <a href="">微信公众号</a> <a href="">今日头条</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 故事 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 梦醒 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>黑化之路</title>
+      <link href="/2021/04/28/997-gui-dang/gu-shi/zhang-jie/hei-hua-zhi-lu/"/>
+      <url>/2021/04/28/997-gui-dang/gu-shi/zhang-jie/hei-hua-zhi-lu/</url>
+      
+        <content type="html"><![CDATA[<p>逐渐矛盾增多，小家伙沉迷与刷怪，打金币，收装备，建城堡<br>公主：我仅仅想要陪伴，难道有错吗？<br>小家伙：为了保护你我也有错吗？<br>最终（龙穴）建造完成，公主再次被囚禁。<br>小家伙绑架的公主。</p><span id="more"></span><p>公主感觉被束缚，发现小家伙成了恶龙。但他还是以为是骑士，其实早已入魔。<br>公主请求其他骑士帮助，帮自己逃离龙穴。<br>而小家伙眼中的恶龙，才是一个个骑士。<br>有很多骑士想拯救女孩，挑战恶龙，最后巨龙被驱逐。<br>公主返回城堡。</p><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p><p><a href="https://www.zhihu.com/people/yue-guang-xia-de-mo-zhu-shi-1/zvideos">知乎</a> <a href="">B站</a> <a href="">微信公众号</a> <a href="">今日头条</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 故事 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 黑化之路 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>故事梦境碎片</title>
+      <link href="/2021/04/28/997-gui-dang/gu-shi/zhang-jie/meng-jing-sui-pian/"/>
+      <url>/2021/04/28/997-gui-dang/gu-shi/zhang-jie/meng-jing-sui-pian/</url>
+      
+        <content type="html"><![CDATA[<h2 id="序：梦之碎片"><a href="#序：梦之碎片" class="headerlink" title="序：梦之碎片"></a>序：梦之碎片</h2><p>女孩（小家伙叫她哎）和男孩（被称小家伙）：角色扮演</p><p>醒来，身边的小姑凉。很可爱</p><p>一起玩耍,相互倾诉，</p><p>做作业，绘画,<br>山水，小姐姐<br>小姐姐回了一副他的画。</p><p>魔法,我会魔法呦。</p><p>告别，有点不舍分离。</p><span id="more"></span><p>小时候，很多人特别孤单。总幻想一个人不能相互陪伴，虽然没有现实的人相似。但，她又是我们所有喜欢人的缩影。<br>你好，小家伙，我一直在你身边。</p><p>门开，出现一个城堡，公主走向城堡。</p><h1 id="第一章古堡"><a href="#第一章古堡" class="headerlink" title="第一章古堡"></a>第一章古堡</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> 故事 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 梦境 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>考试分析</title>
+      <link href="/2021/04/28/003-qing-shang/ren-ji/er-jiu/kao-shi-fen-xi/"/>
+      <url>/2021/04/28/003-qing-shang/ren-ji/er-jiu/kao-shi-fen-xi/</url>
+      
+        <content type="html"><![CDATA[<h1 id="考试分析"><a href="#考试分析" class="headerlink" title="考试分析"></a>考试分析</h1><p>她考试各科分数占总分的55%-80%。60%-75%居多，对考试掌握程度属于中等水平。<br>三次考试呈递减下降趋势，但分数幅度不大，可能是有啥心理压力，或者受到某些事打扰。</p><p>建议补课补，数学，物理，英语。<br>![[1595303526880]]<br><strong>考试三次平均分统计表</strong></p><p><img src="E:\临时文件\assets\1595303485918.png" alt="1595303485918"><br>初中分数占比比较大的科目，语数英三课分别为120分，物理100分。这4门主课，为拉分项。<br>其中语文比较好，但数学，英语，政治低于平均分。数学，英语，分数占比比较大，离平均分分别差5.67,4.73。<br>数学两次不及格，并且低于平均分。功底比较差，需要补课。假期需要刷些题</p><p>这三次考试整体来看，数学和英语失分较多。三次分开看，第一次考试最好，然后第二次，最后一次发挥不好。</p><ul><li>第一次考试，拉分项为英语；提分项为物理和历史。</li><li>第二次考试，拉分项为数学；提分项为语文，历史，地理，生物。</li><li>第三次考试，数学，英语，物理，都低于平均分。物理退步比较多。</li></ul><p>从提分科目上看，第二次考试提分的科目有点偏。副课，是拉不开分的。还是要靠数学，英语，物理提分。<br>英语第一次65有点低，后两次83，还算可以。不过低于平均分，自学效率会比较差。建议补课，主要养成定期学英语的习惯。多做做考试题。<br>物理，有点退步，期末不及格。期末低于平均分，平均分是60.9。三次考试分数平均后，在分数线上。但第一次考试平均分上涨了10分，题简单，有异常发挥的可能。物理由于分数占比较大。建议补课。<br>政治三次平均分低于，班级平均分，平时需要注意学习和背诵。这个靠平时积累，做好笔记。<br>历史，地理，生物比较稳定，分数略高于平均分。平时注意积累和记忆，常看笔记。</p><ul><li>多用便利贴，记考点</li><li>物理，英语，数学就是多做题和答案经行对比。</li></ul><p>最后初三和高三都是，应试教育，以提分为主。如果宿舍学习条件不好，可以就近租房，晚上延长学习时间。回家有点耗时间，效率会受到影响。</p><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p><p><a href="https://www.zhihu.com/people/yue-guang-xia-de-mo-zhu-shi-1/zvideos">知乎</a> <a href="">B站</a> <a href="">微信公众号</a> <a href="">今日头条</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 经验分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 考试 </tag>
+            
+            <tag> 嘉怡 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>深度思考</title>
+      <link href="/2021/04/28/002-ren-sheng-si-kao/shen-du-si-kao/"/>
+      <url>/2021/04/28/002-ren-sheng-si-kao/shen-du-si-kao/</url>
+      
+        <content type="html"><![CDATA[<h2 id="深度思考"><a href="#深度思考" class="headerlink" title="深度思考"></a>深度思考</h2><h2 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h2><p>深度思考的形成：浅层思考与深度思考可理解为——感性人与理性人的思维。</p><p>看待一件事，感性人会按照自己的喜好去判断，而理性人会从事实的角度去客观分析。</p><p><strong>「去偏见化」、「客观型思考」</strong>即深度思考的关键，其次，我们还可从两个方向去深挖：</p><span id="more"></span><p><strong>1.前因式思考</strong></p><p>看问题不先下结论，向前找出它形成的原因。</p><p><strong>2.后果式思考</strong></p><p>假设事情发生的结果，你会有更深刻的收获。</p><p><strong>普通人培养深度思考，可通过这5个简单实用的方法来练习：</strong></p><p><strong>①不草率下结论原则</strong>——看待一件事，不要轻易下结论，只要持续思考，总会存在变化空间。</p><p><strong>②开放式的思维空间</strong>——深度思考是一个包容、去情绪化、容许不同的观点，开放式的思维空间。</p><p><strong>③当事人思考法</strong>——换位思考，假设自己是当事人，会怎么做？</p><p><strong>④行为观察法</strong>——不要看一个人说什么，要看他做什么。</p><p><strong>⑤上帝视角法</strong>——跳出局限的圈子，从历史上去追根溯源，数据是个很好的工具。</p><p><strong>想让思想更有深度，看待问题时，不马上做结论，而是呈开放性思维，减少「主观偏见」，增加「客观理性」，才能看到更本质的东西。</strong></p><h2 id="深度思考方式"><a href="#深度思考方式" class="headerlink" title="深度思考方式"></a>深度思考方式</h2><p>向下和向上，横向</p><p>方向对了，会比较轻松。互联网网上查询，比较便利，误认为，比较有智慧，懂得思考。其实不对，我们越是检索，自己的思考越少。</p><p>贫富差距大，下面80%的人要闹事怎么办。用了奶嘴效应。创造发泄型产业，多发展赌博、色情，还有游戏，让这 80% 的人多参与这些发泄型产业，把多余的精力给发泄出来。还有一个奶嘴叫发展满足性产业，比如看一些明星的花边、家长里短，让这 80% 的人沉溺在这些享乐跟安逸当中，沉溺在这些满足性的产业当中，从而失去上进心，也失去深度思考的能力。这样的话，他们慢慢的就安于为他们量身打造的娱乐信息当中，慢慢就失去热情了，不会再抗争，也不会再思考，他们会期待媒体为他们进行思考，媒体替他们作出判断等等。</p><p>我们思想形成，第一步是靠的直觉。而第一思维是有偏见的，不准，崇拜，厌恶都是无法客观评价一个人。</p><p>面对人的问题，要考虑提问者的需求。女友和妈掉水里，其实不是选择问题，而是被爱的需求问题。任何难题，争执的产生都不是一个冲突点。很有可能连定义，也有很大的不同。而问题的原因也是错综复杂的，并不能简单评判。</p><p>所有的判断，都不是直觉，因为直觉带有偏见。需要看数据的真实性，和实际的反馈，如果不能印证，应该需要需要考虑可能的结果。</p><h3 id="1-深度思考的形成："><a href="#1-深度思考的形成：" class="headerlink" title="1. 深度思考的形成："></a>1. 深度思考的形成：</h3><h4 id="去偏见化："><a href="#去偏见化：" class="headerlink" title="去偏见化："></a>去偏见化：</h4><p>每一个人，都有自己的权利。可以评论和表达，可以找对应的很多事例，统计。</p><p>而现实生活中的大多是概率，也没有必要验证真伪。一般另有原因，同一个家庭，同一句话都孩子的影响是不同的。</p><h4 id="客观思考"><a href="#客观思考" class="headerlink" title="客观思考"></a>客观思考</h4><p>根据网上的资源，看看实际的案例，寻找主要的方法。如果网上没有对应的资源，一定是查询深度不够。很多时候，事情是有很多原因后果的。看到信息不要盲目赞同，多试试，多思考。思考者，才是清醒的。</p><h3 id="2-深度思考的方向"><a href="#2-深度思考的方向" class="headerlink" title="2. 深度思考的方向"></a>2. 深度思考的方向</h3><h4 id="前因式"><a href="#前因式" class="headerlink" title="前因式"></a>前因式</h4><p>如果说，贫穷是因为懒惰。那只是一个原因，对于一个人而言，可能是最大的原因。根本，可能还有其他原因。</p><h4 id="后果"><a href="#后果" class="headerlink" title="后果"></a>后果</h4><p>后果，是国内房价会掉吗？有多少人高位买了，开发商投资，以及过去投资者。牵涉的问题是特别多，不会轻易掉价。因一发而动全身，得不偿失。</p><p>对于狗伤害人，会禁狗吗？而狗的处理，爱宠物人士，禁狗会引发更多的问题。</p><h3 id="3-如何养成深度思考的习惯"><a href="#3-如何养成深度思考的习惯" class="headerlink" title="3. 如何养成深度思考的习惯"></a>3. 如何养成深度思考的习惯</h3><h4 id="不草率定论"><a href="#不草率定论" class="headerlink" title="不草率定论"></a>不草率定论</h4><p>学历和经验哪个重要</p><p>对刚进入社会的年轻人，学历起到的作用会大一些；如果工作了一段时间，想爬到更高的位置，显然是经验更重要。</p><p>这个问题具体要看在哪个环境下，为了找出真正的答案，不要对一个问题过早下结论， 而是不断加入一些考量元素，使答案趋向本质。</p><p><strong>而培养深度思考习惯的一条捷径，就是阅读。同一件事，读10本书跟读100本书的人，看法是天壤之别。</strong></p><h4 id="开放思维空间，"><a href="#开放思维空间，" class="headerlink" title="开放思维空间，"></a>开放思维空间，</h4><p>网络喷子为什么见人就喷？因为他们的思维空间是封闭的，常常不明真相，又固执己见，只要和自己观点相违背的，就拿出键盘扫射。</p><p>深度思考需要的是一个包容、开放的思维空间，去情绪化、容许不同的观点，就像前面所说的「客观型思考」。</p><p>比如你不能说玩抖音、打游戏的人都不努力，抖音、王者这些都是辅助娱乐工具，真正努力的人，喜欢给自己找最佳状态，也许他只是通过打一局游戏，来调整状态呢。</p><h4 id="当事人思考"><a href="#当事人思考" class="headerlink" title="当事人思考"></a>当事人思考</h4><p>当看不懂一个问题时，假设自己是当事人，会怎么做？</p><p>有些人不明白，为什么一些年轻人千里迢迢跑到北上广深，租着拥挤的公寓，吃着工业化食品，每天通勤时间3小时以上，经常加班到通宵，每个月扣除工资存不到多少钱，这不是在找罪受？</p><p>当你站在「当事人」的角度去思考，就可以理解，大多数去北上广深的年轻人，是因为老家找不到合适工作，收入普遍偏低；而一线城市相对公平，发展空间更大，并且随着经验的积累，未来也会得到丰硕的回报。</p><p>说通俗点，就是「换位思考」，很多时候，我们只有设身处地，才明白其中的缘由。</p><h4 id="行为观察"><a href="#行为观察" class="headerlink" title="行为观察"></a>行为观察</h4><p>说谎话的成本很低，但事情做错成本是很高的，所以<strong>「行为观察法」</strong>的核心就是<strong>——不要看一个人说什么，要看他做什么。</strong></p><p>打开手机，经常看到一些教人月入5万、10万的财富课程，虽然你不认识主讲人，但感觉他就是成功人士，因为他的外形、气质、谈吐都很像！然而这些都是很容易实现的，一个普通人经过包装也像成功人士。</p><p>要看一个专家是否靠谱，要看他是否有成功案例，才有能力去教别人，用这个方法，可以防止自己被割韭菜。</p><h4 id="上帝视角"><a href="#上帝视角" class="headerlink" title="上帝视角"></a>上帝视角</h4><p>人的眼界会受到周围环境、圈子的影响，导致思维有局限性，做出的判断会以偏概全。</p><p>回到胖人好吃懒做的话题，如果有兴趣研究，可以找出这两年关于肥胖问题的分析报告，或者观看BBC纪录片《肥胖的真相》，当你通过调查资料去挖掘时，会得到更接近事实的答案。</p><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p><p><a href="https://www.zhihu.com/people/yue-guang-xia-de-mo-zhu-shi-1/zvideos">知乎</a> <a href="">B站</a> <a href="">微信公众号</a> <a href="">今日头条</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 深度思考 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>股票心得</title>
+      <link href="/2021/04/28/004-gong-zuo/li-cai-tou-zi/gu-piao/"/>
+      <url>/2021/04/28/004-gong-zuo/li-cai-tou-zi/gu-piao/</url>
+      
+        <content type="html"><![CDATA[<h2 id="股票心得"><a href="#股票心得" class="headerlink" title="股票心得"></a>股票心得</h2><p>#股票 #投资 </p><p>9:15到9:30之间，集合竞价是可以交易的。但9:25的为开盘价。在竞价时，不高于申买价和不低于申卖价时可以产生成交价格。</p><span id="more"></span><ol><li>股票的好坏。可以从5,10；20,30；60日均线看到。5,10日均线，看可以看到短期波动。20,30日均线为中期变化。  60日均线，好长期持有的收益性能大。</li><li>购买时机。股票一般倾向于回踩，20,60日均线。如果回踩，或者低于均线，可以考虑购买。待有收益后，即可退出。</li><li>卖出时机，设置止盈目标。止盈更加重要，一般短期5-10%，中期15%-30%。长期50%-400%。根据行情，合理止盈，会收入更高。</li><li>关注国家政策。多投资热点股票。蚂蚁，新能车，医疗等</li><li>当周围人都在说股票时，就可以跑路了。机构鼓吹牛市来了，跑后稳赚。</li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 投资理念 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 投资 </tag>
+            
+            <tag> 股票 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>全栈开发-云端基础</title>
+      <link href="/2021/04/28/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/quan-zhan-kai-fa/"/>
+      <url>/2021/04/28/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/quan-zhan-kai-fa/</url>
+      
+        <content type="html"><![CDATA[<h1 id="全栈开发-云端基础"><a href="#全栈开发-云端基础" class="headerlink" title="全栈开发-云端基础"></a>全栈开发-云端基础</h1><h2 id="不同平台"><a href="#不同平台" class="headerlink" title="不同平台"></a>不同平台</h2><ul><li>云端</li><li>客户端</li><li>HTTPS协议</li></ul><p><img src="/2021/04/28/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/quan-zhan-kai-fa/1592019331698.png" alt="1592019331698"></p><h2 id="终端"><a href="#终端" class="headerlink" title="终端"></a>终端</h2><p><img src="/2021/04/28/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/quan-zhan-kai-fa/1592019408589.png" alt="1592019408589"></p><p>一般都是云端技术</p><ul><li>独立的对外接口</li></ul><p><img src="/2021/04/28/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/quan-zhan-kai-fa/1592019447559.png" alt="1592019447559"></p><ul><li>数据交互<span id="more"></span></li></ul><h2 id="云端全栈"><a href="#云端全栈" class="headerlink" title="云端全栈"></a>云端全栈</h2><p><img src="/2021/04/28/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/quan-zhan-kai-fa/1592019496850.png" alt="1592019496850"></p><h2 id="HTML"><a href="#HTML" class="headerlink" title="HTML"></a>HTML</h2><p><img src="/2021/04/28/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/quan-zhan-kai-fa/1592019562208.png" alt="1592019562208"></p><p><img src="/2021/04/28/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/quan-zhan-kai-fa/1592019579581.png" alt="1592019579581"></p><p><img src="/2021/04/28/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/quan-zhan-kai-fa/1592019623587.png" alt="1592019623587"></p><p>pycharm</p><p><img src="/2021/04/28/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/quan-zhan-kai-fa/1592019676095.png" alt="1592019676095"></p><p>W3C</p><p>web发展：</p><p><img src="/2021/04/28/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/quan-zhan-kai-fa/1592019742234.png" alt="1592019742234"></p><p><img src="/2021/04/28/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/quan-zhan-kai-fa/1592019790682.png" alt="1592019790682"></p><p>动态异步获取数据</p><p><img src="/2021/04/28/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/quan-zhan-kai-fa/1592019836214.png" alt="1592019836214"></p><h2 id="css"><a href="#css" class="headerlink" title="css"></a>css</h2><p>重叠样式表</p><p><img src="/2021/04/28/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/quan-zhan-kai-fa/1592019970889.png" alt="1592019970889"></p><p><img src="/2021/04/28/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/quan-zhan-kai-fa/1592020173597.png" alt="1592020173597"></p><p><img src="/2021/04/28/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/quan-zhan-kai-fa/1592021193605.png" alt="1592021193605"></p><p><img src="/2021/04/28/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/quan-zhan-kai-fa/1592021220761.png" alt="1592021220761"></p><h2 id="JavaScript"><a href="#JavaScript" class="headerlink" title="JavaScript"></a>JavaScript</h2><p>和Java关系不大</p><p><img src="/2021/04/28/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/quan-zhan-kai-fa/1592021720149.png" alt="1592021720149"></p><p>可以考虑动态变化</p><p>有很多第三方库：echarts.js</p><h2 id="url"><a href="#url" class="headerlink" title="url"></a>url</h2><p><img src="/2021/04/28/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/quan-zhan-kai-fa/1592021849990.png" alt="1592021849990"></p><p><img src="/2021/04/28/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/quan-zhan-kai-fa/1592021864901.png" alt="1592021864901"></p><p>网站或者IP地址</p><h3 id="HTTP协议"><a href="#HTTP协议" class="headerlink" title="HTTP协议"></a>HTTP协议</h3><p><img src="/2021/04/28/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/quan-zhan-kai-fa/1592021896447.png" alt="1592021896447"></p><p><img src="/2021/04/28/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/quan-zhan-kai-fa/1592021930458.png" alt="1592021930458"></p><h3 id="web服务器"><a href="#web服务器" class="headerlink" title="web服务器"></a>web服务器</h3><p><img src="/2021/04/28/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/quan-zhan-kai-fa/1592021956103.png" alt="1592021956103"></p><p>推荐使用</p><p><img src="/2021/04/28/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/quan-zhan-kai-fa/1592021980478.png" alt="1592021980478"></p><p>练习</p><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p><p><a href="https://www.zhihu.com/people/yue-guang-xia-de-mo-zhu-shi-1/zvideos">知乎</a> <a href="">B站</a> <a href="">微信公众号</a> <a href="">今日头条</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> python </tag>
+            
+            <tag> 全栈 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hexo 说明</title>
+      <link href="/2021/04/28/998-jian-zhan/bo-ke-shuo-ming-wen-dang/001-hexo-shuo-ming-wen-dang/"/>
+      <url>/2021/04/28/998-jian-zhan/bo-ke-shuo-ming-wen-dang/001-hexo-shuo-ming-wen-dang/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Helow-hexo"><a href="#Helow-hexo" class="headerlink" title="Helow hexo"></a>Helow hexo</h2><figure class="highlight python"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line">win+R</span><br><span class="line">cmd</span><br><span class="line"><span class="comment"># 回车</span></span><br><span class="line"><span class="comment"># 进入自己的目录中</span></span><br><span class="line">cd C:\Users\Administrator\blog\hamsali</span><br><span class="line"></span><br><span class="line">hexo clean &amp;&amp; hexo g </span><br><span class="line"></span><br><span class="line"><span class="comment"># 访问本地端口浏览</span></span><br><span class="line"><span class="comment"># 没啥问题后，上传</span></span><br><span class="line"><span class="comment"># 本地检查</span></span><br><span class="line">hexo g &amp;&amp; hexo s -p <span class="number">4000</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 解锁限制：</span></span><br><span class="line">git config --<span class="keyword">global</span> http.sslVerify <span class="string">"false"</span></span><br><span class="line"></span><br><span class="line">hexo d</span><br><span class="line"></span><br></pre></td></tr></tbody></table></figure><span id="more"></span><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server：运行服务"><a href="#Run-server：运行服务" class="headerlink" title="Run server：运行服务"></a>Run server：运行服务</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br><span class="line">hexo s</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files-生成静态文件"><a href="#Generate-static-files-生成静态文件" class="headerlink" title="Generate static files: 生成静态文件"></a>Generate static files: 生成静态文件</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br><span class="line">等同于:</span><br><span class="line">hexo g </span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites：-布置站点"><a href="#Deploy-to-remote-sites：-布置站点" class="headerlink" title="Deploy to remote sites： 布置站点"></a>Deploy to remote sites： 布置站点</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br><span class="line">hexo d</span><br><span class="line"></span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><h2 id="说明文档"><a href="#说明文档" class="headerlink" title="说明文档"></a><a href="https://hexo.io/zh-cn/docs">说明文档</a></h2><p>同步问题</p><p>它的主上传目前为：master，如果有main 需要删除。</p><p>目前不清楚main同步问题，设置其他的方式，不会同步。</p><h2 id="注意点"><a href="#注意点" class="headerlink" title="注意点"></a>注意点</h2><p>操作完后记得保存。</p><p>同步还是比较麻烦的，可能不熟悉。</p><figure class="highlight python"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line">git config --<span class="keyword">global</span> user.email <span class="string">"1341372712@qq.com"</span></span><br><span class="line">git config --<span class="keyword">global</span> user.name <span class="string">"hamsali"</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 先进入目录</span></span><br><span class="line">cd blog</span><br><span class="line">cd hamsali</span><br><span class="line"></span><br><span class="line"><span class="comment"># 本地查看</span></span><br><span class="line">hexo clean &amp;&amp; hexo g &amp;&amp; hexo s</span><br><span class="line">hexo g -s</span><br><span class="line"></span><br><span class="line"><span class="comment"># 解锁限制,针对上传的限制</span></span><br><span class="line">git config --<span class="keyword">global</span> http.sslVerify <span class="string">"false"</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 清除，渲染，git同步</span></span><br><span class="line">hexo clean &amp;&amp; hexo g &amp;&amp; hexo d</span><br><span class="line">hexo g -d</span><br><span class="line">hexo d</span><br></pre></td></tr></tbody></table></figure><h2 id="使用教程"><a href="#使用教程" class="headerlink" title="使用教程"></a>使用教程</h2><p>主要本地先测试，尽量一天最多提交两次，频率低些。<br>进入对应目录：</p><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cd C:\Users\Administrator\blog\hamsali</span><br></pre></td></tr></tbody></table></figure><p>基本命令</p><figure class="highlight python"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line">hexo new <span class="string">"postName"</span> <span class="comment">#新建文章</span></span><br><span class="line">hexo new page <span class="string">"pageName"</span> <span class="comment">#新建页面</span></span><br><span class="line">hexo generate <span class="comment">#生成静态页面至public目录</span></span><br><span class="line">hexo server <span class="comment">#开启预览访问端口（默认端口4000，'ctrl + c'关闭server）</span></span><br><span class="line">hexo deploy <span class="comment">#将.deploy目录部署到GitHub</span></span><br><span class="line">hexo <span class="built_in">help</span>  <span class="comment"># 查看帮助</span></span><br><span class="line">hexo version  <span class="comment">#查看Hexo的版本</span></span><br><span class="line">hexo deploy -g  <span class="comment">#生成加部署</span></span><br><span class="line">hexo server -g  <span class="comment">#生成加预览</span></span><br><span class="line">命令的简写</span><br><span class="line">hexo n == hexo new</span><br><span class="line">hexo g == hexo generate</span><br><span class="line">hexo s == hexo server</span><br><span class="line">hexo d == hexo deploy</span><br><span class="line"></span><br><span class="line">hexo clean &amp;&amp; hexo g &amp;&amp; hexo s</span><br><span class="line"><span class="comment"># 访问本地端口浏览</span></span><br><span class="line">hexo d</span><br><span class="line"><span class="comment"># 没啥问题后，上传</span></span><br></pre></td></tr></tbody></table></figure><!-- more --><p>有时候不用检查，可以直接上传代码。</p><figure class="highlight python"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br></pre></td><td class="code"><pre><span class="line">win+R</span><br><span class="line">cmd</span><br><span class="line"><span class="comment"># 回车</span></span><br><span class="line"><span class="comment"># 进入自己的目录中</span></span><br><span class="line">cd C:\Users\Administrator\blog\hamsali</span><br><span class="line"><span class="comment"># 解锁限制：</span></span><br><span class="line">git config --<span class="keyword">global</span> http.sslVerify <span class="string">"false"</span></span><br><span class="line">hexo clean &amp;&amp; hexo g -d</span><br><span class="line"></span><br><span class="line">hexo g &amp;&amp; hexo d</span><br><span class="line"></span><br><span class="line">hexo g -d</span><br><span class="line"><span class="comment"># 访问本地端口浏览</span></span><br><span class="line"><span class="comment"># 没啥问题后，上传</span></span><br><span class="line">hexo g &amp;&amp; hexo s -p <span class="number">4000</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 解锁限制：</span></span><br><span class="line">git config --<span class="keyword">global</span> http.sslVerify <span class="string">"false"</span></span><br><span class="line"></span><br><span class="line">hexo d</span><br><span class="line"></span><br><span class="line"></span><br></pre></td></tr></tbody></table></figure><h2 id="end-网站链接："><a href="#end-网站链接：" class="headerlink" title="end-网站链接："></a>end-网站链接：</h2><p><a href="https://github.com/hamsali">我的github</a> ，<a href="https://hamsali.github.io/">github博客网址</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客网址</a> ，<a href="http://localhost:4000/">本地访问</a> ， </p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 已解决的问题 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>财务报销</title>
+      <link href="/2021/04/28/001-ling-gan/cai-wu-bao-xiao/"/>
+      <url>/2021/04/28/001-ling-gan/cai-wu-bao-xiao/</url>
+      
+        <content type="html"><![CDATA[<p>#财务 #报销 #科研</p><h1 id="报销经验"><a href="#报销经验" class="headerlink" title="报销经验"></a>报销经验</h1><p>每次劳务报销要在25号前，送材料一定要趁早。<br>药品不能报销，需要在线下买。小药品，尽量不超过200。</p><p>化玻电话可以多开发票，电话订购。<br>耗材的初始密码是Sgc@1234，需要在设备管理科3楼办理。</p><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p><p><a href="https://www.zhihu.com/people/yue-guang-xia-de-mo-zhu-shi-1/zvideos">知乎</a> <a href="">B站</a> <a href="">微信公众号</a> <a href="">今日头条</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 科研 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 报销 </tag>
+            
+            <tag> 财务 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>故事</title>
+      <link href="/2021/04/28/003-qing-shang/guan-li/"/>
+      <url>/2021/04/28/003-qing-shang/guan-li/</url>
+      
+        <content type="html"><![CDATA[<h2 id="时间管理"><a href="#时间管理" class="headerlink" title="时间管理"></a>时间管理</h2><ul><li>番茄工作法，留够思考的时间。多去回顾，规划。</li><li>单核工作法，做好当前事。</li></ul><h2 id="人际管理"><a href="#人际管理" class="headerlink" title="人际管理"></a>人际管理</h2><ul><li>亲密度划分，不同关系分配的时间不用一样。顺手帮忙就行，不用花费太多时间。</li><li>联系频率，相处不用刻意，有必要再联系。多点有效沟通。</li></ul><h2 id="工程管理"><a href="#工程管理" class="headerlink" title="工程管理"></a>工程管理</h2><ul><li>时间，前后融洽。有其他精力，</li><li>工程量</li><li>设备</li></ul><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://pkzhidi.top/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p><p><a href="https://www.jieyou123.top/">个人问答社区</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 经验分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 管理 </tag>
+            
+            <tag> 时间 </tag>
+            
+            <tag> 人际 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>故事</title>
+      <link href="/2021/04/28/003-qing-shang/pi-qia/fan-si/"/>
+      <url>/2021/04/28/003-qing-shang/pi-qia/fan-si/</url>
+      
+        <content type="html"><![CDATA[<p>他人没有回应，就已经是最好的回应。</p><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p><p><a href="https://www.jieyou123.top/">个人问答社区</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 故事 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>给皮卡的信-自我审视</title>
+      <link href="/2021/04/28/003-qing-shang/pi-qia/gei-pi-qia-de-xin-zi-wo-shen-shi/"/>
+      <url>/2021/04/28/003-qing-shang/pi-qia/gei-pi-qia-de-xin-zi-wo-shen-shi/</url>
+      
+        <content type="html"><![CDATA[<h1 id="一封给皮卡的信"><a href="#一封给皮卡的信" class="headerlink" title="一封给皮卡的信"></a>一封给皮卡的信</h1><p>皮卡不知道，该说些什么。给你写点真心话，和内心话，愿意看的话，看下。</p><h2 id="经历"><a href="#经历" class="headerlink" title="经历"></a>经历</h2><p>每个人，是有差别的。小时候，在农村长大，周围人的关系也比较好。被邻居照看过，在亲戚家也常住过。对亲人和家的感觉，是比较好。<br>比较喜欢一些亲戚，也不喜欢很多亲人。小时候，很简单，就因为那些亲戚给我很多零食。每次都留我吃饭，尽管他们家并不富裕，有些贫穷。我还是，很喜欢那些比较热情的亲戚。<br>我从小是被我妈带的，我不喜欢我爸，也不想接受他的价值观。他是商人思维，我不喜欢被画饼。就喜欢过来，直接请吃饭，带东西，热情些的人。<br>我也尽量去做那种自己喜欢的人。想未来有人可以相濡以沫，家里也和和睦睦的。我家里父母矛盾挺多的，特别讨厌那种家庭。就希望，自己将来可以有人携手，面对风雨。出轨肯定不会做，也不愿冒险。<strong>因为我家庭就是那么不愉快的，我将来为什么要成为自己讨厌的人。</strong></p><span id="more"></span><h2 id="称为虚伪吧"><a href="#称为虚伪吧" class="headerlink" title="称为虚伪吧"></a>称为虚伪吧</h2><p>其实我心中是有，自己的规则的，可能我能处理的比较好。只是你觉得匪夷所思，只是我想让关心我的人，都好，哪有时间浪费啊。</p><p>人生，事业，婚姻，父母养老，哪有精力放荡不羁。<br>将来房子150万左右，我还要照看双方父母，同时面对领导和子女。体面地活着已经很不容易了。<br>你们城市里的孩子，是父母很厉害。有父辈的积累，不用工作酒吧，谈男女朋友，一夜情约*。<br>我们小地方的人，在大城市可以蜗居吗？离开学校，有家吗？我不成功或者退休前，不会回去。回去，是要带一套别墅，在村里扬眉吐气的。<br>我们只是想过的好些，回家带点东西，做一个曾经给自己带东西的成功人士，可以收入和环境更好些。也许在你看来，我的想法是很幼稚，虚伪。<br>但我们，都是想过舒服些，可以轻松面对将来。做点喜欢的事。</p><h2 id="思考"><a href="#思考" class="headerlink" title="思考"></a>思考</h2><p>我们人生很长，太多话，太多事不能做。家庭的矛盾，纠纷，已经够多了，怎么怎么能主动添堵。小心翼翼，如履薄冰，也没找到女友，不是吗？<br>只是，自己也在在反思，尽量能处理好将来。对得起未来的美好。人是将心比心的，你对我好，对周围友好，怎么能瞒得住人。稍微自私些，周围的人会真诚相待吗？男女朋友之间，一个欺骗就万劫不复了，不是吗？出轨只有0次和无数次，一个套着一个谎言，那是自己想要的生活吗？<br>如果确定交往，就只能不计前嫌。世界观是正的，才能守得住幸福啊，姑娘。找喜欢的人厮守，做喜欢的事，一起出去旅游，赚钱共度风雨，后半生相互照顾。不算计，不彼此上海，相互理解，多重要呀。你对子女不好，不走心子女都不认自己。我们能怠慢吗？<br>其实你们大城市的本地居民，几个经济类似的家庭相互帮助真的挺好的。好好珍惜那种关系。<br>我们那里主要是亲戚，本质也是一样的。因为子女真的会在生病时，不离不弃。妻子也会，一直陪伴终老。心不诚，未来几十年的生活，能骗过去吗？<br>你了解很多男生思维，也问过他们。你知道他们从小到大是什么样的人？他对周围的怎么样？知道周围人对他的评价吗？他们是有个性，风流，富裕。<br>但世界，也有很多普普通通小人物，体面地活着已经很不容易。尊重你喜欢的个性思维，不拘一格。<br>但很多男生，真的只是想把问题处理好，解决问题。<br>若能看到这里，谢谢你的关注。但也对不起，浪费这么久。那些只是我的心里话，并不能帮你撩汉。<br>她的爱情是吸引，而不是感情。应该很多人，都是那样吧。</p><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p><p><a href="https://www.zhihu.com/people/yue-guang-xia-de-mo-zhu-shi-1/zvideos">知乎</a> <a href="">B站</a> <a href="">微信公众号</a> <a href="">今日头条</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 人际 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 人际 </tag>
+            
+            <tag> 信件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关注问题</title>
+      <link href="/2021/04/27/002-ren-sheng-si-kao/guan-zhu-wen-ti/"/>
+      <url>/2021/04/27/002-ren-sheng-si-kao/guan-zhu-wen-ti/</url>
+      
+        <content type="html"><![CDATA[<h1 id="关注问题"><a href="#关注问题" class="headerlink" title="关注问题"></a>关注问题</h1><h2 id="心灵篇"><a href="#心灵篇" class="headerlink" title="心灵篇"></a>心灵篇</h2><ol><li>成功的定义，什么是自己的精神需求，自己永恒不变的需求，快乐的时长和未来。对于死亡的解释。人生的意义，我是谁？我从哪里来？到哪里去？哪里是归属？我的钱都花到哪里去了？世界的中心是自己还是他人？自己将来一定能出人头地吗？对于大多数人都是错觉。</li><li><a href="https://www.zhihu.com/question/19590720/answer/15410217">怎样找到自己<em>的人生</em>方向？</a> <a href="https://www.zhihu.com/question/20054842/answer/1286541772">如何找到<em>人生</em>目标？</a></li><li>人应该活成什么样子？ </li><li></li><li>家庭内部关系，如何走进亲密关系的内心并且良性发展。</li><li>保持健康，病痛离自己很远吗？。</li></ol><span id="more"></span><h2 id="技能篇"><a href="#技能篇" class="headerlink" title="技能篇"></a>技能篇</h2><ol><li>怎样成为厉害的人，擅长的领域。如何变得勇敢：「怎样才能成为勇敢的人？」 高赞回答里说——「做你害怕的事，然后发现，不过如此。」</li><li>个人品牌维持：刻意练习，学习方法，人生思维。25岁后的规划 日程安排。矛盾和处理方法，怎么理解权利运转机制。管理团队。</li><li>时间管理：明天会更好吗？ 时间充足吗？</li><li>技能：提高编程方法，专业领域。财富获取方法，如何成为20%的少数成功人，阶层跨越。</li><li>思维：是什么为什么，怎么办。</li></ol><h2 id="关系篇："><a href="#关系篇：" class="headerlink" title="关系篇："></a>关系篇：</h2><ol><li>对己：自己的自我和解</li><li>爱情-亲情 ，马斯洛需求层次的第五层和前面四层是一种并存，基础不牢地动山摇。</li><li>不和朋友谈利益，不和合伙人谈心窝。</li><li>对身边人的影响，</li></ol><p><strong>抑郁质的思考方式另一个显著特点就是【象征性思维】严重。</strong><br>这个调查研究特别有意思，抑郁气质的人怎么表达喜欢。<br>安全型依恋的人表达喜欢的方式大多给出的答案是直接说。<br>而抑郁质，答案就千奇百怪了：<br>每天给他送牛奶，给他织毛衣，送他喜欢的礼物，在他最需要的时间出现…..<br>但是就是不直接告诉他，我喜欢你。</p><p>用超我思考意义，各种象征式的思维，只会让我们的生活越来越远。<br>我还记得我带姐姐的儿子出去玩滑梯，我问他，生活是什么？<br>他说，别烦我，我要玩滑滑梯，你去给我买棒棒糖。</p><p>我们又不生活在未来，也不生活在过去，有些东西需要想，但是不需要总是想。</p><h1 id="网站链接"><a href="#网站链接" class="headerlink" title="网站链接"></a>网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 问题 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 思考的问题 </tag>
+            
+            <tag> 人生 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>游戏理解</title>
+      <link href="/2021/04/27/997-gui-dang/you-xi/you-xi-zhong-xin/"/>
+      <url>/2021/04/27/997-gui-dang/you-xi/you-xi-zhong-xin/</url>
+      
+        <content type="html"><![CDATA[<p>#王者荣耀 </p><p>[[资源]]篇<br>经济，防御塔资源，视野资源，属性资源，人数资源</p><p>节奏<br>资源整体增益，领地扩张。</p><p>铭文配置<br>初始性能，上限。</p><p>对战篇：<br>英雄压制，前期的一个打法</p><p>金币获取，资源分配。兑换物品。</p><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p><p><a href="https://www.zhihu.com/people/yue-guang-xia-de-mo-zhu-shi-1/zvideos">知乎</a> <a href="">B站</a> <a href="">微信公众号</a> <a href="">今日头条</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 游戏 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 游戏理解 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>超市业务</title>
+      <link href="/2021/04/27/997-gui-dang/chao-shi-zi-mei-ti/chao-shi/"/>
+      <url>/2021/04/27/997-gui-dang/chao-shi-zi-mei-ti/chao-shi/</url>
+      
+        <content type="html"><![CDATA[<p>有家小型超市是种什么体验？<br>#超市 #投资</p><h1 id="业务"><a href="#业务" class="headerlink" title="业务"></a>业务</h1><p>区域代理：服务超市便利店，针对企业</p><p>便利店零售：快周转，服务周边。</p><p>网上自提：社区团购，赚取佣金。</p><span id="more"></span><h1 id="进货渠道："><a href="#进货渠道：" class="headerlink" title="进货渠道："></a>进货渠道：</h1><p>当地零售业代理：</p><p>工厂下单：西安，山西等地。</p><p>网上渠道：阿里巴巴零售通，1688</p><h1 id="销售逻辑"><a href="#销售逻辑" class="headerlink" title="销售逻辑"></a>销售逻辑</h1><h2 id="超市经营"><a href="#超市经营" class="headerlink" title="超市经营"></a>超市经营</h2><p>货品摆放，<br>库存管理，<br>商品定价：</p><h2 id="人情"><a href="#人情" class="headerlink" title="人情"></a>人情</h2><p>晚上，都是自己值班。买烟，送打火机。<br>价格很多都是抹零，减免。人的关系不同，价格也不一样。<br>对企业垫资，对负责人优惠送礼。</p><h1 id="利润来源"><a href="#利润来源" class="headerlink" title="利润来源"></a>利润来源</h1><p>供货商<br>超市零售<br>批发<br>企业订购：婚庆，政府，企业等。集体定东西</p><p>忙：<br>早七点，晚2点都在值班。<br>人员不好协调；</p><p>父母整天吃不太好的蔬菜，水果；根本吃不完。<br>菜隔天就需要处理，晚上打折。价格一直在变动<br>不同超市之间的定价，也不好把握。<br>基本周周菜价都不相同，改价格是常态。<br>定价要考虑。</p><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p><p><a href="https://www.zhihu.com/people/yue-guang-xia-de-mo-zhu-shi-1/zvideos">知乎</a> <a href="">B站</a> <a href="">微信公众号</a> <a href="">今日头条</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 经验分享 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>工具池</title>
+      <link href="/2021/04/27/001-ling-gan/gong-ju/"/>
+      <url>/2021/04/27/001-ling-gan/gong-ju/</url>
+      
+        <content type="html"><![CDATA[<h1 id="工具池"><a href="#工具池" class="headerlink" title="工具池"></a>工具池</h1><h2 id="文档："><a href="#文档：" class="headerlink" title="文档："></a>文档：</h2><p>office：word，excel，PPT；<br>markdown，HTML，PDF，微信公众号编辑；<br>腾讯文档，飞书，有道云笔记</p><span id="more"></span><h2 id="绘图-视频："><a href="#绘图-视频：" class="headerlink" title="绘图-视频："></a>绘图-视频：</h2><p>origin，AI,PS。<br>AE,PR,剪映，会声会影。<br>工具不在于多而在于满足使用，快速上手，能满足要求才是合适的。</p><h2 id="数据处理类："><a href="#数据处理类：" class="headerlink" title="数据处理类："></a>数据处理类：</h2><p>MATLAB，python， excel，<br>数据库，MySQL。<br>可以简单处理就行了，后面由于数据量增加再学后面的知识。如果仅仅是为了很酷，可能很长时间都用不到。关键还是在使用，使用的多了才会精通。</p><h2 id="工程类："><a href="#工程类：" class="headerlink" title="工程类："></a>工程类：</h2><p>CAD, 有限元，模拟，<br>思维导图，流程图，工艺布置图，施工图，</p><h2 id="知识管理软件"><a href="#知识管理软件" class="headerlink" title="知识管理软件"></a>知识管理软件</h2><p>zotero,obsidian，大脑整理。</p><h2 id="共享协同"><a href="#共享协同" class="headerlink" title="共享协同"></a>共享协同</h2><p>金山文档，腾讯文档，飞书，印象笔记，有道云笔记<br>连麦一起做事，看电影，听歌，微光。</p><h1 id="end-网站链接："><a href="#end-网站链接：" class="headerlink" title="end-网站链接："></a>end-网站链接：</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 经验分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 工具 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>生活方式</title>
+      <link href="/2021/04/26/001-ling-gan/sheng-huo-fang-shi/"/>
+      <url>/2021/04/26/001-ling-gan/sheng-huo-fang-shi/</url>
+      
+        <content type="html"><![CDATA[<h1 id="生活方式"><a href="#生活方式" class="headerlink" title="生活方式"></a>生活方式</h1><p>学习：优秀，会很多技能，顺利毕业<br>事业：有钱赚，相处舒服。<br>家庭：欣赏，不相互牵绊<br>健康：身体，心灵</p><p>习惯：<br>读书，构建知识体系，写作,健身。</p><span id="more"></span><h1 id="end-网站链接："><a href="#end-网站链接：" class="headerlink" title="end-网站链接："></a>end-网站链接：</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 生活方式 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/2021/04/26/002-ren-sheng-si-kao/xue-xi-shi-ye/"/>
+      <url>/2021/04/26/002-ren-sheng-si-kao/xue-xi-shi-ye/</url>
+      
+        <content type="html"><![CDATA[<h2 id="事业"><a href="#事业" class="headerlink" title="事业"></a>事业</h2><p>归属感，职位，收入，上升期；多赚钱,有空闲,顾顾家</p><p>考证:</p><ul><li><input disabled="" type="checkbox"> CAD </li><li><input disabled="" type="checkbox"> BIM </li><li><input disabled="" type="checkbox"> 四六级</li><li><input disabled="" type="checkbox"> python</li><li><input checked="" disabled="" type="checkbox"> 二建</li><li><input checked="" disabled="" type="checkbox"> 驾照<span id="more"></span></li></ul><p>工作：</p><ul><li><input disabled="" type="checkbox"> 实习：外加剂厂，科之杰，苏博特；</li><li><input disabled="" type="checkbox"> 华西绿舍，中间西部建设（）</li><li><input disabled="" type="checkbox"> 陕煤，不过并不是核心业务。勉强生活，后面还是需要自己单独做出一番事业。</li><li><input disabled="" type="checkbox"> 地产：融创，碧桂园，富力；</li><li><input checked="" disabled="" type="checkbox"> 五和土木，这个公司不是很好。发展前途有限。</li></ul><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p><p><a href="https://www.zhihu.com/people/yue-guang-xia-de-mo-zhu-shi-1/zvideos">知乎</a> <a href="">B站</a> <a href="">微信公众号</a> <a href="">今日头条</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 经验分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 学习事业 </tag>
+            
+            <tag> 需要准备的东西 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>认识自我</title>
+      <link href="/2021/04/26/002-ren-sheng-si-kao/zi-wo/ren-shi-zi-wo/"/>
+      <url>/2021/04/26/002-ren-sheng-si-kao/zi-wo/ren-shi-zi-wo/</url>
+      
+        <content type="html"><![CDATA[<h1 id="对职业的规划"><a href="#对职业的规划" class="headerlink" title="对职业的规划"></a>对职业的规划</h1><p>#认知 #思维 #格局<br><img src="/Pasted%20image%2020201031214843.png"></p><h2 id="认识自我"><a href="#认识自我" class="headerlink" title="认识自我"></a>认识自我</h2><p>[[我是谁]]？<br>一段个人经历的历史，有特定人际关系，认知的综合体。是儿子，学生，社会人，打工人</p><p>离开了平台，我还能做什么？卖货物，带家教，做混凝土，编程，自媒体，股票。生活，做饭，陪朋友，旅行。</p><span id="more"></span><p>我最关心什么？<br>自己，收入，快乐，作业，父母。</p><p>我想做什么？活着，幸福，找到归属感，增加收入帮助亲密关系，抗风险。</p><p>能为关心的人做什么？<br>陪伴，联系，帮忙，经济扶持（在开玩笑吧，能力还是太弱），享受美好时光。旅行，晚餐，电影，聊天，打游戏，</p><p>什么又是灵魂？<br>一段自己的历史，每处的表现。在时间，空间，社会多层次和纬度的存在。灵魂是散碎在各处，在每个历史长河里。核心，是分散的，不能被简单描述。灵魂很大，意识存在于不同时间空间。要有一分豁达，特别。</p><p>自己，适合做什么？科普，自圆其说，给一个合理的解。教导别人尝试新鲜的东西。</p><h2 id="了解行业"><a href="#了解行业" class="headerlink" title="了解行业"></a>了解行业</h2><p>计算机，家教，混凝土,<br>工业大数据，传感器<br>外加剂，股票，考证。</p><p>谁是大头目？<br>他们怎么运作的，基本原理是什么？<br>入行需要准备哪些？<br>可能存在的竞争？<br>自己的优势？<br>做还是不做，价值如何度量？<br>怎么做？效益才能最大化</p><h2 id="明确定位"><a href="#明确定位" class="headerlink" title="明确定位"></a>明确定位</h2><p>自己的定位，是多元的。是儿子，是军师，是朋友，也是学生。需要在每一个位置，扮演好自己的角色。不是自己，胜似自己。就业的话，定位。工艺，数据分析，辅助决策<br>有多自律就有多自由，限制多了，人生才有意义。</p><h2 id="个人提升"><a href="#个人提升" class="headerlink" title="个人提升"></a>个人提升</h2><p>经验，可以训练，有效实践。没有经验前，还有本能反应。技能技巧，一切联系。理工综合，了解原理。<br>节奏，包含感觉，时间把握，任务分配，精力管理，执行力。</p><h2 id="保持评估"><a href="#保持评估" class="headerlink" title="保持评估"></a>保持评估</h2><p>记录自己的历程，对自己进行评价。荒废挺多的。</p><h2 id="反馈"><a href="#反馈" class="headerlink" title="反馈"></a>反馈</h2><p>目标：快速实验<br>及时调整：</p><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p><p><a href="https://www.zhihu.com/people/yue-guang-xia-de-mo-zhu-shi-1/zvideos">知乎</a> <a href="">B站</a> <a href="">微信公众号</a> <a href="">今日头条</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 认知 </tag>
+            
+            <tag> 思维 </tag>
+            
+            <tag> 格局 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>行程规划</title>
+      <link href="/2021/04/25/002-ren-sheng-si-kao/xing-cheng-gui-hua/"/>
+      <url>/2021/04/25/002-ren-sheng-si-kao/xing-cheng-gui-hua/</url>
+      
+        <content type="html"><![CDATA[<h1 id="行程规划"><a href="#行程规划" class="headerlink" title="行程规划"></a>行程规划</h1><ul><li>在固定的时间，约合适的人，都舒适最重要，没必要强行要求。</li><li>正确的时间点，做正确的事，把握好各个事务之间的节奏。</li><li>时间宽松，不赶。</li><li>行程紧凑适合观赏，可以交谈，放慢。气氛高的时候结束就行，没必要到最后。 花未全开，月未圆时候才是最美。</li></ul><span id="more"></span><h1 id="关注点"><a href="#关注点" class="headerlink" title="关注点"></a>关注点</h1><p>人物：</p><blockquote><p>和自己联系比较紧密；</p></blockquote><p>任务</p><blockquote><p>理由正当，活动安排合理。根据身份，安排具体内容。</p></blockquote><p>时间：</p><blockquote><p>自己等待时间、步行时间、 活动间歇时间。都计算好。</p></blockquote><p>地点：</p><blockquote><p>集合地点 , 居中。靠近目的地，比较好找。有明显参照。先定地点和</p></blockquote><p>出行方式：</p><blockquote><p>交通便利，尽量不倒车。火车交通比较便利，可以欣赏周围美景。</p></blockquote><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p><p><a href="https://www.zhihu.com/people/yue-guang-xia-de-mo-zhu-shi-1/zvideos">知乎</a> <a href="">B站</a> <a href="">微信公众号</a> <a href="">今日头条</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 经验分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 行程规划 </tag>
+            
+            <tag> 生活 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>产品思维</title>
+      <link href="/2021/04/24/004-gong-zuo/si-wei/chan-pin-si-wei/"/>
+      <url>/2021/04/24/004-gong-zuo/si-wei/chan-pin-si-wei/</url>
+      
+        <content type="html"><![CDATA[<p>#思维 #杂想</p><h1 id="产品思维"><a href="#产品思维" class="headerlink" title="产品思维"></a>产品思维</h1><p>老板：我们要开发一款新的APP。<br>A：我们为什么要开发这款APP？跟我们公司目前的方向吻合吗？我们有多少资源可以用来支撑开发？我们的竞争对手的情况是什么样的？现在有什么成功的案例可以参考吗？<br>B：可以，分几期完成，要求多久上线？</p><span id="more"></span><p>A为怎么做，想的是过程。<br>着手研究行业背景、挖掘用户需求和痛点、研究竞品思考如何建立竞争优势、思考盈利模式、马上联系运营设计研发开会制定一系列开发方案；</p><p>B是怎么交付，B想的是结果。</p><p>B接下来的工作一定是：跟老板确认上线时间、规划每期的完成目标、制定严密的工作汇报制度保证工作进度持续前进、跟老板争取开发资源确保开发顺利……</p><h2 id="思考"><a href="#思考" class="headerlink" title="思考"></a>思考</h2><p>是发现并解决问题的思考方式。</p><ul><li>发现问题，没有，模糊，清晰，准确，深度</li><li>解决问题，0-100<ul><li>背景，方案对比，决策，方案</li></ul></li></ul><p>以用户和逻辑为基础，从专业角度发现、分析、并解决问题的思考方式和能力。方式是广度，能力是深度。关键问题就是解决问题。</p><p>以用户为中心思考、以数据作为依据判断、采用MVP快速迭代的办法快速验证需求调整方向、分析竞品寻找突破点以确保产品的竞争力、思考商业模式保障产品的盈利等等就是产品思维。</p><p>产品思维没办法分开的说，它是一个体系，更多的代表的是一种全局思考的习惯；分的话只能分方面：背景、战略、用户、产品、运营、资源、竞争（市场）。</p><p>培养思维</p><ol><li>专业分析视角，<ul><li>思考方式：用户、迭代、数据、竞品、盈利</li><li>用户心理</li><li>比较准的直觉，自己的逻辑</li></ul></li><li>多读书，与专业的人交流</li><li>研究别人的产品</li></ol><ul><li>战略层、范围层、结构层、框架层、表现层</li><li>用专业的知识从专业的角度思考，</li></ul><ol start="4"><li>好奇心，不放过每天的细微变化，洞察力比较敏感。</li></ol><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 思维 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 思维 </tag>
+            
+            <tag> 杂想 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>自我审视</title>
+      <link href="/2021/04/23/002-ren-sheng-si-kao/zi-wo/wo-shi-shui/"/>
+      <url>/2021/04/23/002-ren-sheng-si-kao/zi-wo/wo-shi-shui/</url>
+      
+        <content type="html"><![CDATA[<p>一段个人经历的历史，有特定人际关系，认知的综合体。是儿子，学生，社会人，打工人。</p><p>作为儿子我需要，给父母打电话。心灵和物质上的关心。</p><p>扮演好每个角色，没有处处自己，才处处皆是自己。</p><span id="more"></span><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p><p><a href="https://www.zhihu.com/people/yue-guang-xia-de-mo-zhu-shi-1/zvideos">知乎</a> <a href="">B站</a> <a href="">微信公众号</a> <a href="">今日头条</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 杂想 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 自我审视 </tag>
+            
+            <tag> 分析 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>python 开源项目</title>
+      <link href="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/python-kai-yuan-xiang-mu/"/>
+      <url>/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/python-kai-yuan-xiang-mu/</url>
+      
+        <content type="html"><![CDATA[<h1 id="python-开源项目"><a href="#python-开源项目" class="headerlink" title="python 开源项目"></a>python 开源项目</h1><ol><li><strong>show-me-the-code</strong></li><li>100天</li><li>ccood</li></ol><span id="more"></span><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p><p><a href="https://www.zhihu.com/people/yue-guang-xia-de-mo-zhu-shi-1/zvideos">知乎</a> <a href="">B站</a> <a href="">微信公众号</a> <a href="">今日头条</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 编程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> python </tag>
+            
+            <tag> 开源项目 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Django开发框架</title>
+      <link href="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/"/>
+      <url>/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Django开发框架"><a href="#Django开发框架" class="headerlink" title="Django开发框架"></a>Django开发框架</h1><h2 id="云端留言板"><a href="#云端留言板" class="headerlink" title="云端留言板"></a>云端留言板</h2><p><img src="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/1592022281123.png" alt="1592022281123"></p><ul><li>简化网页搭建</li><li>2.x以后</li><li>用python3</li></ul><h2 id="Django理解"><a href="#Django理解" class="headerlink" title="Django理解"></a>Django理解</h2><p><img src="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/1592022398636.png" alt="1592022398636"></p><h2 id="web框架"><a href="#web框架" class="headerlink" title="web框架"></a>web框架</h2><p>半成品</p><p><img src="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/1592022475174.png" alt="1592022475174"></p><ul><li>路由</li><li>关联</li></ul><h2 id="Django程序"><a href="#Django程序" class="headerlink" title="Django程序"></a>Django程序</h2><p><img src="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/1592023308905.png" alt="1592023308905"></p><span id="more"></span><h3 id="进入特定目录"><a href="#进入特定目录" class="headerlink" title="进入特定目录"></a>进入特定目录</h3><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">cd E:\2code\python2_ven\the_whole\app</span><br><span class="line">django-admin startproject mysite</span><br></pre></td></tr></tbody></table></figure><p><img src="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/1592023201443.png" alt="1592023201443"></p><p><img src="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/1592023252070.png" alt="1592023252070"></p><p><img src="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/1592023324551.png" alt="1592023324551"></p><h3 id="调试"><a href="#调试" class="headerlink" title="调试"></a>调试</h3><p><img src="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/1592023342062.png" alt="1592023342062"></p><p><img src="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/1592023400213.png" alt="1592023400213"></p><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">cd mysite</span><br><span class="line">python manage.py runserver</span><br></pre></td></tr></tbody></table></figure><p><img src="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/1592023701415.png" alt="1592023701415"><br>![[1592023701415.png]]</p><p><img src="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/1592023721746.png" alt="1592023721746"></p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p><img src="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/1592023842715.png" alt="1592023842715"></p><h3 id="Django-admin"><a href="#Django-admin" class="headerlink" title="Django admin"></a>Django admin</h3><p><img src="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/1592023872364.png" alt="1592023872364"></p><p><img src="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/1592023930897.png" alt="1592023930897"></p><h3 id="manage-py"><a href="#manage-py" class="headerlink" title="manage.py"></a>manage.py</h3><p><img src="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/1592023966574.png" alt="1592023966574"></p><p><img src="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/1592023997982.png" alt="1592023997982"></p><h2 id="文件修改"><a href="#文件修改" class="headerlink" title="文件修改"></a>文件修改</h2><h3 id="创建一个具体应用"><a href="#创建一个具体应用" class="headerlink" title="创建一个具体应用"></a>创建一个具体应用</h3><p><img src="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/1592024090374.png" alt="1592024090374"></p><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">python manage.py startapp helloapp</span><br></pre></td></tr></tbody></table></figure><p><img src="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/1592024348921.png" alt="1592024348921"></p><p><img src="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/1592024418939.png" alt="1592024418939"></p><h3 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h3><p><img src="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/1592024297194.png" alt="1592024297194"></p><p><img src="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/1592024591289.png" alt="1592024591289"></p><p><img src="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/1592024749761.png" alt="1592024749761"></p><h2 id="云端"><a href="#云端" class="headerlink" title="云端"></a>云端</h2><p><img src="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/1592032997402.png" alt="1592032997402"></p><p><img src="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/1592033053566.png" alt="1592033053566"></p><p><img src="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/1592033136130.png" alt="1592033136130"></p><p><img src="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/1592033186502.png" alt="1592033186502"></p><p><img src="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/1592033226746.png" alt="1592033226746"></p><h3 id="操作"><a href="#操作" class="headerlink" title="操作"></a>操作</h3><p><img src="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/1592033297154.png" alt="1592033297154"></p><p><img src="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/1592033304201.png" alt="1592033304201"></p><p><img src="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/1592033324327.png" alt="1592033324327"></p><p><img src="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/1592033372007.png" alt="1592033372007"></p><p><img src="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/1592033408974.png" alt="1592033408974"></p><p><img src="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/1592033475899.png" alt="1592033475899"></p><p><img src="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/1592033526469.png" alt="1592033526469"></p><p><img src="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/1592033642322.png" alt="1592033642322"></p><p><img src="/2021/04/23/997-gui-dang/100-ren-gong-zhi-neng/yun-duan-kai-fa-quan-zhan/django/1592033665073.png" alt="1592033665073"></p><p> [^ 1 ] </p><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p><p><a href="https://www.zhihu.com/people/yue-guang-xia-de-mo-zhu-shi-1/zvideos">知乎</a> <a href="">B站</a> <a href="">微信公众号</a> <a href="">今日头条</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 编程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> python </tag>
+            
+            <tag> django </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>租房攻略</title>
+      <link href="/2021/04/21/003-qing-shang/pi-qia/qi-bao/"/>
+      <url>/2021/04/21/003-qing-shang/pi-qia/qi-bao/</url>
+      
+        <content type="html"><![CDATA[<h2 id="房屋出租："><a href="#房屋出租：" class="headerlink" title="房屋出租："></a>房屋出租：</h2><p>[[关注问题]]</p><p>这几个地方都是多套，可以砍价。你说，因为诚意，所以现在谈好，而不是回去等通知。</p><p>1800起步，慢慢加，以学生身份，要优惠。说出留两年以上的话，肯定假的。</p><p>看好后，别交钱。</p><p>真的确定了，先定金，等入住后，确实没啥情况付全款。</p><p>牡丹新村，豪世盛地，水清年华花园</p><p>使用 Markdown<a href="http://www.google.com/">^ 1000</a>可以效率的书写文档, 直接转换成 HTML<a href="http://www.leanote.com/">^ 2000</a>。</p><p>我经常去的几个网站Google[^ 1]、Leanote[^ 2]。</p><p>[^2]:HyperText Markup Language 超文本标记语言</p><p>牡丹新村：</p><ul><li><a href="https://sh.zu.fang.com/chuzu/31_385215061_1.htm">整租 鸿运 牡丹新村 1居 南北 寓小二 随时看房</a></li><li>整租|1室1厅1卫|25㎡|（高层）/共1层</li><li><a href="https://sh.zu.fang.com/house-a018/">闵行</a>-<a href="https://sh.zu.fang.com/house-a018-b01600/">七宝</a>-<a href="https://sh.zu.fang.com/house-xm1210417742/">牡丹新村</a></li><li>距地铁9号线七宝站约93米。</li><li>价格：2000-2100，有2400的</li></ul><p>豪世盛地：</p><ul><li><a href="https://sh.zu.fang.com/chuzu/31_383634511_1.htm">整租 魔飞 豪世盛地 1居 南 寓小二 随时看房</a></li><li>整租|1室1卫|26㎡|（中层）/共6层</li><li><a href="https://sh.zu.fang.com/house-a018/">闵行</a>-<a href="https://sh.zu.fang.com/house-a018-b01600/">七宝</a>-<a href="https://sh.zu.fang.com/house-xm1210422742/">豪世盛地</a></li><li>距地铁9号线七宝站约518米。</li><li>价格：2300-2400</li></ul><p>水清年华花园</p><ul><li><a href="https://sh.zu.fang.com/chuzu/31_384831552_1.htm">整租 魔飞 水清年华花园 1居 南 寓小二 随时看房</a></li><li>整租，1室1卫，25㎡|（中层）/共6层</li><li><a href="https://sh.zu.fang.com/house-a018/">闵行</a>-<a href="https://sh.zu.fang.com/house-a018-b01600/">七宝</a>-<a href="https://sh.zu.fang.com/house-xm1210162542/">水清年华花园</a></li><li>距地铁9号线七宝站约835米。</li></ul><p>价格：2300左右</p><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>理财笔记</title>
+      <link href="/2021/04/21/004-gong-zuo/li-cai-tou-zi/li-cai/"/>
+      <url>/2021/04/21/004-gong-zuo/li-cai-tou-zi/li-cai/</url>
+      
+        <content type="html"><![CDATA[<h2 id="理财"><a href="#理财" class="headerlink" title="理财"></a>理财</h2><p>#理财 #股票 </p><ul><li><input disabled="" type="checkbox"> 关注靠谱的基金号</li></ul><p>一般资金链大，收益高的股票。<br>每个基金号选1-2只，指数基金比较好，适合定投。</p><span id="more"></span><ul><li><p><input disabled="" type="checkbox">  投资热门领域</p></li><li><p>适合中长期交易，可作为调整的买入。</p></li><li><p>高位，大涨即卖。</p></li><li><p><input disabled="" type="checkbox">  基金池</p><blockquote><p>主要为关注的，看好的基金。自选即可</p></blockquote></li><li><p><input disabled="" type="checkbox">  买入时机</p><blockquote><p>一天的平均，以及低价平均水平。</p></blockquote></li><li><p><input disabled="" type="checkbox">  分析卖出时机，</p><blockquote><p>止盈百分率、金额、止损、高位、大盘</p></blockquote></li><li><p><input disabled="" type="checkbox">  大盘行情与股票自身</p></li></ul><p>选股主要对当前价值的估计,对次高位的估计,计算差值，相对。</p><p>基金可以考虑场内基金，选比较好的公司好好持有，要谨慎乐观些。干了才有收益。</p><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p><p><a href="https://www.zhihu.com/people/yue-guang-xia-de-mo-zhu-shi-1/zvideos">知乎</a> <a href="">B站</a> <a href="">微信公众号</a> <a href="">今日头条</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 投资 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 经验 </tag>
+            
+            <tag> 理财 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>人生规划</title>
+      <link href="/2021/04/14/002-ren-sheng-si-kao/zi-wo/ren-sheng/"/>
+      <url>/2021/04/14/002-ren-sheng-si-kao/zi-wo/ren-sheng/</url>
+      
+        <content type="html"><![CDATA[<h1 id="人生"><a href="#人生" class="headerlink" title="人生"></a>人生</h1><p>#思维 #人生观 [[关注问题]]</p><p>首先，我觉得应该是珍惜身边的人吧。这两天要做的事儿。第一件事儿。把英语学好。然后，多看看电影里面的世界不要和，外人冲突。</p><p>跳出舒适圈，多在宿舍外带着，好好享受大学。读万卷书，行万里路，阅百千人。年轻人的优势，有时间，有精力。</p><ol><li><strong>有充足时间</strong></li><li><strong>没有资源优势，可以实现跨界</strong></li><li><strong>为生活所迫，在新行业赚小钱，一做，几十年</strong></li><li>其实自己考证和人生的大考挺失败的，以后尽量在每个节点完成对应的事。</li></ol><span id="more"></span><h2 id="学业"><a href="#学业" class="headerlink" title="学业"></a>学业</h2><p>专业：<br>早日发论文，看1,2区论文。实验，办公，解决实际问题。英语，晨读，练习。<br>计算机，数学-研究算法：<br>计算机编程-人工智能（MATLAB，python），有限元。网页编程。解决实际问题，。</p><h2 id="论文，SCI2个"><a href="#论文，SCI2个" class="headerlink" title="论文，SCI2个"></a>论文，SCI2个</h2><p>少玩点手机，少待在寝室，多去学习，多提升自己的行动力跟目标感。<br>英语四级,6级：其实要求更高才行，也不忽悠自己，拿证吧；成为优秀毕业生,贫困补助,励志奖学金。经济真的是弱项，多赚钱。</p><h2 id="成绩较高-拿到博士offer"><a href="#成绩较高-拿到博士offer" class="headerlink" title="成绩较高,拿到博士offer"></a>成绩较高,拿到博士offer</h2><p>去好学校，争取能做更有意义的事。最好和计算或者互联网相关。</p><h3 id="学习-事业"><a href="#学习-事业" class="headerlink" title="[[学习-事业]]:"></a>[[学习-事业]]:</h3><p>归属感，职位，收入，上升期；多赚钱,有空闲,顾顾家<br>考证:CAD BIM 四六级 python 二建 驾照<br>实习：外加剂厂，科之杰，苏博特；地产，融创，碧桂园，富力；</p><h4 id="赚外快-创业-做项目-科研辅助工具"><a href="#赚外快-创业-做项目-科研辅助工具" class="headerlink" title="赚外快,创业,做项目,科研辅助工具"></a>赚外快,创业,做项目,科研辅助工具</h4><p>office+Python+HTML；<br>进销存,时间-项目管理,驾照；<br>[[理财]]，收入控制在12%，一年。有点困难。</p><h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><p>生活不易，倘若轻松，总有人替你负重前行。<br>健康：生理,思想,精神；身体不出问题；思想正常，不偏激，不抱怨；乐观，自信，坦荡；</p><h3 id="玩乐："><a href="#玩乐：" class="headerlink" title="玩乐："></a>玩乐：</h3><p><em>带给你轻松和愉悦的活动，没有竞争，不分胜负</em><br>健身，唱歌，吉他，双节棍，绘画<br>习惯：每天反思，<strong>与人相处：哄他人高兴</strong>，每周总结；找一个人生导师，<strong>理财做好投资</strong>，<strong>公开课学习</strong><br>家务：有时间多给家人做做饭；    多整理自己的房间；    隔几天洗一次衣服</p><h3 id="与人关系"><a href="#与人关系" class="headerlink" title="与人关系"></a>与人关系</h3><p>父母：帮助，照顾自己，别让他们操心<br>朋友：患难帮助；</p><h4 id="父母联系："><a href="#父母联系：" class="headerlink" title="父母联系："></a>父母联系：</h4><ol><li>父母年龄很大了</li><li>生活没那么好，好好赡养</li><li>有空检查身体</li><li>多回家</li></ol><h4 id="伴侣陪伴"><a href="#伴侣陪伴" class="headerlink" title="伴侣陪伴"></a>伴侣陪伴</h4><p>妻子：经济，时间，走心；有人陪好好珍惜；没人陪，好好独处；聊得来；共同志向；包容；最多两个孩子，我们也需要各自的人生<br>表白：感情真的需要争取和经营；先经营好自己再照顾好她；吃饭、做饭、体验生活、住一起。<br>旅行：路线规划；向导；行李；休息；纪念品</p><h2 id="事业观"><a href="#事业观" class="headerlink" title="事业观"></a>事业观</h2><ol><li>为什么你要工作？为了幸福生活，而不是经济。想去和另一半，一起经历不一样的人生。</li><li>从工作中想得到什么？<br>归属感；经济；成就感。<br>什么是好工作？能陪好家人，能有不错的收入（一年15万+）</li></ol><h2 id="人生观"><a href="#人生观" class="headerlink" title="人生观"></a>人生观</h2><ol><li>你为什么在这里？想要更好的人生，获得不错的收入</li><li>人生的意义是什么？和在乎的人，看看这个世界。</li><li>个人与他人的关系是什么？相伴伙伴，因任务而和，因旅程而分。</li><li>人生在家庭和国家中的位置？过好自己，家庭多给予帮助，国家太大。我想先活清楚自己。</li><li>什么是善？什么是恶？一码事归一码事，不贴标签，不损害他人。</li><li>悲喜、公平、爱、和平对于生命的意义？遇到事别抱怨，好好想想这件事是不是想教会我们什么？常喜别悲，这个年纪，最不缺的就是故事。治治自傲的脾气</li></ol><h2 id="认知："><a href="#认知：" class="headerlink" title="认知："></a>认知：</h2><p>我们只能赚到认知之内的钱，认知以外的钱，往往被社会赚走。<br>只有提升自己的认知，才有比较好的将来。理财并不能快速致富，复利计息也是不太稳妥。因为概率下的成长，很难一直保持，而最后几年的失误也是总的复利，导致完全亏损。<br>好的发展，是脱离阶层。远离普通人，和他们不一样。</p><h2 id="目标"><a href="#目标" class="headerlink" title="目标"></a>目标</h2><p>造一个小区，住很多人。<br>理想：大同社会，修建一个小区，山水，WiFi，24小时办公，集体食堂。可以让更多的人实现自己的价值。创客空间，有花草，人工湖，盈利，受益更多的人。<br>爱好：设计，乱想，开搞。<br>赚200万＋，普通人是无法真正财务自由的。</p><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p><p><a href="https://www.zhihu.com/people/yue-guang-xia-de-mo-zhu-shi-1/zvideos">知乎</a> <a href="">B站</a> <a href="">微信公众号</a> <a href="">今日头条</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 经验分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 经验分享 </tag>
+            
+            <tag> 人生规划 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>游戏资源理解</title>
+      <link href="/2021/04/12/997-gui-dang/you-xi/zi-yuan/"/>
+      <url>/2021/04/12/997-gui-dang/you-xi/zi-yuan/</url>
+      
+        <content type="html"><![CDATA[<p>#游戏 #资源 #王者荣耀</p><h2 id="资源"><a href="#资源" class="headerlink" title="资源"></a>资源</h2><p>经济来源：<br>敌方小兵，敌方野区，敌方防御塔，敌方英雄。经济压制来源于，兵线压制，也野区。</p><p>防御塔资源：<br>视野会增加的比较多，[[防御塔]]有三路，外塔各两个，高地塔一个。<br>防御塔个数，血量。都是资源</p><p>领地资源：<br>防御塔视野，河道之灵视野，玩家视野，兵线视野。<br>走向视野。资源边界</p><p>属性资源：<br>等级属性，血量资源，蓝量资源，装备资源，</p><p>人数资源：<br>技能CD，综合收益。</p><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 游戏 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 资源 </tag>
+            
+            <tag> 游戏 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>一个计划</title>
+      <link href="/2021/04/01/001-ling-gan/ji-hua/"/>
+      <url>/2021/04/01/001-ling-gan/ji-hua/</url>
+      
+        <content type="html"><![CDATA[<h1 id="短期计划"><a href="#短期计划" class="headerlink" title="短期计划"></a>短期计划</h1><p>一个月，毕业实验安排。</p><h1 id="中期"><a href="#中期" class="headerlink" title="中期"></a>中期</h1><p>发论文，考证，毕业</p><h1 id="长期"><a href="#长期" class="headerlink" title="长期"></a>长期</h1><p>工作，理财，自媒体</p><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p><p><a href="https://www.zhihu.com/people/yue-guang-xia-de-mo-zhu-shi-1/zvideos">知乎</a> <a href="">B站</a> <a href="">微信公众号</a> <a href="">今日头条</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 计划 </category>
+          
+          <category> 长久 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 计划 </tag>
+            
+            <tag> 规划 </tag>
+            
+            <tag> 短期 </tag>
+            
+            <tag> 中期 </tag>
+            
+            <tag> 长期 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>工作时间计划</title>
+      <link href="/2021/03/21/004-gong-zuo/si-wei/gong-zuo/"/>
+      <url>/2021/03/21/004-gong-zuo/si-wei/gong-zuo/</url>
+      
+        <content type="html"><![CDATA[<h1 id="就业"><a href="#就业" class="headerlink" title="就业"></a>就业</h1><ul><li><input disabled="" type="checkbox"> 7:30起床</li><li><input disabled="" type="checkbox"> 8:30集合</li><li><input disabled="" type="checkbox"> 看天气</li><li><input disabled="" type="checkbox"> 简历</li><li><input disabled="" type="checkbox"> 换衣服</li><li><input disabled="" type="checkbox"> 面试</li><li><input disabled="" type="checkbox"> 加微信</li></ul><span id="more"></span><p>对于五和土木认识，</p><blockquote><p>纤维增强混凝土，高延性混凝土，增韧；<br>加固技术，外层砂浆。</p></blockquote><ol><li>公司主要业务？</li><li>自己以后，需要学习的内容？</li><li>怎么实现更大公司的价值，解决实际问题？创造更大的利润？</li><li>自己入职后的待遇？税后收入？晋升途径？</li><li>工作内容，地点，工作量。</li></ol><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p><p><a href="https://www.zhihu.com/people/yue-guang-xia-de-mo-zhu-shi-1/zvideos">知乎</a> <a href="">B站</a> <a href="">微信公众号</a> <a href="">今日头条</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 经验分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 经验 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>工作-v0</title>
+      <link href="/2021/03/14/004-gong-zuo/gong-zuo/"/>
+      <url>/2021/03/14/004-gong-zuo/gong-zuo/</url>
+      
+        <content type="html"><![CDATA[<h1 id="工作"><a href="#工作" class="headerlink" title="工作"></a>工作</h1><ul><li>华西绿舍</li><li>三星10-12万</li><li>中建西部建设</li><li>华为有些非主营业务</li><li>字节跳动</li><li>融创</li><li>陕煤</li></ul><span id="more"></span><h2 id="职业成长"><a href="#职业成长" class="headerlink" title="职业成长"></a>职业成长</h2><p>在有条件的情况下，尽量做有积累的工作。在一个行业待久了，才能创造价值，价值互换才有意义。</p><ol><li>上升期公司</li><li>核心业务</li><li>用户角度分析</li><li>新手熟悉业务，老员工做新业务</li><li>做自己擅长，自己的好的领域。</li></ol><p>目标12万不知道实不实际，到时候考证有没有时间。</p><p>需要有的证书</p><ul><li>BIM</li><li>python</li><li>二建，一建,</li><li>四六级</li></ul><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 工作 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 工作 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>文件管理技巧-v0</title>
+      <link href="/2021/03/14/998-jian-zhan/bo-ke-shuo-ming-wen-dang/jing-yan-wen-jian-guan-li-ji-qiao/"/>
+      <url>/2021/03/14/998-jian-zhan/bo-ke-shuo-ming-wen-dang/jing-yan-wen-jian-guan-li-ji-qiao/</url>
+      
+        <content type="html"><![CDATA[<h2 id="文件管理技巧"><a href="#文件管理技巧" class="headerlink" title="文件管理技巧"></a>文件管理技巧</h2><ul><li>本地文件先测试，多检查，让问题的频率低些。解决当前问题解决，少产生版本。</li><li>做好文件的备份，同步和共享。</li><li>多人做的时候，会有很多版本分支，需要权衡好，生成版本号。相当于文件传递，检查，归档。</li><li>命名统一做好归类，知识体系-分类-文件名-关键词-版本号-作者-日期。</li><li>善用搜索，可以是本地检索，也可以是上传后的标签筛选。</li><li>定期管理文件，不要保存不需要的文件，简单最好。只整理20%的关键文件，其他的可以不保留或归到容纳箱</li><li>同一目录的文件不要太多，容易检索不便。</li><li>重点维护经常使用的文件，桌面可以增加快捷键。</li></ul><span id="more"></span><p>分类:经验分享，已解决的问题，未解决的问题</p><p><a href="https://hamsali.github.io/">个人网址：hamsali</a> </p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 经验分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>投资池</title>
+      <link href="/2021/02/12/004-gong-zuo/li-cai-tou-zi/tou-zi-chi/"/>
+      <url>/2021/02/12/004-gong-zuo/li-cai-tou-zi/tou-zi-chi/</url>
+      
+        <content type="html"><![CDATA[<h2 id="风口"><a href="#风口" class="headerlink" title="风口"></a>风口</h2><p>新基建：AI、5G基站建设、大数据中心、工业互联网、城际高速铁路和城市轨道交通、新能源汽车充电桩、特高压<br>免税：海南发展，<br>医药：疫苗，保健<br>视频内容平台：自媒体，视频平台，直播<br>电商：拼多多，<br>科研监测、在线办公、教育</p><span id="more"></span><h3 id="基金号-经理"><a href="#基金号-经理" class="headerlink" title="基金号-经理"></a>基金号-经理</h3><h3 id="基金"><a href="#基金" class="headerlink" title="基金"></a>基金</h3><p>医药， 军工， 海南发展<br>免税，新能源，5G，<br>人工智能，物联网，</p><h3 id="股票"><a href="#股票" class="headerlink" title="股票"></a>股票</h3><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p><p><a href="https://www.zhihu.com/people/yue-guang-xia-de-mo-zhu-shi-1/zvideos">知乎</a> <a href="">B站</a> <a href="">微信公众号</a> <a href="">今日头条</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 投资 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 理财 </tag>
+            
+            <tag> 投资 </tag>
+            
+            <tag> 风口 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>理财心路历程</title>
+      <link href="/2020/08/04/004-gong-zuo/li-cai-tou-zi/tou-zi-li-cai/"/>
+      <url>/2020/08/04/004-gong-zuo/li-cai-tou-zi/tou-zi-li-cai/</url>
+      
+        <content type="html"><![CDATA[<h1 id="理财新的"><a href="#理财新的" class="headerlink" title="理财新的"></a>理财新的</h1><p>理财并不是一帆风顺，<br>交易早了，80收益转为12。<br>有两笔亏损，希望未来可以带来收益。<br>虽然，很多时候我们无法预测未来。但都小心前行。</p><span id="more"></span><p>买股票以来，没怎么赚钱。都是小额亏损，还是蛮难受的。<br>突然发现，不亏就是赚的。<br>巨亏，很多亏太多。不好。<br>不能拿资本去试投资，钱并不好用。现在怎么还不明白。<br>要顺势，不仅是股票，还有时。时机错了，有太多都不和事宜。</p><p>回头看时，发现想抓涨停板，反而都亏了。看看ETF，感觉赚的不错，真的要拿得起。好好</p><h1 id="投资"><a href="#投资" class="headerlink" title="投资"></a>投资</h1><p>#股票 #投资 </p><p>要学会顺势而为，不要逆势。我们只是一片雪花❄️。经受不起大的降幅。</p><p>只有眼前收益，才有长久收益。大部分资金是在于稳，而不是冒险。以后小心尝试收益，不能砸入太多注意分散投资。<br>时间上分散，基金品类上也要分散。</p><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 理财 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>有关健康</title>
+      <link href="/2020/04/28/003-qing-shang/pi-qia/guan-yu-jian-kang/"/>
+      <url>/2020/04/28/003-qing-shang/pi-qia/guan-yu-jian-kang/</url>
+      
+        <content type="html"><![CDATA[<h1 id="致皮卡-关于健康"><a href="#致皮卡-关于健康" class="headerlink" title="致皮卡-关于健康"></a>致皮卡-关于健康</h1><p>感觉你最近身体不太好，有些生病。</p><p>这两年，感觉健康真的很重要。身体不太舒服的时候，精力也会慢慢衰减，影响做事效率，内心会很纠结和自卑。希望你下个工作，轻松顺利，压力小些，可以安静休养。</p><p>后半年回来，约你去散散心。请你去玩玩，随便选去哪里，费用全包（预算1000以下）。</p><p><img src="/2020/04/28/003-qing-shang/pi-qia/guan-yu-jian-kang/%E7%95%A5%E7%95%A5.gif" alt="略略"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 皮卡 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 皮卡 </tag>
+            
+            <tag> 健康 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>

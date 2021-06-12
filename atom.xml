@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>PK之地</title>
+  
+  <subtitle>江湖再会</subtitle>
+  <link href="https://hamsali.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://hamsali.github.io/"/>
+  <updated>2021-06-11T07:21:06.568Z</updated>
+  <id>https://hamsali.github.io/</id>
+  
+  <author>
+    <name>Hamsali</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://hamsali.github.io/2021/06/12/mo-ban-wen-jian/002-mo-ban-wen-jian-hou/"/>
+    <id>https://hamsali.github.io/2021/06/12/mo-ban-wen-jian/002-mo-ban-wen-jian-hou/</id>
+    <published>2021-06-12T09:02:08.907Z</published>
+    <updated>2021-06-11T07:21:06.568Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;页尾链接&quot;&gt;&lt;a href=&quot;#页尾链接&quot; class=&quot;headerlink&quot; title=&quot;页尾链接&quot;&gt;&lt;/a&gt;页尾链接&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/hamsali&quot;&gt;github&lt;/a&gt; ，&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>需要解决的问题</title>
+    <link href="https://hamsali.github.io/2021/06/12/998-jian-zhan/bo-ke-shuo-ming-wen-dang/xu-yao-jie-jue-de-wen-ti/"/>
+    <id>https://hamsali.github.io/2021/06/12/998-jian-zhan/bo-ke-shuo-ming-wen-dang/xu-yao-jie-jue-de-wen-ti/</id>
+    <published>2021-06-12T09:02:08.498Z</published>
+    <updated>2021-04-29T09:56:18.492Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;主要记录一些问题，后面还需要解决。&lt;/p&gt;
+&lt;h1 id=&quot;GitHub-已解决&quot;&gt;&lt;a href=&quot;#GitHub-已解决&quot; class=&quot;headerlink&quot; title=&quot;GitHub 已解决&quot;&gt;&lt;/a&gt;GitHub 已解决&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/hamsali&quot;&gt;我的github:&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;网址&lt;a href=&quot;https://hamsali.github.io/&quot;&gt;https://hamsali.github.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;个人网址更新问题，需要清除缓存。&lt;/p&gt;
+&lt;p&gt;需要清理后上传，上传频率不能太高。更新比较多，容易出问题。&lt;/p&gt;
+&lt;p&gt;有时候同步失败，只有同时运行才比较好。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="未解决的问题" scheme="https://hamsali.github.io/categories/%E6%9C%AA%E8%A7%A3%E5%86%B3%E7%9A%84%E9%97%AE%E9%A2%98/"/>
+    
+    
+    <category term="问题记录" scheme="https://hamsali.github.io/tags/%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://hamsali.github.io/2021/06/12/998-jian-zhan/gitbook/gitbook/"/>
+    <id>https://hamsali.github.io/2021/06/12/998-jian-zhan/gitbook/gitbook/</id>
+    <published>2021-06-12T09:02:08.447Z</published>
+    <updated>2021-06-11T09:36:11.092Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;figure class=&quot;highlight ruby&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://hamsali.github.io/2021/06/12/997-gui-dang/100-ren-gong-zhi-neng/ji-qi-xue-xi/"/>
+    <id>https://hamsali.github.io/2021/06/12/997-gui-dang/100-ren-gong-zhi-neng/ji-qi-xue-xi/</id>
+    <published>2021-06-12T09:02:07.629Z</published>
+    <updated>2021-04-28T08:18:11.986Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;机器学习&quot;&gt;&lt;a href=&quot;#机器学习&quot; class=&quot;headerlink&quot; title=&quot;机器学习&quot;&gt;&lt;/a&gt;机器学习&lt;/h1&gt;&lt;h2 id=&quot;常见的学习&quot;&gt;&lt;a href=&quot;#常见的学习&quot; class=&quot;headerlink&quot; title=&quot;常见的学习&quot;&gt;&lt;/a&gt;常见的学习&lt;/h2&gt;&lt;p&gt;监督学习，无监督学习，半监督学习，强化学习，深度学习&lt;/p&gt;
+&lt;h3 id=&quot;一些函数&quot;&gt;&lt;a href=&quot;#一些函数&quot; class=&quot;headerlink&quot; title=&quot;一些函数&quot;&gt;&lt;/a&gt;一些函数&lt;/h3&gt;&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;//点击：&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;lt;a href=&quot;#test&quot;&amp;gt;Something you should know&amp;lt;/a&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;//跳转至：&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;lt;a name=&quot;test&quot;&amp;gt;用htmla标签实现的锚链接&amp;lt;/a&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;#*1 Anchor Name&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;//可以是一级标题、二级、三级···&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;[链接的value值，任意名称](#*1 anchor-name)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://hamsali.github.io/2021/06/12/003-qing-shang/wei-ren-chu-shi/"/>
+    <id>https://hamsali.github.io/2021/06/12/003-qing-shang/wei-ren-chu-shi/</id>
+    <published>2021-06-12T09:02:06.900Z</published>
+    <updated>2021-04-29T02:03:39.032Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;极简经验&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;稳重，多思，慎言。&lt;/li&gt;
+&lt;li&gt;根据环境做事&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;复杂衍生,帮人不必尽心，够用就行。多提升自己，而不是烂好人。&lt;br&gt;多让自己强大。&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>科研流程</title>
+    <link href="https://hamsali.github.io/2021/06/11/002-ren-sheng-si-kao/zhi-shi-ti-xi/ke-yan-liu-cheng/"/>
+    <id>https://hamsali.github.io/2021/06/11/002-ren-sheng-si-kao/zhi-shi-ti-xi/ke-yan-liu-cheng/</id>
+    <published>2021-06-10T16:00:00.000Z</published>
+    <updated>2021-06-11T06:45:51.677Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;研究生课程，试验进度，科技树与继承。&lt;/p&gt;
+&lt;p&gt;想法，文献，实验探索。&lt;br&gt;实验检测，论文书写，投稿，返稿。&lt;/p&gt;
+&lt;p&gt;大论文书写&lt;/p&gt;
+&lt;p&gt;技能与面试，立足发展的技能，面试技巧。&lt;br&gt;知识体系。&lt;/p&gt;
+&lt;p&gt;四级备考，二建备考，编程与网站。&lt;/p&gt;
+&lt;h</summary>
+        
+      
+    
+    
+    
+    <category term="科研" scheme="https://hamsali.github.io/categories/%E7%A7%91%E7%A0%94/"/>
+    
+    
+    <category term="科研" scheme="https://hamsali.github.io/tags/%E7%A7%91%E7%A0%94/"/>
+    
+    <category term="上学" scheme="https://hamsali.github.io/tags/%E4%B8%8A%E5%AD%A6/"/>
+    
+    <category term="研二" scheme="https://hamsali.github.io/tags/%E7%A0%94%E4%BA%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>旅行</title>
+    <link href="https://hamsali.github.io/2021/06/07/005-sheng-huo/nan-jing-lu-xing/"/>
+    <id>https://hamsali.github.io/2021/06/07/005-sheng-huo/nan-jing-lu-xing/</id>
+    <published>2021-06-06T16:00:00.000Z</published>
+    <updated>2021-06-07T08:35:27.957Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2021/06/07/005-sheng-huo/nan-jing-lu-xing/suxiu.gif&quot; alt=&quot;苏绣&quot;&gt;&lt;br&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="旅行" scheme="https://hamsali.github.io/categories/%E6%97%85%E8%A1%8C/"/>
+    
+    
+    <category term="南京" scheme="https://hamsali.github.io/tags/%E5%8D%97%E4%BA%AC/"/>
+    
+    <category term="苏博特" scheme="https://hamsali.github.io/tags/%E8%8B%8F%E5%8D%9A%E7%89%B9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>模板文件</title>
+    <link href="https://hamsali.github.io/2021/06/01/mo-ban-wen-jian/001-mo-ban-wen-jian-qian/"/>
+    <id>https://hamsali.github.io/2021/06/01/mo-ban-wen-jian/001-mo-ban-wen-jian-qian/</id>
+    <published>2021-05-31T16:00:00.000Z</published>
+    <updated>2021-06-09T13:17:53.126Z</updated>
+    
+    
+    
+    
+    <category term="模板" scheme="https://hamsali.github.io/categories/%E6%A8%A1%E6%9D%BF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>博客记录</title>
+    <link href="https://hamsali.github.io/2021/06/01/998-jian-zhan/bo-ke-shuo-ming-wen-dang/bo-ke-ji-lu/"/>
+    <id>https://hamsali.github.io/2021/06/01/998-jian-zhan/bo-ke-shuo-ming-wen-dang/bo-ke-ji-lu/</id>
+    <published>2021-05-31T16:00:00.000Z</published>
+    <updated>2021-06-01T05:55:41.140Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;博客记录的东西，主要还是以经验为主。能真正给其他人带来价值，而不是自己的个人经验。多数人会消失在人类的历史长河，但愿自己可以被很多人记得。&lt;/p&gt;
+&lt;p&gt;分享人们需要的东西，从K12，大学，读研，择业，家庭，老年独处。&lt;br&gt;人生短暂，记录自己的一生，予世人借鉴。&lt;/p&gt;
+&lt;p&gt;留下，生存之道吧！只讲如何更好地活着与生存。&lt;br&gt;基础科学，人文，法律，等等。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="博客" scheme="https://hamsali.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="说明" scheme="https://hamsali.github.io/tags/%E8%AF%B4%E6%98%8E/"/>
+    
+    <category term="目标" scheme="https://hamsali.github.io/tags/%E7%9B%AE%E6%A0%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>故事</title>
+    <link href="https://hamsali.github.io/2021/05/31/004-gong-zuo/gong-si/su-bo-te-zhi-xing/"/>
+    <id>https://hamsali.github.io/2021/05/31/004-gong-zuo/gong-si/su-bo-te-zhi-xing/</id>
+    <published>2021-05-30T16:00:00.000Z</published>
+    <updated>2021-05-31T12:49:45.011Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;行程，出发订票，安排，老门东（苏绣）。&lt;br&gt;饮食，早点，安排和后续的实际餐厅（残疾人的照看）。&lt;br&gt;活动，开会，介绍公司，参观，旅游，唱歌，南京事件（），旅行插曲。&lt;br&gt;活动的感悟：管理，团队，生存。&lt;br&gt;师兄：工作方式。&lt;br&gt;返程：时间的却定。&lt;br&gt;后语：复盘</summary>
+        
+      
+    
+    
+    
+    <category term="感悟" scheme="https://hamsali.github.io/categories/%E6%84%9F%E6%82%9F/"/>
+    
+    
+    <category term="管理" scheme="https://hamsali.github.io/tags/%E7%AE%A1%E7%90%86/"/>
+    
+    <category term="苏博特" scheme="https://hamsali.github.io/tags/%E8%8B%8F%E5%8D%9A%E7%89%B9/"/>
+    
+    <category term="旅行" scheme="https://hamsali.github.io/tags/%E6%97%85%E8%A1%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>可可的旅行照</title>
+    <link href="https://hamsali.github.io/2021/05/20/003-qing-shang/ren-ji/ke-ke/ke-ke/"/>
+    <id>https://hamsali.github.io/2021/05/20/003-qing-shang/ren-ji/ke-ke/ke-ke/</id>
+    <published>2021-05-19T16:00:00.000Z</published>
+    <updated>2021-05-20T07:50:15.240Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2021/05/20/003-qing-shang/ren-ji/ke-ke/ke-ke/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210520152730.jpg&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="可可" scheme="https://hamsali.github.io/categories/%E5%8F%AF%E5%8F%AF/"/>
+    
+    
+    <category term="旅行" scheme="https://hamsali.github.io/tags/%E6%97%85%E8%A1%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>研究生笔记</title>
+    <link href="https://hamsali.github.io/2021/05/15/002-ren-sheng-si-kao/zi-wo/dui-ren-sheng-de-kan-fa/"/>
+    <id>https://hamsali.github.io/2021/05/15/002-ren-sheng-si-kao/zi-wo/dui-ren-sheng-de-kan-fa/</id>
+    <published>2021-05-14T16:00:00.000Z</published>
+    <updated>2021-06-11T11:49:10.054Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/%E8%87%AA%E6%88%91/%E5%AF%B9%E4%BA%BA%E7%94%9F%E7%9A%84%E7%9C%8B%E6%B3%95/kanfa-.jpg&quot; alt=&quot;kanfa-&quot;&gt;&lt;br&gt;给其他人介绍生意，把钱直接递上，表示诚意。别让朋友讨债。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="成长之路" scheme="https://hamsali.github.io/categories/%E6%88%90%E9%95%BF%E4%B9%8B%E8%B7%AF/"/>
+    
+    
+    <category term="经验" scheme="https://hamsali.github.io/tags/%E7%BB%8F%E9%AA%8C/"/>
+    
+    <category term="成长" scheme="https://hamsali.github.io/tags/%E6%88%90%E9%95%BF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>母亲节文案</title>
+    <link href="https://hamsali.github.io/2021/05/09/003-qing-shang/ren-ji/mu-qin-jie-wen-an/mu-qin-jie/"/>
+    <id>https://hamsali.github.io/2021/05/09/003-qing-shang/ren-ji/mu-qin-jie-wen-an/mu-qin-jie/</id>
+    <published>2021-05-08T16:00:00.000Z</published>
+    <updated>2021-05-09T09:16:38.220Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2021/05/09/003-qing-shang/ren-ji/mu-qin-jie-wen-an/mu-qin-jie/%E6%AF%8D%E4%BA%B2%E8%8A%82%E6%96%87%E6%A1%88.png&quot; alt=&quot;母亲节文案.png&quot;&gt;&lt;br&gt;缓慢又笨拙的路上，谢谢你陪我长大。祝老妈母亲节快乐！！&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="人际" scheme="https://hamsali.github.io/categories/%E4%BA%BA%E9%99%85/"/>
+    
+    
+    <category term="母亲节" scheme="https://hamsali.github.io/tags/%E6%AF%8D%E4%BA%B2%E8%8A%82/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>工具运营</title>
+    <link href="https://hamsali.github.io/2021/05/07/004-gong-zuo/gong-ju/"/>
+    <id>https://hamsali.github.io/2021/05/07/004-gong-zuo/gong-ju/</id>
+    <published>2021-05-06T16:00:00.000Z</published>
+    <updated>2021-05-15T11:47:05.325Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;运营工具大全&quot;&gt;&lt;a href=&quot;#运营工具大全&quot; class=&quot;headerlink&quot; title=&quot;运营工具大全&quot;&gt;&lt;/a&gt;运营工具大全&lt;/h1&gt;&lt;p&gt;共收录 16 个分类， 119 个运营工具&lt;/p&gt;
+&lt;h1 id=&quot;在线文档-·-12-个&quot;&gt;&lt;a href=&quot;#在线文档-·-12-个&quot; class=&quot;headerlink&quot; title=&quot;在线文档 · 12 个&quot;&gt;&lt;/a&gt;在线文档 · 12 个&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://shimo.im/?from=xiaomark.com&quot;&gt;石墨文档:全新一代云端 Office，面向未来的办公软件
+&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://docs.qq.com/?from=xiaomark.com&quot;&gt;腾讯文档:可多人协作的在线文档&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://www.yuque.com/?from=xiaomark.com&quot;&gt;语雀:专业的云端知识库&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://static.interval.im/blog/caxZCMLcMC8R.png&quot; alt=&quot;幕布&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;幕布&quot;&gt;&lt;a href=&quot;#幕布&quot; class=&quot;headerlink&quot; title=&quot;幕布&quot;&gt;&lt;/a&gt;幕布&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://mubu.com/?from=xiaomark.com&quot;&gt;极简大纲笔记，一键生成思维导图&lt;/a&gt;&lt;br&gt;&lt;img src=&quot;https://static.interval.im/blog/eKADT2R9FC8n.png&quot; alt=&quot;GitMind&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="故事" scheme="https://hamsali.github.io/categories/%E6%95%85%E4%BA%8B/"/>
+    
+    
+    <category term="工具" scheme="https://hamsali.github.io/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>建站历程</title>
+    <link href="https://hamsali.github.io/2021/04/30/998-jian-zhan/lun-tan-da-jian/cun-zai-wen-ti/"/>
+    <id>https://hamsali.github.io/2021/04/30/998-jian-zhan/lun-tan-da-jian/cun-zai-wen-ti/</id>
+    <published>2021-04-29T16:00:00.000Z</published>
+    <updated>2021-04-30T04:21:34.708Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2021/04/30/998-jian-zhan/lun-tan-da-jian/cun-zai-wen-ti/%E8%A7%A3%E5%BF%A7%E4%BA%91%E7%83%9F%E9%9B%A8.png&quot; alt=&quot;解忧云烟雨.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;五一到了没啥文案，写个博客记录下建论坛历程，以纪念青春。&lt;br&gt;感谢方鹏飞的技术交流，推文致谢。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="经验分享" scheme="https://hamsali.github.io/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="建站" scheme="https://hamsali.github.io/tags/%E5%BB%BA%E7%AB%99/"/>
+    
+    <category term="论坛" scheme="https://hamsali.github.io/tags/%E8%AE%BA%E5%9D%9B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo 搜索功能</title>
+    <link href="https://hamsali.github.io/2021/04/29/998-jian-zhan/bo-ke-shuo-ming-wen-dang/hexo-sou-suo-gong-neng/"/>
+    <id>https://hamsali.github.io/2021/04/29/998-jian-zhan/bo-ke-shuo-ming-wen-dang/hexo-sou-suo-gong-neng/</id>
+    <published>2021-04-29T03:58:46.000Z</published>
+    <updated>2021-04-29T05:57:28.253Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2021/04/29/998-jian-zhan/bo-ke-shuo-ming-wen-dang/hexo-sou-suo-gong-neng/search.jpg&quot; alt=&quot;search&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="说明文档" scheme="https://hamsali.github.io/categories/%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3/"/>
+    
+    
+    <category term="搜索" scheme="https://hamsali.github.io/tags/%E6%90%9C%E7%B4%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>给皮卡的信-信仰</title>
+    <link href="https://hamsali.github.io/2021/04/29/003-qing-shang/pi-qia/gei-pi-qia-de-xin-xin-yang/"/>
+    <id>https://hamsali.github.io/2021/04/29/003-qing-shang/pi-qia/gei-pi-qia-de-xin-xin-yang/</id>
+    <published>2021-04-28T16:26:46.000Z</published>
+    <updated>2021-05-09T08:26:06.576Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2021/04/29/003-qing-shang/pi-qia/gei-pi-qia-de-xin-xin-yang/pika.gif&quot; alt=&quot;pika&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="人际" scheme="https://hamsali.github.io/categories/%E4%BA%BA%E9%99%85/"/>
+    
+    
+    <category term="人际" scheme="https://hamsali.github.io/tags/%E4%BA%BA%E9%99%85/"/>
+    
+    <category term="给皮卡的信" scheme="https://hamsali.github.io/tags/%E7%BB%99%E7%9A%AE%E5%8D%A1%E7%9A%84%E4%BF%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>索引</title>
+    <link href="https://hamsali.github.io/2021/04/28/suo-yin/"/>
+    <id>https://hamsali.github.io/2021/04/28/suo-yin/</id>
+    <published>2021-04-28T06:58:46.000Z</published>
+    <updated>2021-05-03T10:45:12.862Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;索引&quot;&gt;&lt;a href=&quot;#索引&quot; class=&quot;headerlink&quot; title=&quot;索引&quot;&gt;&lt;/a&gt;索引&lt;/h2&gt;&lt;p&gt;规划池&lt;/p&gt;
+&lt;p&gt;[[001模板文件前]]&lt;br&gt;#生活 #社交&lt;br&gt;[[生活方式]] [[一个故事]]&lt;br&gt;[[认识自我]] [[我是谁]]&lt;br&gt;#学习 #工作 #事业&lt;br&gt;[[笔记]] [[学习-事业]] [[事业]]&lt;br&gt;[[超市]]  [[自媒体]]&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="文档" scheme="https://hamsali.github.io/categories/%E6%96%87%E6%A1%A3/"/>
+    
+    
+    <category term="中心节点" scheme="https://hamsali.github.io/tags/%E4%B8%AD%E5%BF%83%E8%8A%82%E7%82%B9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>anaconda 配置教程</title>
+    <link href="https://hamsali.github.io/2021/04/28/001-ling-gan/anaconda-pei-zhi/"/>
+    <id>https://hamsali.github.io/2021/04/28/001-ling-gan/anaconda-pei-zhi/</id>
+    <published>2021-04-28T06:58:46.000Z</published>
+    <updated>2021-06-11T10:23:20.621Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;环境&quot;&gt;&lt;a href=&quot;#环境&quot; class=&quot;headerlink&quot; title=&quot;环境&quot;&gt;&lt;/a&gt;环境&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://www.cnblogs.com/littlepage/p/11961208.html&quot;&gt;参考原文：&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;添加清华镜像&lt;/p&gt;
+&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;conda config --&lt;span class=&quot;built_in&quot;&gt;set&lt;/span&gt; show_channel_urls yes&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+    
+    
+    
+    <category term="教程" scheme="https://hamsali.github.io/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="经验" scheme="https://hamsali.github.io/tags/%E7%BB%8F%E9%AA%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>模板文件</title>
+    <link href="https://hamsali.github.io/2021/04/28/mo-ban-wen-jian/mo-ban-shuo-ming/"/>
+    <id>https://hamsali.github.io/2021/04/28/mo-ban-wen-jian/mo-ban-shuo-ming/</id>
+    <published>2021-04-28T06:58:46.000Z</published>
+    <updated>2021-04-28T07:10:33.402Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;标题&quot;&gt;&lt;a href=&quot;#标题&quot; class=&quot;headerlink&quot; title=&quot;标题&quot;&gt;&lt;/a&gt;标题&lt;/h1&gt;&lt;p&gt;内容&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="说明文档" scheme="https://hamsali.github.io/categories/%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3/"/>
+    
+    
+    <category term="经验" scheme="https://hamsali.github.io/tags/%E7%BB%8F%E9%AA%8C/"/>
+    
+  </entry>
+  
+</feed>
