@@ -186,7 +186,19 @@
     
     
     <summary type="html">&lt;h1 id=&quot;机器学习&quot;&gt;&lt;a href=&quot;#机器学习&quot; class=&quot;headerlink&quot; title=&quot;机器学习&quot;&gt;&lt;/a&gt;机器学习&lt;/h1&gt;&lt;h2 id=&quot;常见的学习&quot;&gt;&lt;a href=&quot;#常见的学习&quot; class=&quot;headerlink&quot; title=&quot;常见的学习&quot;&gt;&lt;/a&gt;常见的学习&lt;/h2&gt;&lt;p&gt;监督学习，无监督学习，半监督学习，强化学习，深度学习&lt;/p&gt;
-&lt;h3 id=&quot;一些函数&quot;&gt;&lt;a href=&quot;#一些函数&quot; class=&quot;headerlink&quot; title=&quot;一些函数&quot;&gt;&lt;/a&gt;一些函数&lt;/h3&gt;&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;//点击：&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;lt;a href=&quot;#test&quot;&amp;gt;Something you should know&amp;lt;/a&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;//跳转至：&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;lt;a name=&quot;test&quot;&amp;gt;用htmla标签实现的锚链接&amp;lt;/a&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;#*1 Anchor Name&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;//可以是一级标题、二级、三级···&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;[链接的value值，任意名称](#*1 anchor-name)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+&lt;h3 id=&quot;一些函数&quot;&gt;&lt;a href=&quot;#一些函数&quot; class=&quot;headerlink&quot; title=&quot;一些函数&quot;&gt;&lt;/a&gt;一些函数&lt;/h3&gt;&lt;pre class=&quot;line-numbers language-none&quot;&gt;&lt;code class=&quot;language-none&quot;&gt;//点击：
+&amp;lt;a href=&quot;#test&quot;&amp;gt;Something you should know&amp;lt;/a&amp;gt;
+//跳转至：
+&amp;lt;a name=&quot;test&quot;&amp;gt;用htmla标签实现的锚链接&amp;lt;/a&amp;gt;
+
+
+
+#*1 Anchor Name
+
+//可以是一级标题、二级、三级···
+
+[链接的value值，任意名称](#*1 anchor-name)
+&lt;span aria-hidden=&quot;true&quot; class=&quot;line-numbers-rows&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;</summary>
     
     
     
@@ -379,7 +391,11 @@
     
     <summary type="html">&lt;h2 id=&quot;环境&quot;&gt;&lt;a href=&quot;#环境&quot; class=&quot;headerlink&quot; title=&quot;环境&quot;&gt;&lt;/a&gt;环境&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://www.cnblogs.com/littlepage/p/11961208.html&quot;&gt;参考原文：&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;添加清华镜像&lt;/p&gt;
-&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;conda config --&lt;span class=&quot;built_in&quot;&gt;set&lt;/span&gt; show_channel_urls yes&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+&lt;pre class=&quot;line-numbers language-python&quot; data-language=&quot;python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;
+conda config &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;add channels https&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;//&lt;/span&gt;mirrors&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;tuna&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;tsinghua&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;edu&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;cn&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;anaconda&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;pkgs&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;free&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;
+conda config &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;add channels https&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;//&lt;/span&gt;mirrors&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;tuna&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;tsinghua&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;edu&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;cn&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;anaconda&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;pkgs&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;main&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;
+conda config &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token builtin&quot;&gt;set&lt;/span&gt; show_channel_urls yes
+&lt;span aria-hidden=&quot;true&quot; class=&quot;line-numbers-rows&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;</summary>
     
     
     
@@ -446,7 +462,7 @@
     
     
     <summary type="html">&lt;h1 id=&quot;gitbook&quot;&gt;&lt;a href=&quot;#gitbook&quot; class=&quot;headerlink&quot; title=&quot;gitbook&quot;&gt;&lt;/a&gt;gitbook&lt;/h1&gt;&lt;p&gt;书不太好用&lt;/p&gt;
-&lt;figure class=&quot;highlight ruby&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;npm install gitbook-cli -g&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+&lt;pre class=&quot;line-numbers language-ruby&quot; data-language=&quot;ruby&quot;&gt;&lt;code class=&quot;language-ruby&quot;&gt;npm install gitbook&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;cli &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;g&lt;span aria-hidden=&quot;true&quot; class=&quot;line-numbers-rows&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;</summary>
     
     
     
@@ -467,7 +483,28 @@
     <updated>2021-04-28T07:28:18.698Z</updated>
     
     
-    <summary type="html">&lt;h1 id=&quot;next-主题&quot;&gt;&lt;a href=&quot;#next-主题&quot; class=&quot;headerlink&quot; title=&quot;next 主题&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://theme-next.iissnan.com/&quot;&gt;next 主题&lt;/a&gt;&lt;/h1&gt;&lt;h2 id=&quot;使用&quot;&gt;&lt;a href=&quot;#使用&quot; class=&quot;headerlink&quot; title=&quot;使用&quot;&gt;&lt;/a&gt;使用&lt;/h2&gt;&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;22&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;theme: next&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;scheme: Pisces&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;language: zh-Hans&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;menu:&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  home: 首页&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  archives: 归档&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  categories: 分类&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  tags: 标签&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  about: 关于&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  search: 搜索&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  commonweal: 公益404&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  something: 有料&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;avatar: /images/fig.jpg&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;# http://example.com/avatar.png&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;# https://github.com/chriskempson/tomorrow-theme&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;highlight_theme: normal&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;normal，night， night blue， night bright， night eighties：&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+    <summary type="html">&lt;h1 id=&quot;next-主题&quot;&gt;&lt;a href=&quot;#next-主题&quot; class=&quot;headerlink&quot; title=&quot;next 主题&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://theme-next.iissnan.com/&quot;&gt;next 主题&lt;/a&gt;&lt;/h1&gt;&lt;h2 id=&quot;使用&quot;&gt;&lt;a href=&quot;#使用&quot; class=&quot;headerlink&quot; title=&quot;使用&quot;&gt;&lt;/a&gt;使用&lt;/h2&gt;&lt;pre class=&quot;line-numbers language-php+HTML&quot; data-language=&quot;php+HTML&quot;&gt;&lt;code class=&quot;language-php+HTML&quot;&gt;theme: next
+
+scheme: Pisces
+
+language: zh-Hans
+
+menu:
+  home: 首页
+  archives: 归档
+  categories: 分类
+  tags: 标签
+  about: 关于
+  search: 搜索
+  commonweal: 公益404
+  something: 有料
+
+avatar: /images/fig.jpg
+# http://example.com/avatar.png
+
+# https://github.com/chriskempson/tomorrow-theme
+highlight_theme: normal
+normal，night， night blue， night bright， night eighties：&lt;span aria-hidden=&quot;true&quot; class=&quot;line-numbers-rows&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;</summary>
     
     
     
