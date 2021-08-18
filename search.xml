@@ -4,13 +4,25 @@
   
     
     <entry>
-      <title></title>
-      <link href="/2021/06/12/mo-ban-wen-jian/002-mo-ban-wen-jian-hou/"/>
-      <url>/2021/06/12/mo-ban-wen-jian/002-mo-ban-wen-jian-hou/</url>
+      <title>为人处世</title>
+      <link href="/2021/06/28/003-qing-shang/wei-ren-chu-shi/"/>
+      <url>/2021/06/28/003-qing-shang/wei-ren-chu-shi/</url>
       
-        <content type="html"><![CDATA[<h1 id="页尾链接"><a href="#页尾链接" class="headerlink" title="页尾链接"></a>页尾链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://pkzhidi.top/">博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">博客镜像</a> ，<a href="http://localhost:4000/">本地访问</a> ，<a href="https://www.jieyou123.top/">个人问答社区</a></p>]]></content>
+        <content type="html"><![CDATA[<p>极简经验</p><ul><li>稳重，多思，慎言。</li><li>根据环境做事</li></ul><p>复杂衍生,帮人不必尽心，够用就行。多提升自己，而不是烂好人。<br>多让自己强大。</p><span id="more"></span><h1 id="end-网站链接："><a href="#end-网站链接：" class="headerlink" title="end-网站链接："></a>end-网站链接：</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> ，</p>]]></content>
       
       
+      <categories>
+          
+          <category> 人生 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 经验 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -36,45 +48,6 @@
             <tag> 问题记录 </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/2021/06/12/998-jian-zhan/gitbook/gitbook/"/>
-      <url>/2021/06/12/998-jian-zhan/gitbook/gitbook/</url>
-      
-        <content type="html"><![CDATA[<figure class="highlight ruby"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install gitbook-cli -g</span><br></pre></td></tr></tbody></table></figure>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/2021/06/12/997-gui-dang/100-ren-gong-zhi-neng/ji-qi-xue-xi/"/>
-      <url>/2021/06/12/997-gui-dang/100-ren-gong-zhi-neng/ji-qi-xue-xi/</url>
-      
-        <content type="html"><![CDATA[<h1 id="机器学习"><a href="#机器学习" class="headerlink" title="机器学习"></a>机器学习</h1><h2 id="常见的学习"><a href="#常见的学习" class="headerlink" title="常见的学习"></a>常见的学习</h2><p>监督学习，无监督学习，半监督学习，强化学习，深度学习</p><h3 id="一些函数"><a href="#一些函数" class="headerlink" title="一些函数"></a>一些函数</h3><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">//点击：</span><br><span class="line">&lt;a href="#test"&gt;Something you should know&lt;/a&gt;</span><br><span class="line">//跳转至：</span><br><span class="line">&lt;a name="test"&gt;用htmla标签实现的锚链接&lt;/a&gt;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">#*1 Anchor Name</span><br><span class="line"></span><br><span class="line">//可以是一级标题、二级、三级···</span><br><span class="line"></span><br><span class="line">[链接的value值，任意名称](#*1 anchor-name)</span><br><span class="line"></span><br></pre></td></tr></tbody></table></figure><span id="more"></span><p>Scikit-learn常用函数</p><p>分类，聚类，回归，降维</p><p><img src="/1606466200981-1606466200982.png" alt="1592955766581"></p><ul><li>了解算法原理</li><li>利用其分析问题</li><li>函数调用，不重复造车</li></ul><h3 id="书籍"><a href="#书籍" class="headerlink" title="书籍"></a>书籍</h3><p><img src="/%5C%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/1606466216833.png" alt="1592955899439"></p><p><img src="/%5C%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/1592955927306-1619591225854.png" alt="1592955927306"></p><p><img src="/2021/06/12/997-gui-dang/100-ren-gong-zhi-neng/ji-qi-xue-xi/1592955939780.png" alt="1592955939780"></p><p><img src="/2021/06/12/997-gui-dang/100-ren-gong-zhi-neng/ji-qi-xue-xi/1592955949508.png" alt="1592955949508"></p><h2 id="sklearn"><a href="#sklearn" class="headerlink" title="sklearn"></a>sklearn</h2><p><img src="/2021/06/12/997-gui-dang/100-ren-gong-zhi-neng/ji-qi-xue-xi/1592955939780.png"></p><p>numpy,scipy,matplotlib,sklearn,PyMySQL,Sklearn,TensorFlow</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/2021/06/12/003-qing-shang/wei-ren-chu-shi/"/>
-      <url>/2021/06/12/003-qing-shang/wei-ren-chu-shi/</url>
-      
-        <content type="html"><![CDATA[<p>极简经验</p><ul><li>稳重，多思，慎言。</li><li>根据环境做事</li></ul><p>复杂衍生,帮人不必尽心，够用就行。多提升自己，而不是烂好人。<br>多让自己强大。</p>]]></content>
-      
-      
       
     </entry>
     
@@ -137,25 +110,6 @@
     
     
     <entry>
-      <title>模板文件</title>
-      <link href="/2021/06/01/mo-ban-wen-jian/001-mo-ban-wen-jian-qian/"/>
-      <url>/2021/06/01/mo-ban-wen-jian/001-mo-ban-wen-jian-qian/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 模板 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>博客记录</title>
       <link href="/2021/06/01/998-jian-zhan/bo-ke-shuo-ming-wen-dang/bo-ke-ji-lu/"/>
       <url>/2021/06/01/998-jian-zhan/bo-ke-shuo-ming-wen-dang/bo-ke-ji-lu/</url>
@@ -204,6 +158,33 @@
             <tag> 苏博特 </tag>
             
             <tag> 旅行 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>机器学习</title>
+      <link href="/2021/05/28/997-gui-dang/100-ren-gong-zhi-neng/ji-qi-xue-xi/"/>
+      <url>/2021/05/28/997-gui-dang/100-ren-gong-zhi-neng/ji-qi-xue-xi/</url>
+      
+        <content type="html"><![CDATA[<h1 id="机器学习"><a href="#机器学习" class="headerlink" title="机器学习"></a>机器学习</h1><h2 id="常见的学习"><a href="#常见的学习" class="headerlink" title="常见的学习"></a>常见的学习</h2><p>监督学习，无监督学习，半监督学习，强化学习，深度学习</p><h3 id="一些函数"><a href="#一些函数" class="headerlink" title="一些函数"></a>一些函数</h3><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">//点击：</span><br><span class="line">&lt;a href="#test"&gt;Something you should know&lt;/a&gt;</span><br><span class="line">//跳转至：</span><br><span class="line">&lt;a name="test"&gt;用htmla标签实现的锚链接&lt;/a&gt;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">#*1 Anchor Name</span><br><span class="line"></span><br><span class="line">//可以是一级标题、二级、三级···</span><br><span class="line"></span><br><span class="line">[链接的value值，任意名称](#*1 anchor-name)</span><br><span class="line"></span><br></pre></td></tr></tbody></table></figure><span id="more"></span><p>Scikit-learn常用函数</p><p>分类，聚类，回归，降维</p><p><img src="/1606466200981-1606466200982.png" alt="1592955766581"></p><ul><li>了解算法原理</li><li>利用其分析问题</li><li>函数调用，不重复造车</li></ul><h3 id="书籍"><a href="#书籍" class="headerlink" title="书籍"></a>书籍</h3><p><img src="/%5C%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/1606466216833.png" alt="1592955899439"></p><p><img src="/%5C%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/1592955927306-1619591225854.png" alt="1592955927306"></p><p><img src="/2021/05/28/997-gui-dang/100-ren-gong-zhi-neng/ji-qi-xue-xi/1592955939780.png" alt="1592955939780"></p><p><img src="/2021/05/28/997-gui-dang/100-ren-gong-zhi-neng/ji-qi-xue-xi/1592955949508.png" alt="1592955949508"></p><h2 id="sklearn"><a href="#sklearn" class="headerlink" title="sklearn"></a>sklearn</h2><p><img src="/2021/05/28/997-gui-dang/100-ren-gong-zhi-neng/ji-qi-xue-xi/1592955939780.png"></p><p>numpy,scipy,matplotlib,sklearn,PyMySQL,Sklearn,TensorFlow</p><h1 id="end-网站链接："><a href="#end-网站链接：" class="headerlink" title="end-网站链接："></a>end-网站链接：</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> ，</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 编程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 经验 </tag>
+            
+            <tag> python </tag>
             
         </tags>
       
@@ -493,6 +474,33 @@
     
     
     <entry>
+      <title>gitbook</title>
+      <link href="/2021/04/28/998-jian-zhan/gitbook/gitbook/"/>
+      <url>/2021/04/28/998-jian-zhan/gitbook/gitbook/</url>
+      
+        <content type="html"><![CDATA[<h1 id="gitbook"><a href="#gitbook" class="headerlink" title="gitbook"></a>gitbook</h1><p>书不太好用</p><figure class="highlight ruby"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install gitbook-cli -g</span><br></pre></td></tr></tbody></table></figure><span id="more"></span><h1 id="end-网站链接："><a href="#end-网站链接：" class="headerlink" title="end-网站链接："></a>end-网站链接：</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> ，</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 经验 </tag>
+            
+            <tag> gitbook </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>next 主题简介</title>
       <link href="/2021/04/28/998-jian-zhan/bo-ke-shuo-ming-wen-dang/next-zhu-ti/"/>
       <url>/2021/04/28/998-jian-zhan/bo-ke-shuo-ming-wen-dang/next-zhu-ti/</url>
@@ -578,7 +586,7 @@
       <link href="/2021/04/28/998-jian-zhan/bo-ke-shuo-ming-wen-dang/wang-zhan-te-xiao/"/>
       <url>/2021/04/28/998-jian-zhan/bo-ke-shuo-ming-wen-dang/wang-zhan-te-xiao/</url>
       
-        <content type="html"><![CDATA[<h1 id="网站效果"><a href="#网站效果" class="headerlink" title="网站效果"></a>网站效果</h1><p>切换的动画，比较动态的画面。<br>有实时反馈，以后的说明文档也要写成那样。</p><h1 id="点击特效"><a href="#点击特效" class="headerlink" title="点击特效"></a>点击特效</h1><ul><li><input disabled="" type="checkbox"> 点击产生星星</li><li><input disabled="" type="checkbox"> 一个拖尾效果</li><li><input disabled="" type="checkbox"> 粒子吸引效果</li></ul><span id="more"></span><h1 id="宠物"><a href="#宠物" class="headerlink" title="宠物"></a>宠物</h1><p>有个陪伴自己的小站，有些反馈。</p><p>让人没那么孤独。</p><h1 id="主题"><a href="#主题" class="headerlink" title="主题"></a>主题</h1><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">butterfly,改动较多。大佬多</span><br><span class="line">next，当做个人博客挺好的</span><br><span class="line">matery-感觉挺棒的一个。</span><br><span class="line">Theme [Keep v3.4.3](https://github.com/XPoet/hexo-theme-keep)</span><br><span class="line">Theme.[Shoka](https://github.com/amehime/hexo-theme-shoka "Shoka")</span><br><span class="line">[hexo-theme-book](https://github.com/kaiiiz/hexo-theme-book) 😃</span><br></pre></td></tr></tbody></table></figure><h2 id="next"><a href="#next" class="headerlink" title="next"></a>next</h2><p><img src="/2021/04/28/998-jian-zhan/bo-ke-shuo-ming-wen-dang/wang-zhan-te-xiao/20210611193731.png" alt="300"></p><h2 id="matery"><a href="#matery" class="headerlink" title="matery"></a>matery</h2><p><img src="/2021/04/28/998-jian-zhan/bo-ke-shuo-ming-wen-dang/wang-zhan-te-xiao/20210611194109.png" alt="2021"></p><h2 id="Shoka"><a href="#Shoka" class="headerlink" title="Shoka"></a>Shoka</h2><p><img src="/2021/04/28/998-jian-zhan/bo-ke-shuo-ming-wen-dang/wang-zhan-te-xiao/sho.png" alt="sho.png"></p><h2 id="keep"><a href="#keep" class="headerlink" title="keep"></a>keep</h2><p><img src="/2021/04/28/998-jian-zhan/bo-ke-shuo-ming-wen-dang/wang-zhan-te-xiao/123.png" alt="123.png"></p><h2 id="book"><a href="#book" class="headerlink" title="book"></a>book</h2><p><img src="/2021/04/28/998-jian-zhan/bo-ke-shuo-ming-wen-dang/wang-zhan-te-xiao/book.png" alt="book"></p><h2 id="end-网站链接："><a href="#end-网站链接：" class="headerlink" title="end-网站链接："></a>end-网站链接：</h2><p><a href="https://github.com/hamsali">我的github</a> ，<a href="https://hamsali.github.io/">github博客网址</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客网址</a> ，<a href="http://localhost:4000/">本地访问</a> ， </p>]]></content>
+        <content type="html"><![CDATA[<h1 id="网站效果"><a href="#网站效果" class="headerlink" title="网站效果"></a>网站效果</h1><p>切换的动画，比较动态的画面。<br>有实时反馈，以后的说明文档也要写成那样。</p><h1 id="点击特效"><a href="#点击特效" class="headerlink" title="点击特效"></a>点击特效</h1><ul><li><input disabled="" type="checkbox"> 点击产生星星</li><li><input disabled="" type="checkbox"> 一个拖尾效果</li><li><input disabled="" type="checkbox"> 粒子吸引效果</li></ul><span id="more"></span><h1 id="宠物"><a href="#宠物" class="headerlink" title="宠物"></a>宠物</h1><p>有个陪伴自己的小站，有些反馈。</p><p>让人没那么孤独。</p><h1 id="主题"><a href="#主题" class="headerlink" title="主题"></a>主题</h1><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">butterfly,改动较多。大佬多</span><br><span class="line">next，当做个人博客挺好的</span><br><span class="line">matery-感觉挺棒的一个。</span><br><span class="line">Theme [Keep v3.4.3](https://github.com/XPoet/hexo-theme-keep)</span><br><span class="line">Theme.[Shoka](https://github.com/amehime/hexo-theme-shoka "Shoka")</span><br><span class="line">[hexo-theme-book](https://github.com/kaiiiz/hexo-theme-book) 😃</span><br><span class="line">[**hexo-theme-webstack**](https://github.com/HCLonely/hexo-theme-webstack/)</span><br></pre></td></tr></tbody></table></figure><h2 id="next"><a href="#next" class="headerlink" title="next"></a>next</h2><p><img src="/2021/04/28/998-jian-zhan/bo-ke-shuo-ming-wen-dang/wang-zhan-te-xiao/20210611193731.png" alt="300"></p><h2 id="matery"><a href="#matery" class="headerlink" title="matery"></a>matery</h2><p><img src="/2021/04/28/998-jian-zhan/bo-ke-shuo-ming-wen-dang/wang-zhan-te-xiao/20210611194109.png" alt="2021"><br>存在一个问题，置顶</p><figure class="highlight html"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">在'..webstack\layout\common\group.ejs'中</span><br><span class="line"><span class="tag">&lt;<span class="name">a</span> <span class="attr">href</span>=<span class="string">"#"</span> <span class="attr">class</span>=<span class="string">"xe-user-name overflowClip_1"</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">strong</span>&gt;</span>&lt;%= menu.name %&gt;<span class="tag">&lt;/<span class="name">strong</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">a</span>&gt;</span></span><br><span class="line"></span><br><span class="line">应改为：</span><br><span class="line"></span><br><span class="line"><span class="tag">&lt;<span class="name">a</span> <span class="attr">class</span>=<span class="string">"xe-user-name overflowClip_1"</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">strong</span>&gt;</span>&lt;%= menu.name %&gt;<span class="tag">&lt;/<span class="name">strong</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">a</span>&gt;</span></span><br><span class="line"></span><br></pre></td></tr></tbody></table></figure><h2 id="Shoka"><a href="#Shoka" class="headerlink" title="Shoka"></a>Shoka</h2><p><img src="/2021/04/28/998-jian-zhan/bo-ke-shuo-ming-wen-dang/wang-zhan-te-xiao/sho.png" alt="sho.png"></p><h2 id="keep"><a href="#keep" class="headerlink" title="keep"></a>keep</h2><p><img src="/2021/04/28/998-jian-zhan/bo-ke-shuo-ming-wen-dang/wang-zhan-te-xiao/123.png" alt="123.png"></p><h2 id="book"><a href="#book" class="headerlink" title="book"></a>book</h2><p><img src="/2021/04/28/998-jian-zhan/bo-ke-shuo-ming-wen-dang/wang-zhan-te-xiao/book.png" alt="book"></p><h2 id="end-网站链接："><a href="#end-网站链接：" class="headerlink" title="end-网站链接："></a>end-网站链接：</h2><p><a href="https://github.com/hamsali">我的github</a> ，<a href="https://hamsali.github.io/">github博客网址</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客网址</a> ，<a href="http://localhost:4000/">本地访问</a> ， </p>]]></content>
       
       
       <categories>
@@ -593,31 +601,6 @@
             <tag> 教程 </tag>
             
             <tag> 探索 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>古城堡</title>
-      <link href="/2021/04/28/997-gui-dang/gu-shi/zhang-jie/gu-cheng-bao/"/>
-      <url>/2021/04/28/997-gui-dang/gu-shi/zhang-jie/gu-cheng-bao/</url>
-      
-        <content type="html"><![CDATA[<p>小家伙的视角：城堡相遇公主，被打动。<br>偷偷约会，帮忙做家务，陪伴讲故事，主动付出，做牛做马。<br>约会被城堡恶龙发现，城堡巨变开始出现怪兽。</p><h3 id="哄女孩开心"><a href="#哄女孩开心" class="headerlink" title="哄女孩开心"></a>哄女孩开心</h3><p>果然是古堡，私会并不领情。<br>要学会讨女孩子喜欢，但又笨拙。<br>喜欢表现，又处处碰壁。<br>打扫卫生<br>抹桌子，有不干净。<br>到处被吐槽</p><p>一段倾诉，家里的确实。父母不好，很难过，大人是个奇怪的东西。</p><p>牵手，<br>拥抱，亲吻。</p><h3 id="恶龙来袭"><a href="#恶龙来袭" class="headerlink" title="恶龙来袭"></a>恶龙来袭</h3><p>脚步声，公主惊慌失措。恶龙要来了，被它发现会杀了你。快躲起来。</p><p>外观：</p><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p><p><a href="https://www.zhihu.com/people/yue-guang-xia-de-mo-zhu-shi-1/zvideos">知乎</a> <a href="">B站</a> <a href="">微信公众号</a> <a href="">今日头条</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 故事 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 古城堡 </tag>
             
         </tags>
       
@@ -643,6 +626,31 @@
         <tags>
             
             <tag> 与龙之战 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>古城堡</title>
+      <link href="/2021/04/28/997-gui-dang/gu-shi/zhang-jie/gu-cheng-bao/"/>
+      <url>/2021/04/28/997-gui-dang/gu-shi/zhang-jie/gu-cheng-bao/</url>
+      
+        <content type="html"><![CDATA[<p>小家伙的视角：城堡相遇公主，被打动。<br>偷偷约会，帮忙做家务，陪伴讲故事，主动付出，做牛做马。<br>约会被城堡恶龙发现，城堡巨变开始出现怪兽。</p><h3 id="哄女孩开心"><a href="#哄女孩开心" class="headerlink" title="哄女孩开心"></a>哄女孩开心</h3><p>果然是古堡，私会并不领情。<br>要学会讨女孩子喜欢，但又笨拙。<br>喜欢表现，又处处碰壁。<br>打扫卫生<br>抹桌子，有不干净。<br>到处被吐槽</p><p>一段倾诉，家里的确实。父母不好，很难过，大人是个奇怪的东西。</p><p>牵手，<br>拥抱，亲吻。</p><h3 id="恶龙来袭"><a href="#恶龙来袭" class="headerlink" title="恶龙来袭"></a>恶龙来袭</h3><p>脚步声，公主惊慌失措。恶龙要来了，被它发现会杀了你。快躲起来。</p><p>外观：</p><h1 id="end-网站链接"><a href="#end-网站链接" class="headerlink" title="end-网站链接"></a>end-网站链接</h1><p><a href="https://github.com/hamsali">github</a> ，<a href="https://hamsali.github.io/">github博客</a> ，<a href="https://coding-pages-bucket-3532535-8446498-16212-575956-1258136024.cos-website.ap-hongkong.myqcloud.com/">coding博客</a> ，<a href="http://localhost:4000/">本地访问</a> </p><p><a href="https://www.zhihu.com/people/yue-guang-xia-de-mo-zhu-shi-1/zvideos">知乎</a> <a href="">B站</a> <a href="">微信公众号</a> <a href="">今日头条</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 故事 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 古城堡 </tag>
             
         </tags>
       
@@ -714,6 +722,31 @@
     
     
     <entry>
+      <title>故事梦境碎片</title>
+      <link href="/2021/04/28/997-gui-dang/gu-shi/zhang-jie/meng-jing-sui-pian/"/>
+      <url>/2021/04/28/997-gui-dang/gu-shi/zhang-jie/meng-jing-sui-pian/</url>
+      
+        <content type="html"><![CDATA[<h2 id="序：梦之碎片"><a href="#序：梦之碎片" class="headerlink" title="序：梦之碎片"></a>序：梦之碎片</h2><p>女孩（小家伙叫她哎）和男孩（被称小家伙）：角色扮演</p><p>醒来，身边的小姑凉。很可爱</p><p>一起玩耍,相互倾诉，</p><p>做作业，绘画,<br>山水，小姐姐<br>小姐姐回了一副他的画。</p><p>魔法,我会魔法呦。</p><p>告别，有点不舍分离。</p><span id="more"></span><p>小时候，很多人特别孤单。总幻想一个人不能相互陪伴，虽然没有现实的人相似。但，她又是我们所有喜欢人的缩影。<br>你好，小家伙，我一直在你身边。</p><p>门开，出现一个城堡，公主走向城堡。</p><h1 id="第一章古堡"><a href="#第一章古堡" class="headerlink" title="第一章古堡"></a>第一章古堡</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> 故事 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 梦境 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>故事梦醒</title>
       <link href="/2021/04/28/997-gui-dang/gu-shi/zhang-jie/meng-xing/"/>
       <url>/2021/04/28/997-gui-dang/gu-shi/zhang-jie/meng-xing/</url>
@@ -756,31 +789,6 @@
         <tags>
             
             <tag> 黑化之路 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>故事梦境碎片</title>
-      <link href="/2021/04/28/997-gui-dang/gu-shi/zhang-jie/meng-jing-sui-pian/"/>
-      <url>/2021/04/28/997-gui-dang/gu-shi/zhang-jie/meng-jing-sui-pian/</url>
-      
-        <content type="html"><![CDATA[<h2 id="序：梦之碎片"><a href="#序：梦之碎片" class="headerlink" title="序：梦之碎片"></a>序：梦之碎片</h2><p>女孩（小家伙叫她哎）和男孩（被称小家伙）：角色扮演</p><p>醒来，身边的小姑凉。很可爱</p><p>一起玩耍,相互倾诉，</p><p>做作业，绘画,<br>山水，小姐姐<br>小姐姐回了一副他的画。</p><p>魔法,我会魔法呦。</p><p>告别，有点不舍分离。</p><span id="more"></span><p>小时候，很多人特别孤单。总幻想一个人不能相互陪伴，虽然没有现实的人相似。但，她又是我们所有喜欢人的缩影。<br>你好，小家伙，我一直在你身边。</p><p>门开，出现一个城堡，公主走向城堡。</p><h1 id="第一章古堡"><a href="#第一章古堡" class="headerlink" title="第一章古堡"></a>第一章古堡</h1>]]></content>
-      
-      
-      <categories>
-          
-          <category> 故事 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 梦境 </tag>
             
         </tags>
       
